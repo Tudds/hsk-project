@@ -15,11 +15,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 10,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "爫",
+    "pinyin": "ài",
+    "pinyinNormalized": "ai",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "yêu, thương"
   },
   {
     "char": "情",
@@ -38,11 +38,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 11,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "忄",
+    "pinyin": "qíng",
+    "pinyinNormalized": "qing",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "emotion"
   },
   {
     "char": "安",
@@ -56,11 +56,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "宀",
+    "pinyin": "ān",
+    "pinyinNormalized": "an",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "peaceful"
   },
   {
     "char": "排",
@@ -79,11 +79,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 11,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "扌",
+    "pinyin": "pái",
+    "pinyinNormalized": "pai",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "row"
   },
   {
     "char": "全",
@@ -97,11 +97,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "入",
+    "pinyin": "quán",
+    "pinyinNormalized": "quan",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "whole"
   },
   {
     "char": "按",
@@ -118,11 +118,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 9,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "扌",
+    "pinyin": "àn",
+    "pinyinNormalized": "an",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to check"
   },
   {
     "char": "时",
@@ -137,11 +137,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 7,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "日",
+    "pinyin": "shí",
+    "pinyinNormalized": "shi",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "time"
   },
   {
     "char": "照",
@@ -162,11 +162,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 13,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "灬",
+    "pinyin": "zhào",
+    "pinyinNormalized": "zhao",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to shine"
   },
   {
     "char": "百",
@@ -180,11 +180,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "白",
+    "pinyin": "bǎi",
+    "pinyinNormalized": "bai",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "trăm"
   },
   {
     "char": "棒",
@@ -204,11 +204,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 12,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "木",
+    "pinyin": "bàng",
+    "pinyinNormalized": "bang",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "tuyệt, giỏi, cừ"
   },
   {
     "char": "包",
@@ -221,11 +221,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 5,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "勹",
+    "pinyin": "bāo",
+    "pinyinNormalized": "bao",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "túi, bao, bọc"
   },
   {
     "char": "括",
@@ -242,11 +242,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 9,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "扌",
+    "pinyin": "kuò",
+    "pinyinNormalized": "kuo",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to embrace"
   },
   {
     "char": "保",
@@ -263,11 +263,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 9,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "亻",
+    "pinyin": "bǎo",
+    "pinyinNormalized": "bao",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to safeguard"
   },
   {
     "char": "护",
@@ -282,11 +282,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 7,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "扌",
+    "pinyin": "hù",
+    "pinyinNormalized": "hu",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to defend"
   },
   {
     "char": "证",
@@ -301,11 +301,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 7,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "讠",
+    "pinyin": "zhèng",
+    "pinyinNormalized": "zheng",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to prove"
   },
   {
     "char": "抱",
@@ -321,11 +321,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "扌",
+    "pinyin": "bào",
+    "pinyinNormalized": "bao",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to embrace"
   },
   {
     "char": "歉",
@@ -347,11 +347,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 14,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "欠",
+    "pinyin": "qiàn",
+    "pinyinNormalized": "qian",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "deficient"
   },
   {
     "char": "倍",
@@ -369,11 +369,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 10,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "亻",
+    "pinyin": "bèi",
+    "pinyinNormalized": "bei",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "lần (gấp bội)"
   },
   {
     "char": "本",
@@ -386,11 +386,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 5,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "木",
+    "pinyin": "běn",
+    "pinyinNormalized": "ben",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "quyển, cuốn"
   },
   {
     "char": "来",
@@ -405,11 +405,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 7,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "木",
+    "pinyin": "lái",
+    "pinyinNormalized": "lai",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "đến, tới"
   },
   {
     "char": "笔",
@@ -427,11 +427,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 10,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "⺮",
+    "pinyin": "bǐ",
+    "pinyinNormalized": "bi",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "pen"
   },
   {
     "char": "记",
@@ -444,11 +444,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 5,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "讠",
+    "pinyin": "jì",
+    "pinyinNormalized": "ji",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "mark"
   },
   {
     "char": "毕",
@@ -462,11 +462,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "比",
+    "pinyin": "bì",
+    "pinyinNormalized": "bi",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to finish"
   },
   {
     "char": "业",
@@ -479,11 +479,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 5,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "一",
+    "pinyin": "yè",
+    "pinyinNormalized": "ye",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "business"
   },
   {
     "char": "表",
@@ -499,11 +499,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "衣",
+    "pinyin": "biǎo",
+    "pinyinNormalized": "biao",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to show"
   },
   {
     "char": "示",
@@ -516,11 +516,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 5,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "示",
+    "pinyin": "shì",
+    "pinyinNormalized": "shi",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "altar"
   },
   {
     "char": "演",
@@ -542,11 +542,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 14,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "氵",
+    "pinyin": "yǎn",
+    "pinyinNormalized": "yan",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to perform"
   },
   {
     "char": "冰",
@@ -560,11 +560,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "冫",
+    "pinyin": "bīng",
+    "pinyinNormalized": "bing",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "băng, đá"
   },
   {
     "char": "不",
@@ -576,11 +576,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 4,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "一",
+    "pinyin": "bù",
+    "pinyinNormalized": "bu",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "không"
   },
   {
     "char": "得",
@@ -599,11 +599,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 11,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "彳",
+    "pinyin": "dé",
+    "pinyinNormalized": "de",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to obtain"
   },
   {
     "char": "管",
@@ -625,11 +625,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 14,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "⺮",
+    "pinyin": "guǎn",
+    "pinyinNormalized": "guan",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "tube"
   },
   {
     "char": "过",
@@ -643,11 +643,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "辶",
+    "pinyin": "guò",
+    "pinyinNormalized": "guo",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "qua, đi qua"
   },
   {
     "char": "仅",
@@ -659,11 +659,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 4,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "亻",
+    "pinyin": "jǐn",
+    "pinyinNormalized": "jin",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "only"
   },
   {
     "char": "部",
@@ -681,11 +681,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 10,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "阝",
+    "pinyin": "bù",
+    "pinyinNormalized": "bu",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "department"
   },
   {
     "char": "分",
@@ -697,11 +697,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 4,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "刀",
+    "pinyin": "fēn",
+    "pinyinNormalized": "fen",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "phút, điểm"
   },
   {
     "char": "猜",
@@ -720,11 +720,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 11,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "犭",
+    "pinyin": "cāi",
+    "pinyinNormalized": "cai",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "đoán"
   },
   {
     "char": "材",
@@ -739,11 +739,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 7,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "木",
+    "pinyin": "cái",
+    "pinyinNormalized": "cai",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "timber"
   },
   {
     "char": "料",
@@ -761,11 +761,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 10,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "斗",
+    "pinyin": "liào",
+    "pinyinNormalized": "liao",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "ingredients"
   },
   {
     "char": "菜",
@@ -784,11 +784,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 11,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "艹",
+    "pinyin": "cài",
+    "pinyinNormalized": "cai",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "món ăn, rau"
   },
   {
     "char": "单",
@@ -804,11 +804,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "丷",
+    "pinyin": "dān",
+    "pinyinNormalized": "dan",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "single"
   },
   {
     "char": "参",
@@ -824,11 +824,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "厶",
+    "pinyin": "cān",
+    "pinyinNormalized": "can",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to take part in"
   },
   {
     "char": "观",
@@ -842,11 +842,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "见",
+    "pinyin": "guān",
+    "pinyinNormalized": "guan",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to observe"
   },
   {
     "char": "厕",
@@ -862,11 +862,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "厂",
+    "pinyin": "cè",
+    "pinyinNormalized": "ce",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "toilet"
   },
   {
     "char": "所",
@@ -882,11 +882,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "户",
+    "pinyin": "suǒ",
+    "pinyinNormalized": "suo",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "place"
   },
   {
     "char": "曾",
@@ -906,11 +906,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 12,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "曰",
+    "pinyin": "céng",
+    "pinyinNormalized": "ceng",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "already"
   },
   {
     "char": "经",
@@ -926,11 +926,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "纟",
+    "pinyin": "jīng",
+    "pinyinNormalized": "jing",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "the classics"
   },
   {
     "char": "叉",
@@ -941,11 +941,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 3,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "又",
+    "pinyin": "chā",
+    "pinyinNormalized": "cha",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "fork"
   },
   {
     "char": "子",
@@ -956,11 +956,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 3,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "子",
+    "pinyin": "zi",
+    "pinyinNormalized": "zi",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "son"
   },
   {
     "char": "差",
@@ -977,11 +977,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 9,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "工",
+    "pinyin": "chà",
+    "pinyinNormalized": "cha",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "kém, thiếu, chênh lệch"
   },
   {
     "char": "多",
@@ -995,11 +995,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "夕",
+    "pinyin": "duō",
+    "pinyinNormalized": "duo",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "nhiều"
   },
   {
     "char": "产",
@@ -1013,11 +1013,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "亠",
+    "pinyin": "chǎn",
+    "pinyinNormalized": "chan",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to give birth"
   },
   {
     "char": "品",
@@ -1034,11 +1034,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 9,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "口",
+    "pinyin": "pǐn",
+    "pinyinNormalized": "pin",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "article"
   },
   {
     "char": "长",
@@ -1050,11 +1050,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 4,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "长",
+    "pinyin": "cháng",
+    "pinyinNormalized": "chang",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "dài"
   },
   {
     "char": "途",
@@ -1072,11 +1072,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 10,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "辶",
+    "pinyin": "tú",
+    "pinyinNormalized": "tu",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "way"
   },
   {
     "char": "超",
@@ -1096,11 +1096,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 12,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "走",
+    "pinyin": "chāo",
+    "pinyinNormalized": "chao",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to jump over"
   },
   {
     "char": "成",
@@ -1114,11 +1114,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "戈",
+    "pinyin": "chéng",
+    "pinyinNormalized": "cheng",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to accomplish"
   },
   {
     "char": "功",
@@ -1131,11 +1131,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 5,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "力",
+    "pinyin": "gōng",
+    "pinyinNormalized": "gong",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "achievement"
   },
   {
     "char": "为",
@@ -1147,11 +1147,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 4,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "丶",
+    "pinyin": "wèi",
+    "pinyinNormalized": "wei",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to do"
   },
   {
     "char": "乘",
@@ -1169,11 +1169,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 10,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "丿",
+    "pinyin": "chéng",
+    "pinyinNormalized": "cheng",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "ride"
   },
   {
     "char": "坐",
@@ -1188,11 +1188,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 7,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "土",
+    "pinyin": "zuò",
+    "pinyinNormalized": "zuo",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "ngồi"
   },
   {
     "char": "吃",
@@ -1206,11 +1206,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "口",
+    "pinyin": "chī",
+    "pinyinNormalized": "chi",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "ăn"
   },
   {
     "char": "惊",
@@ -1229,11 +1229,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 11,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "忄",
+    "pinyin": "jīng",
+    "pinyinNormalized": "jing",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to frighten"
   },
   {
     "char": "重",
@@ -1250,11 +1250,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 9,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "里",
+    "pinyin": "zhòng",
+    "pinyinNormalized": "zhong",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "heavy"
   },
   {
     "char": "新",
@@ -1275,11 +1275,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 13,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "斤",
+    "pinyin": "xīn",
+    "pinyinNormalized": "xin",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "mới"
   },
   {
     "char": "出",
@@ -1292,11 +1292,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 5,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "凵",
+    "pinyin": "chū",
+    "pinyinNormalized": "chu",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to go out"
   },
   {
     "char": "发",
@@ -1309,11 +1309,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 5,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "又",
+    "pinyin": "fā",
+    "pinyinNormalized": "fa",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to issue"
   },
   {
     "char": "现",
@@ -1329,11 +1329,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "王",
+    "pinyin": "xiàn",
+    "pinyinNormalized": "xian",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to appear"
   },
   {
     "char": "厨",
@@ -1353,11 +1353,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 12,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "厂",
+    "pinyin": "chú",
+    "pinyinNormalized": "chu",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "kitchen"
   },
   {
     "char": "房",
@@ -1373,11 +1373,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "户",
+    "pinyin": "fáng",
+    "pinyinNormalized": "fang",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "building"
   },
   {
     "char": "传",
@@ -1391,11 +1391,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "亻",
+    "pinyin": "chuán",
+    "pinyinNormalized": "chuan",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to pass on"
   },
   {
     "char": "统",
@@ -1412,11 +1412,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 9,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "纟",
+    "pinyin": "tǒng",
+    "pinyinNormalized": "tong",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to govern"
   },
   {
     "char": "窗",
@@ -1436,11 +1436,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 12,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "穴",
+    "pinyin": "chuāng",
+    "pinyinNormalized": "chuang",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "window"
   },
   {
     "char": "户",
@@ -1452,11 +1452,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 4,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "户",
+    "pinyin": "hù",
+    "pinyinNormalized": "hu",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "door"
   },
   {
     "char": "词",
@@ -1471,11 +1471,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 7,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "讠",
+    "pinyin": "cí",
+    "pinyinNormalized": "ci",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "phrase"
   },
   {
     "char": "语",
@@ -1492,11 +1492,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 9,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "讠",
+    "pinyin": "yǔ",
+    "pinyinNormalized": "yu",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "words"
   },
   {
     "char": "存",
@@ -1510,11 +1510,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "子",
+    "pinyin": "cún",
+    "pinyinNormalized": "cun",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to exist"
   },
   {
     "char": "在",
@@ -1528,11 +1528,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "土",
+    "pinyin": "zài",
+    "pinyinNormalized": "zai",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "ở, tại"
   },
   {
     "char": "打",
@@ -1545,11 +1545,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 5,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "扌",
+    "pinyin": "dǎ",
+    "pinyinNormalized": "da",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to attack"
   },
   {
     "char": "折",
@@ -1564,11 +1564,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 7,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "扌",
+    "pinyin": "zhé",
+    "pinyinNormalized": "zhe",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to break"
   },
   {
     "char": "大",
@@ -1579,11 +1579,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 3,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "大",
+    "pinyin": "dà",
+    "pinyinNormalized": "da",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "lớn, to"
   },
   {
     "char": "概",
@@ -1604,11 +1604,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 13,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "木",
+    "pinyin": "gài",
+    "pinyinNormalized": "gai",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "generally"
   },
   {
     "char": "使",
@@ -1624,11 +1624,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "亻",
+    "pinyin": "shǐ",
+    "pinyinNormalized": "shi",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "cause"
   },
   {
     "char": "馆",
@@ -1647,11 +1647,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 11,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "饣",
+    "pinyin": "guǎn",
+    "pinyinNormalized": "guan",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "public building"
   },
   {
     "char": "约",
@@ -1665,11 +1665,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "纟",
+    "pinyin": "yuē",
+    "pinyinNormalized": "yue",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "treaty"
   },
   {
     "char": "印",
@@ -1682,11 +1682,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 5,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "卩",
+    "pinyin": "yìn",
+    "pinyinNormalized": "yin",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "print"
   },
   {
     "char": "代",
@@ -1699,11 +1699,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 5,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "亻",
+    "pinyin": "dài",
+    "pinyinNormalized": "dai",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "era"
   },
   {
     "char": "独",
@@ -1720,11 +1720,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 9,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "犭",
+    "pinyin": "dú",
+    "pinyinNormalized": "du",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "alone"
   },
   {
     "char": "当",
@@ -1738,11 +1738,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "⺌",
+    "pinyin": "dāng",
+    "pinyinNormalized": "dang",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "appropriate"
   },
   {
     "char": "导",
@@ -1756,11 +1756,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "寸",
+    "pinyin": "dǎo",
+    "pinyinNormalized": "dao",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to direct"
   },
   {
     "char": "游",
@@ -1780,11 +1780,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 12,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "氵",
+    "pinyin": "yóu",
+    "pinyinNormalized": "you",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to wander"
   },
   {
     "char": "到",
@@ -1800,11 +1800,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "刂",
+    "pinyin": "dào",
+    "pinyinNormalized": "dao",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to go to"
   },
   {
     "char": "灯",
@@ -1818,11 +1818,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "火",
+    "pinyin": "dēng",
+    "pinyinNormalized": "deng",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "đèn"
   },
   {
     "char": "等",
@@ -1842,11 +1842,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 12,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "⺮",
+    "pinyin": "děng",
+    "pinyinNormalized": "deng",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "đợi, chờ"
   },
   {
     "char": "低",
@@ -1861,11 +1861,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 7,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "亻",
+    "pinyin": "dī",
+    "pinyinNormalized": "di",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "thấp"
   },
   {
     "char": "底",
@@ -1881,11 +1881,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "广",
+    "pinyin": "dǐ",
+    "pinyinNormalized": "di",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "đáy, cuối (thời gian)"
   },
   {
     "char": "点",
@@ -1902,11 +1902,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 9,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "灬",
+    "pinyin": "diǎn",
+    "pinyinNormalized": "dian",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "giờ, điểm"
   },
   {
     "char": "心",
@@ -1918,11 +1918,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 4,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "心",
+    "pinyin": "xīn",
+    "pinyinNormalized": "xin",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "heart"
   },
   {
     "char": "掉",
@@ -1941,11 +1941,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 11,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "扌",
+    "pinyin": "diào",
+    "pinyinNormalized": "diao",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "rơi, mất, rớt"
   },
   {
     "char": "定",
@@ -1961,11 +1961,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "宀",
+    "pinyin": "dìng",
+    "pinyinNormalized": "ding",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "đặt, quyết định, chốt"
   },
   {
     "char": "丢",
@@ -1979,11 +1979,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "一",
+    "pinyin": "diū",
+    "pinyinNormalized": "diu",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "mất, thất lạc, vứt"
   },
   {
     "char": "动",
@@ -1997,11 +1997,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "力",
+    "pinyin": "dòng",
+    "pinyinNormalized": "dong",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to move"
   },
   {
     "char": "作",
@@ -2016,11 +2016,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 7,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "亻",
+    "pinyin": "zuò",
+    "pinyinNormalized": "zuo",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to make"
   },
   {
     "char": "肚",
@@ -2035,11 +2035,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 7,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "⺼",
+    "pinyin": "dù",
+    "pinyinNormalized": "du",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "belly"
   },
   {
     "char": "堆",
@@ -2058,11 +2058,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 11,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "土",
+    "pinyin": "duī",
+    "pinyinNormalized": "dui",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "đống"
   },
   {
     "char": "对",
@@ -2075,11 +2075,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 5,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "寸",
+    "pinyin": "duì",
+    "pinyinNormalized": "dui",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "đúng"
   },
   {
     "char": "面",
@@ -2096,11 +2096,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 9,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "面",
+    "pinyin": "miàn",
+    "pinyinNormalized": "mian",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "face"
   },
   {
     "char": "而",
@@ -2114,11 +2114,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "而",
+    "pinyin": "ér",
+    "pinyinNormalized": "er",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "and"
   },
   {
     "char": "且",
@@ -2131,11 +2131,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 5,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "一",
+    "pinyin": "qiě",
+    "pinyinNormalized": "qie",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "moreover"
   },
   {
     "char": "展",
@@ -2153,11 +2153,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 10,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "尸",
+    "pinyin": "zhǎn",
+    "pinyinNormalized": "zhan",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to open"
   },
   {
     "char": "法",
@@ -2173,11 +2173,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "氵",
+    "pinyin": "fǎ",
+    "pinyinNormalized": "fa",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "law"
   },
   {
     "char": "律",
@@ -2194,11 +2194,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 9,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "彳",
+    "pinyin": "lǜ",
+    "pinyinNormalized": "lu",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "statute"
   },
   {
     "char": "翻",
@@ -2224,11 +2224,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 18,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "羽",
+    "pinyin": "fān",
+    "pinyinNormalized": "fan",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to upset"
   },
   {
     "char": "译",
@@ -2243,11 +2243,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 7,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "讠",
+    "pinyin": "yì",
+    "pinyinNormalized": "yi",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to translate"
   },
   {
     "char": "方",
@@ -2259,11 +2259,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 4,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "方",
+    "pinyin": "fāng",
+    "pinyinNormalized": "fang",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "square"
   },
   {
     "char": "向",
@@ -2277,11 +2277,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "口",
+    "pinyin": "xiàng",
+    "pinyinNormalized": "xiang",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "về phía, hướng về"
   },
   {
     "char": "放",
@@ -2297,11 +2297,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "攵",
+    "pinyin": "fàng",
+    "pinyinNormalized": "fang",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "đặt, để, thả"
   },
   {
     "char": "弃",
@@ -2316,11 +2316,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 7,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "廾",
+    "pinyin": "qì",
+    "pinyinNormalized": "qi",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to abandon"
   },
   {
     "char": "非",
@@ -2336,11 +2336,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "非",
+    "pinyin": "fēi",
+    "pinyinNormalized": "fei",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "not"
   },
   {
     "char": "常",
@@ -2359,11 +2359,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 11,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "巾",
+    "pinyin": "cháng",
+    "pinyinNormalized": "chang",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "common"
   },
   {
     "char": "析",
@@ -2379,11 +2379,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "木",
+    "pinyin": "xī",
+    "pinyinNormalized": "xi",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to split wood"
   },
   {
     "char": "风",
@@ -2395,11 +2395,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 4,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "风",
+    "pinyin": "fēng",
+    "pinyinNormalized": "feng",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "wind"
   },
   {
     "char": "景",
@@ -2419,11 +2419,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 12,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "日",
+    "pinyin": "jǐng",
+    "pinyinNormalized": "jing",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "scenery"
   },
   {
     "char": "服",
@@ -2439,11 +2439,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "月",
+    "pinyin": "fú",
+    "pinyinNormalized": "fu",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "clothes"
   },
   {
     "char": "务",
@@ -2456,11 +2456,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 5,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "夂",
+    "pinyin": "wù",
+    "pinyinNormalized": "wu",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "affairs"
   },
   {
     "char": "符",
@@ -2479,11 +2479,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 11,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "⺮",
+    "pinyin": "fú",
+    "pinyinNormalized": "fu",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "amulet"
   },
   {
     "char": "合",
@@ -2497,11 +2497,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "口",
+    "pinyin": "hé",
+    "pinyinNormalized": "he",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to combine"
   },
   {
     "char": "父",
@@ -2513,11 +2513,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 4,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "父",
+    "pinyin": "fù",
+    "pinyinNormalized": "fu",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "father"
   },
   {
     "char": "母",
@@ -2530,11 +2530,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 5,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "母",
+    "pinyin": "mǔ",
+    "pinyinNormalized": "mu",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "mother"
   },
   {
     "char": "改",
@@ -2549,11 +2549,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 7,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "攵",
+    "pinyin": "gǎi",
+    "pinyinNormalized": "gai",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to alter"
   },
   {
     "char": "变",
@@ -2569,11 +2569,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "又",
+    "pinyin": "biàn",
+    "pinyinNormalized": "bian",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to change"
   },
   {
     "char": "感",
@@ -2594,11 +2594,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 13,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "心",
+    "pinyin": "gǎn",
+    "pinyinNormalized": "gan",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to affect"
   },
   {
     "char": "兴",
@@ -2612,11 +2612,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "八",
+    "pinyin": "xìng",
+    "pinyinNormalized": "xing",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to thrive"
   },
   {
     "char": "趣",
@@ -2639,11 +2639,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 15,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "走",
+    "pinyin": "qù",
+    "pinyinNormalized": "qu",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "interest"
   },
   {
     "char": "各",
@@ -2657,11 +2657,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "口",
+    "pinyin": "gè",
+    "pinyinNormalized": "ge",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "các, mỗi"
   },
   {
     "char": "根",
@@ -2679,11 +2679,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 10,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "木",
+    "pinyin": "gēn",
+    "pinyinNormalized": "gen",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "root"
   },
   {
     "char": "据",
@@ -2702,11 +2702,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 11,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "扌",
+    "pinyin": "jù",
+    "pinyinNormalized": "ju",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to possess"
   },
   {
     "char": "跟",
@@ -2727,11 +2727,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 13,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "足",
+    "pinyin": "gēn",
+    "pinyinNormalized": "gen",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "cùng, với"
   },
   {
     "char": "工",
@@ -2742,11 +2742,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 3,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "工",
+    "pinyin": "gōng",
+    "pinyinNormalized": "gong",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "labor"
   },
   {
     "char": "资",
@@ -2764,11 +2764,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 10,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "贝",
+    "pinyin": "zī",
+    "pinyinNormalized": "zi",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "wealth"
   },
   {
     "char": "共",
@@ -2782,11 +2782,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "八",
+    "pinyin": "gòng",
+    "pinyinNormalized": "gong",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "all"
   },
   {
     "char": "同",
@@ -2800,11 +2800,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "口",
+    "pinyin": "tóng",
+    "pinyinNormalized": "tong",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "same"
   },
   {
     "char": "鼓",
@@ -2825,11 +2825,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 13,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "鼓",
+    "pinyin": "gǔ",
+    "pinyinNormalized": "gu",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "drum"
   },
   {
     "char": "励",
@@ -2844,11 +2844,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 7,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "力",
+    "pinyin": "lì",
+    "pinyinNormalized": "li",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to encourage"
   },
   {
     "char": "顾",
@@ -2866,11 +2866,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 10,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "页",
+    "pinyin": "gù",
+    "pinyinNormalized": "gu",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to look back"
   },
   {
     "char": "客",
@@ -2887,11 +2887,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 9,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "宀",
+    "pinyin": "kè",
+    "pinyinNormalized": "ke",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "guest"
   },
   {
     "char": "挂",
@@ -2908,11 +2908,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 9,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "扌",
+    "pinyin": "guà",
+    "pinyinNormalized": "gua",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "treo, móc"
   },
   {
     "char": "理",
@@ -2931,11 +2931,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 11,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "王",
+    "pinyin": "lǐ",
+    "pinyinNormalized": "li",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "science"
   },
   {
     "char": "光",
@@ -2949,11 +2949,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "儿",
+    "pinyin": "guāng",
+    "pinyinNormalized": "guang",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "ánh sáng"
   },
   {
     "char": "广",
@@ -2964,11 +2964,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 3,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "广",
+    "pinyin": "guǎng",
+    "pinyinNormalized": "guang",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "broad"
   },
   {
     "char": "告",
@@ -2983,11 +2983,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 7,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "口",
+    "pinyin": "gào",
+    "pinyinNormalized": "gao",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to tell"
   },
   {
     "char": "规",
@@ -3003,11 +3003,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "见",
+    "pinyin": "guī",
+    "pinyinNormalized": "gui",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "rules"
   },
   {
     "char": "国",
@@ -3023,11 +3023,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "囗",
+    "pinyin": "guó",
+    "pinyinNormalized": "guo",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "country"
   },
   {
     "char": "际",
@@ -3042,11 +3042,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 7,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "阝",
+    "pinyin": "jì",
+    "pinyinNormalized": "ji",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "border"
   },
   {
     "char": "程",
@@ -3066,11 +3066,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 12,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "禾",
+    "pinyin": "chéng",
+    "pinyinNormalized": "cheng",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "process"
   },
   {
     "char": "海",
@@ -3088,11 +3088,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 10,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "氵",
+    "pinyin": "hǎi",
+    "pinyinNormalized": "hai",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "biển"
   },
   {
     "char": "喊",
@@ -3112,11 +3112,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 12,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "口",
+    "pinyin": "hǎn",
+    "pinyinNormalized": "han",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "hét, gọi, kêu"
   },
   {
     "char": "行",
@@ -3130,11 +3130,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "行",
+    "pinyin": "háng",
+    "pinyinNormalized": "hang",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "hàng, ngành, nghề"
   },
   {
     "char": "好",
@@ -3148,11 +3148,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "女",
+    "pinyin": "hǎo",
+    "pinyinNormalized": "hao",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "tốt, đẹp, khỏe, ngon"
   },
   {
     "char": "处",
@@ -3165,11 +3165,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 5,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "夂",
+    "pinyin": "chù",
+    "pinyinNormalized": "chu",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to reside at"
   },
   {
     "char": "看",
@@ -3186,11 +3186,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 9,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "目",
+    "pinyin": "kàn",
+    "pinyinNormalized": "kan",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "nhìn, xem, đọc"
   },
   {
     "char": "适",
@@ -3207,11 +3207,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 9,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "辶",
+    "pinyin": "shì",
+    "pinyinNormalized": "shi",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "match"
   },
   {
     "char": "互",
@@ -3223,11 +3223,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 4,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "二",
+    "pinyin": "hù",
+    "pinyinNormalized": "hu",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "mutually"
   },
   {
     "char": "联",
@@ -3247,11 +3247,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 12,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "耳",
+    "pinyin": "lián",
+    "pinyinNormalized": "lian",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "ally"
   },
   {
     "char": "网",
@@ -3265,11 +3265,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "网",
+    "pinyin": "wǎng",
+    "pinyinNormalized": "wang",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "net"
   },
   {
     "char": "相",
@@ -3286,11 +3286,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 9,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "目",
+    "pinyin": "xiāng",
+    "pinyinNormalized": "xiang",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "mutual"
   },
   {
     "char": "化",
@@ -3302,11 +3302,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 4,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "匕",
+    "pinyin": "huà",
+    "pinyinNormalized": "hua",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to change"
   },
   {
     "char": "学",
@@ -3322,11 +3322,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "子",
+    "pinyin": "xué",
+    "pinyinNormalized": "xue",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "learning"
   },
   {
     "char": "话",
@@ -3342,11 +3342,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "讠",
+    "pinyin": "huà",
+    "pinyinNormalized": "hua",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "talk"
   },
   {
     "char": "题",
@@ -3369,11 +3369,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 15,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "页",
+    "pinyin": "tí",
+    "pinyinNormalized": "ti",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "đề bài, câu hỏi"
   },
   {
     "char": "怀",
@@ -3388,11 +3388,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 7,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "忄",
+    "pinyin": "huái",
+    "pinyinNormalized": "huai",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "bosom"
   },
   {
     "char": "疑",
@@ -3414,11 +3414,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 14,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "疋",
+    "pinyin": "yí",
+    "pinyinNormalized": "yi",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to doubt"
   },
   {
     "char": "欢",
@@ -3432,11 +3432,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "欠",
+    "pinyin": "huān",
+    "pinyinNormalized": "huan",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "happy"
   },
   {
     "char": "迎",
@@ -3451,11 +3451,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 7,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "辶",
+    "pinyin": "yíng",
+    "pinyinNormalized": "ying",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to welcome"
   },
   {
     "char": "活",
@@ -3472,11 +3472,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 9,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "氵",
+    "pinyin": "huó",
+    "pinyinNormalized": "huo",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to exist"
   },
   {
     "char": "泼",
@@ -3492,11 +3492,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "氵",
+    "pinyin": "pō",
+    "pinyinNormalized": "po",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to pour"
   },
   {
     "char": "火",
@@ -3508,11 +3508,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 4,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "火",
+    "pinyin": "huǒ",
+    "pinyinNormalized": "huo",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "lửa"
   },
   {
     "char": "几",
@@ -3522,11 +3522,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 2,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "几",
+    "pinyin": "jǐ",
+    "pinyinNormalized": "ji",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "mấy, vài"
   },
   {
     "char": "乎",
@@ -3539,11 +3539,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 5,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "丿",
+    "pinyin": "hū",
+    "pinyinNormalized": "hu",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "interrogative or exclamatory final particle"
   },
   {
     "char": "计",
@@ -3555,11 +3555,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 4,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "讠",
+    "pinyin": "jì",
+    "pinyinNormalized": "ji",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to calculate"
   },
   {
     "char": "划",
@@ -3573,11 +3573,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "刂",
+    "pinyin": "huà",
+    "pinyinNormalized": "hua",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to row or paddle a boat"
   },
   {
     "char": "者",
@@ -3593,11 +3593,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "耂",
+    "pinyin": "zhě",
+    "pinyinNormalized": "zhe",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "that which"
   },
   {
     "char": "技",
@@ -3612,11 +3612,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 7,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "扌",
+    "pinyin": "jì",
+    "pinyinNormalized": "ji",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "ability"
   },
   {
     "char": "术",
@@ -3629,11 +3629,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 5,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "木",
+    "pinyin": "shù",
+    "pinyinNormalized": "shu",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "skill"
   },
   {
     "char": "继",
@@ -3651,11 +3651,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 10,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "纟",
+    "pinyin": "jì",
+    "pinyinNormalized": "ji",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to continue"
   },
   {
     "char": "续",
@@ -3674,11 +3674,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 11,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "纟",
+    "pinyin": "xù",
+    "pinyinNormalized": "xu",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "continuous"
   },
   {
     "char": "假",
@@ -3697,11 +3697,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 11,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "亻",
+    "pinyin": "jiǎ",
+    "pinyinNormalized": "jia",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "giả, không thật"
   },
   {
     "char": "建",
@@ -3717,11 +3717,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "廴",
+    "pinyin": "jiàn",
+    "pinyinNormalized": "jian",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to build"
   },
   {
     "char": "立",
@@ -3734,11 +3734,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 5,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "立",
+    "pinyin": "lì",
+    "pinyinNormalized": "li",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to stand"
   },
   {
     "char": "交",
@@ -3752,11 +3752,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "亠",
+    "pinyin": "jiāo",
+    "pinyinNormalized": "jiao",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "kết giao, giao phó, nộp"
   },
   {
     "char": "通",
@@ -3774,11 +3774,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 10,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "辶",
+    "pinyin": "tōng",
+    "pinyinNormalized": "tong",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to pass through"
   },
   {
     "char": "骄",
@@ -3795,11 +3795,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 9,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "马",
+    "pinyin": "jiāo",
+    "pinyinNormalized": "jiao",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "haughty"
   },
   {
     "char": "傲",
@@ -3819,11 +3819,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 12,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "亻",
+    "pinyin": "ào",
+    "pinyinNormalized": "ao",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "proud"
   },
   {
     "char": "节",
@@ -3836,11 +3836,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 5,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "艹",
+    "pinyin": "jié",
+    "pinyinNormalized": "jie",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "festival"
   },
   {
     "char": "日",
@@ -3852,11 +3852,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 4,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "日",
+    "pinyin": "rì",
+    "pinyinNormalized": "ri",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "ngày"
   },
   {
     "char": "解",
@@ -3877,11 +3877,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 13,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "角",
+    "pinyin": "jiě",
+    "pinyinNormalized": "jie",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to explain"
   },
   {
     "char": "决",
@@ -3895,11 +3895,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "冫",
+    "pinyin": "jué",
+    "pinyinNormalized": "jue",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to decide"
   },
   {
     "char": "禁",
@@ -3920,11 +3920,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 13,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "示",
+    "pinyin": "jìn",
+    "pinyinNormalized": "jin",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to restrict"
   },
   {
     "char": "止",
@@ -3936,11 +3936,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 4,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "止",
+    "pinyin": "zhǐ",
+    "pinyinNormalized": "zhi",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to stop"
   },
   {
     "char": "济",
@@ -3957,11 +3957,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 9,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "氵",
+    "pinyin": "jì",
+    "pinyinNormalized": "ji",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to aid"
   },
   {
     "char": "验",
@@ -3979,11 +3979,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 10,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "马",
+    "pinyin": "yàn",
+    "pinyinNormalized": "yan",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to examine"
   },
   {
     "char": "精",
@@ -4005,11 +4005,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 14,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "米",
+    "pinyin": "jīng",
+    "pinyinNormalized": "jing",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "essence"
   },
   {
     "char": "彩",
@@ -4028,11 +4028,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 11,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "彡",
+    "pinyin": "cǎi",
+    "pinyinNormalized": "cai",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "color"
   },
   {
     "char": "竟",
@@ -4051,11 +4051,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 11,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "立",
+    "pinyin": "jìng",
+    "pinyinNormalized": "jing",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "finally"
   },
   {
     "char": "然",
@@ -4075,11 +4075,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 12,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "灬",
+    "pinyin": "rán",
+    "pinyinNormalized": "ran",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "certainly"
   },
   {
     "char": "举",
@@ -4096,11 +4096,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 9,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "丶",
+    "pinyin": "jǔ",
+    "pinyinNormalized": "ju",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to raise"
   },
   {
     "char": "办",
@@ -4112,11 +4112,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 4,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "力",
+    "pinyin": "bàn",
+    "pinyinNormalized": "ban",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to set up"
   },
   {
     "char": "距",
@@ -4135,11 +4135,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 11,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "足",
+    "pinyin": "jù",
+    "pinyinNormalized": "ju",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "distance"
   },
   {
     "char": "离",
@@ -4157,11 +4157,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 10,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "禸",
+    "pinyin": "lí",
+    "pinyinNormalized": "li",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "cách, cách xa"
   },
   {
     "char": "开",
@@ -4173,11 +4173,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 4,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "廾",
+    "pinyin": "kāi",
+    "pinyinNormalized": "kai",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "mở, lái (xe)"
   },
   {
     "char": "科",
@@ -4194,11 +4194,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 9,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "禾",
+    "pinyin": "kē",
+    "pinyinNormalized": "ke",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "section"
   },
   {
     "char": "可",
@@ -4211,11 +4211,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 5,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "口",
+    "pinyin": "kě",
+    "pinyinNormalized": "ke",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "may"
   },
   {
     "char": "人",
@@ -4225,11 +4225,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 2,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "人",
+    "pinyin": "rén",
+    "pinyinNormalized": "ren",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "người"
   },
   {
     "char": "困",
@@ -4244,11 +4244,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 7,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "囗",
+    "pinyin": "kùn",
+    "pinyinNormalized": "kun",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "buồn ngủ"
   },
   {
     "char": "难",
@@ -4266,11 +4266,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 10,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "又",
+    "pinyin": "nán",
+    "pinyinNormalized": "nan",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "khó"
   },
   {
     "char": "拉",
@@ -4286,11 +4286,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "扌",
+    "pinyin": "lā",
+    "pinyinNormalized": "la",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "kéo, lôi"
   },
   {
     "char": "垃",
@@ -4306,11 +4306,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "土",
+    "pinyin": "lā",
+    "pinyinNormalized": "la",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "garbage"
   },
   {
     "char": "圾",
@@ -4324,11 +4324,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "土",
+    "pinyin": "jī",
+    "pinyinNormalized": "ji",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "garbage"
   },
   {
     "char": "桶",
@@ -4347,11 +4347,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 11,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "木",
+    "pinyin": "tǒng",
+    "pinyinNormalized": "tong",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "bucket"
   },
   {
     "char": "及",
@@ -4362,11 +4362,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 3,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "又",
+    "pinyin": "jí",
+    "pinyinNormalized": "ji",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to extend"
   },
   {
     "char": "自",
@@ -4380,11 +4380,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "自",
+    "pinyin": "zì",
+    "pinyinNormalized": "zi",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "self"
   },
   {
     "char": "懒",
@@ -4408,11 +4408,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 16,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "忄",
+    "pinyin": "lǎn",
+    "pinyinNormalized": "lan",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "lười, lười biếng"
   },
   {
     "char": "浪",
@@ -4430,11 +4430,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 10,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "氵",
+    "pinyin": "làng",
+    "pinyinNormalized": "lang",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "breaker"
   },
   {
     "char": "费",
@@ -4451,11 +4451,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 9,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "贝",
+    "pinyin": "fèi",
+    "pinyinNormalized": "fei",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "expenses"
   },
   {
     "char": "漫",
@@ -4477,11 +4477,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 14,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "氵",
+    "pinyin": "màn",
+    "pinyinNormalized": "man",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "inundating"
   },
   {
     "char": "老",
@@ -4495,11 +4495,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "老",
+    "pinyin": "lǎo",
+    "pinyinNormalized": "lao",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "già, cũ, lâu năm"
   },
   {
     "char": "虎",
@@ -4515,11 +4515,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "虎",
+    "pinyin": "hǔ",
+    "pinyinNormalized": "hu",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "tiger"
   },
   {
     "char": "了",
@@ -4529,11 +4529,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 2,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "亅",
+    "pinyin": "le",
+    "pinyinNormalized": "le",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "rồi (trợ từ biểu thị sự thay đổi hoặc hoàn thành)"
   },
   {
     "char": "邻",
@@ -4548,11 +4548,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 7,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "阝",
+    "pinyin": "lín",
+    "pinyinNormalized": "lin",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "neighbor"
   },
   {
     "char": "居",
@@ -4568,11 +4568,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "户",
+    "pinyin": "jū",
+    "pinyinNormalized": "ju",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to live"
   },
   {
     "char": "龙",
@@ -4585,11 +4585,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 5,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "龙",
+    "pinyin": "lóng",
+    "pinyinNormalized": "long",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "con rồng"
   },
   {
     "char": "聊",
@@ -4608,11 +4608,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 11,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "耳",
+    "pinyin": "liáo",
+    "pinyinNormalized": "liao",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "somewhat"
   },
   {
     "char": "天",
@@ -4624,11 +4624,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 4,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "大",
+    "pinyin": "tiān",
+    "pinyinNormalized": "tian",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "sky"
   },
   {
     "char": "麻",
@@ -4647,11 +4647,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 11,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "麻",
+    "pinyin": "má",
+    "pinyinNormalized": "ma",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "hemp"
   },
   {
     "char": "烦",
@@ -4669,11 +4669,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 10,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "火",
+    "pinyin": "fán",
+    "pinyinNormalized": "fan",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to bother"
   },
   {
     "char": "目",
@@ -4686,11 +4686,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 5,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "目",
+    "pinyin": "mù",
+    "pinyinNormalized": "mu",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "eye"
   },
   {
     "char": "的",
@@ -4706,11 +4706,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "白",
+    "pinyin": "de",
+    "pinyinNormalized": "de",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "trợ từ (của...)"
   },
   {
     "char": "秘",
@@ -4728,11 +4728,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 10,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "禾",
+    "pinyin": "mì",
+    "pinyinNormalized": "mi",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "secret"
   },
   {
     "char": "书",
@@ -4744,11 +4744,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 4,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "丨",
+    "pinyin": "shū",
+    "pinyinNormalized": "shu",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "sách"
   },
   {
     "char": "免",
@@ -4763,11 +4763,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 7,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "儿",
+    "pinyin": "miǎn",
+    "pinyinNormalized": "mian",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to spare"
   },
   {
     "char": "哪",
@@ -4784,11 +4784,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 9,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "口",
+    "pinyin": "nǎ",
+    "pinyinNormalized": "na",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "nào"
   },
   {
     "char": "怕",
@@ -4804,11 +4804,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "忄",
+    "pinyin": "pà",
+    "pinyinNormalized": "pa",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to fear"
   },
   {
     "char": "耐",
@@ -4825,11 +4825,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 9,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "而",
+    "pinyin": "nài",
+    "pinyinNormalized": "nai",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to resist"
   },
   {
     "char": "道",
@@ -4849,11 +4849,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 12,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "辶",
+    "pinyin": "dào",
+    "pinyinNormalized": "dao",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "method"
   },
   {
     "char": "内",
@@ -4865,11 +4865,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 4,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "入",
+    "pinyin": "nèi",
+    "pinyinNormalized": "nei",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "inside"
   },
   {
     "char": "容",
@@ -4887,11 +4887,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 10,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "宀",
+    "pinyin": "róng",
+    "pinyinNormalized": "rong",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "appearance"
   },
   {
     "char": "普",
@@ -4911,11 +4911,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 12,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "日",
+    "pinyin": "pǔ",
+    "pinyinNormalized": "pu",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "widespread"
   },
   {
     "char": "其",
@@ -4931,11 +4931,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "八",
+    "pinyin": "qí",
+    "pinyinNormalized": "qi",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "his"
   },
   {
     "char": "实",
@@ -4951,11 +4951,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "宀",
+    "pinyin": "shí",
+    "pinyinNormalized": "shi",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "real"
   },
   {
     "char": "他",
@@ -4968,11 +4968,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 5,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "亻",
+    "pinyin": "tā",
+    "pinyinNormalized": "ta",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "anh ấy, ông ấy"
   },
   {
     "char": "奇",
@@ -4988,11 +4988,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "大",
+    "pinyin": "qí",
+    "pinyinNormalized": "qi",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "strange"
   },
   {
     "char": "怪",
@@ -5008,11 +5008,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "忄",
+    "pinyin": "guài",
+    "pinyinNormalized": "guai",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "unusual"
   },
   {
     "char": "亲",
@@ -5029,11 +5029,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 9,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "立",
+    "pinyin": "qīn",
+    "pinyinNormalized": "qin",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "relatives"
   },
   {
     "char": "戚",
@@ -5052,11 +5052,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 11,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "戈",
+    "pinyin": "qī",
+    "pinyinNormalized": "qi",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "ashamed"
   },
   {
     "char": "况",
@@ -5071,11 +5071,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 7,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "冫",
+    "pinyin": "kuàng",
+    "pinyinNormalized": "kuang",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "condition"
   },
   {
     "char": "穷",
@@ -5090,11 +5090,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 7,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "穴",
+    "pinyin": "qióng",
+    "pinyinNormalized": "qiong",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "nghèo, thiếu thốn"
   },
   {
     "char": "热",
@@ -5112,11 +5112,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 10,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "灬",
+    "pinyin": "rè",
+    "pinyinNormalized": "re",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "nóng"
   },
   {
     "char": "认",
@@ -5128,11 +5128,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 4,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "讠",
+    "pinyin": "rèn",
+    "pinyinNormalized": "ren",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to know"
   },
   {
     "char": "真",
@@ -5150,11 +5150,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 10,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "目",
+    "pinyin": "zhēn",
+    "pinyinNormalized": "zhen",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "thật, thật là"
   },
   {
     "char": "任",
@@ -5168,11 +5168,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "亻",
+    "pinyin": "rèn",
+    "pinyinNormalized": "ren",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to trust"
   },
   {
     "char": "何",
@@ -5187,11 +5187,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 7,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "亻",
+    "pinyin": "hé",
+    "pinyinNormalized": "he",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "what"
   },
   {
     "char": "散",
@@ -5211,11 +5211,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 12,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "攵",
+    "pinyin": "sàn",
+    "pinyinNormalized": "san",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to scatter"
   },
   {
     "char": "步",
@@ -5230,11 +5230,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 7,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "止",
+    "pinyin": "bù",
+    "pinyinNormalized": "bu",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "walk"
   },
   {
     "char": "上",
@@ -5245,11 +5245,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 3,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "一",
+    "pinyin": "shàng",
+    "pinyinNormalized": "shang",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "lên, đi lên"
   },
   {
     "char": "社",
@@ -5264,11 +5264,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 7,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "礻",
+    "pinyin": "shè",
+    "pinyinNormalized": "she",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "group"
   },
   {
     "char": "会",
@@ -5282,11 +5282,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "人",
+    "pinyin": "huì",
+    "pinyinNormalized": "hui",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "biết (thông qua học tập), sẽ"
   },
   {
     "char": "申",
@@ -5299,11 +5299,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 5,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "田",
+    "pinyin": "shēn",
+    "pinyinNormalized": "shen",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to report"
   },
   {
     "char": "请",
@@ -5321,11 +5321,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 10,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "讠",
+    "pinyin": "qǐng",
+    "pinyinNormalized": "qing",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "mời"
   },
   {
     "char": "甚",
@@ -5342,11 +5342,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 9,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "甘",
+    "pinyin": "shén",
+    "pinyinNormalized": "shen",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "considerably"
   },
   {
     "char": "至",
@@ -5360,11 +5360,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "至",
+    "pinyin": "zhì",
+    "pinyinNormalized": "zhi",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "reach"
   },
   {
     "char": "生",
@@ -5377,11 +5377,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 5,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "生",
+    "pinyin": "shēng",
+    "pinyinNormalized": "sheng",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "life"
   },
   {
     "char": "失",
@@ -5394,11 +5394,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 5,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "大",
+    "pinyin": "shī",
+    "pinyinNormalized": "shi",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to lose"
   },
   {
     "char": "去",
@@ -5411,11 +5411,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 5,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "厶",
+    "pinyin": "qù",
+    "pinyinNormalized": "qu",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "đi"
   },
   {
     "char": "食",
@@ -5432,11 +5432,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 9,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "食",
+    "pinyin": "shí",
+    "pinyinNormalized": "shi",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "food"
   },
   {
     "char": "物",
@@ -5452,11 +5452,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "牛",
+    "pinyin": "wù",
+    "pinyinNormalized": "wu",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "thing"
   },
   {
     "char": "收",
@@ -5470,11 +5470,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "攵",
+    "pinyin": "shōu",
+    "pinyinNormalized": "shou",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to collect"
   },
   {
     "char": "入",
@@ -5484,11 +5484,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 2,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "入",
+    "pinyin": "rù",
+    "pinyinNormalized": "ru",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to enter"
   },
   {
     "char": "首",
@@ -5505,11 +5505,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 9,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "首",
+    "pinyin": "shǒu",
+    "pinyinNormalized": "shou",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "chief"
   },
   {
     "char": "先",
@@ -5523,11 +5523,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "儿",
+    "pinyin": "xiān",
+    "pinyinNormalized": "xian",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "trước"
   },
   {
     "char": "受",
@@ -5543,11 +5543,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "又",
+    "pinyin": "shòu",
+    "pinyinNormalized": "shou",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to receive"
   },
   {
     "char": "暑",
@@ -5567,11 +5567,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 12,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "日",
+    "pinyin": "shǔ",
+    "pinyinNormalized": "shu",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "hot"
   },
   {
     "char": "数",
@@ -5592,11 +5592,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 13,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "攵",
+    "pinyin": "shù",
+    "pinyinNormalized": "shu",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "count"
   },
   {
     "char": "量",
@@ -5616,11 +5616,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 12,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "里",
+    "pinyin": "liàng",
+    "pinyinNormalized": "liang",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "measure"
   },
   {
     "char": "说",
@@ -5637,11 +5637,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 9,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "讠",
+    "pinyin": "shuō",
+    "pinyinNormalized": "shuo",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "nói"
   },
   {
     "char": "明",
@@ -5657,11 +5657,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "日",
+    "pinyin": "míng",
+    "pinyinNormalized": "ming",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "bright"
   },
   {
     "char": "顺",
@@ -5678,11 +5678,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 9,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "页",
+    "pinyin": "shùn",
+    "pinyinNormalized": "shun",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to submit to"
   },
   {
     "char": "序",
@@ -5697,11 +5697,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 7,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "广",
+    "pinyin": "xù",
+    "pinyinNormalized": "xu",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "order"
   },
   {
     "char": "随",
@@ -5720,11 +5720,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 11,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "阝",
+    "pinyin": "suí",
+    "pinyinNormalized": "sui",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to follow"
   },
   {
     "char": "便",
@@ -5741,11 +5741,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 9,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "亻",
+    "pinyin": "biàn",
+    "pinyinNormalized": "bian",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "easy"
   },
   {
     "char": "着",
@@ -5764,11 +5764,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 11,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "目",
+    "pinyin": "zhe",
+    "pinyinNormalized": "zhe",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "(trợ từ biểu thị trạng thái đang tiếp diễn)"
   },
   {
     "char": "态",
@@ -5784,11 +5784,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "心",
+    "pinyin": "tài",
+    "pinyinNormalized": "tai",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "manner"
   },
   {
     "char": "度",
@@ -5805,11 +5805,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 9,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "广",
+    "pinyin": "dù",
+    "pinyinNormalized": "du",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "degree"
   },
   {
     "char": "讨",
@@ -5822,11 +5822,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 5,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "讠",
+    "pinyin": "tǎo",
+    "pinyinNormalized": "tao",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to haggle"
   },
   {
     "char": "论",
@@ -5840,11 +5840,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "讠",
+    "pinyin": "lùn",
+    "pinyinNormalized": "lun",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "debate"
   },
   {
     "char": "厌",
@@ -5858,11 +5858,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "厂",
+    "pinyin": "yàn",
+    "pinyinNormalized": "yan",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to dislike"
   },
   {
     "char": "提",
@@ -5882,11 +5882,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 12,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "扌",
+    "pinyin": "tí",
+    "pinyinNormalized": "ti",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to hold in the hand"
   },
   {
     "char": "供",
@@ -5902,11 +5902,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "亻",
+    "pinyin": "gōng",
+    "pinyinNormalized": "gong",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to supply"
   },
   {
     "char": "前",
@@ -5923,11 +5923,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 9,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "刂",
+    "pinyin": "qián",
+    "pinyinNormalized": "qian",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "in front"
   },
   {
     "char": "问",
@@ -5941,11 +5941,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "门",
+    "pinyin": "wèn",
+    "pinyinNormalized": "wen",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to ask about"
   },
   {
     "char": "体",
@@ -5960,11 +5960,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 7,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "亻",
+    "pinyin": "tǐ",
+    "pinyinNormalized": "ti",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "body"
   },
   {
     "char": "育",
@@ -5980,11 +5980,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "⺼",
+    "pinyin": "yù",
+    "pinyinNormalized": "yu",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to produce"
   },
   {
     "char": "知",
@@ -6000,11 +6000,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "矢",
+    "pinyin": "zhī",
+    "pinyinNormalized": "zhi",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to know"
   },
   {
     "char": "头",
@@ -6017,11 +6017,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 5,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "大",
+    "pinyin": "tóu",
+    "pinyinNormalized": "tou",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "head"
   },
   {
     "char": "突",
@@ -6038,11 +6038,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 9,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "穴",
+    "pinyin": "tū",
+    "pinyinNormalized": "tu",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "sudden"
   },
   {
     "char": "站",
@@ -6060,11 +6060,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 10,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "立",
+    "pinyin": "zhàn",
+    "pinyinNormalized": "zhan",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "đứng"
   },
   {
     "char": "卫",
@@ -6075,11 +6075,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 3,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "乛",
+    "pinyin": "wèi",
+    "pinyinNormalized": "wei",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to guard"
   },
   {
     "char": "间",
@@ -6094,11 +6094,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 7,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "门",
+    "pinyin": "jiān",
+    "pinyinNormalized": "jian",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "between"
   },
   {
     "char": "温",
@@ -6118,11 +6118,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 12,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "氵",
+    "pinyin": "wēn",
+    "pinyinNormalized": "wen",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "warm"
   },
   {
     "char": "文",
@@ -6134,11 +6134,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 4,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "文",
+    "pinyin": "wén",
+    "pinyinNormalized": "wen",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "culture"
   },
   {
     "char": "章",
@@ -6157,11 +6157,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 11,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "立",
+    "pinyin": "zhāng",
+    "pinyinNormalized": "zhang",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "chapter"
   },
   {
     "char": "污",
@@ -6175,11 +6175,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "氵",
+    "pinyin": "wū",
+    "pinyinNormalized": "wu",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "filthy"
   },
   {
     "char": "染",
@@ -6196,11 +6196,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 9,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "木",
+    "pinyin": "rǎn",
+    "pinyinNormalized": "ran",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "dye"
   },
   {
     "char": "无",
@@ -6212,11 +6212,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 4,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "无",
+    "pinyin": "wú",
+    "pinyinNormalized": "wu",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "no"
   },
   {
     "char": "西",
@@ -6230,11 +6230,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "西",
+    "pinyin": "xī",
+    "pinyinNormalized": "xi",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "phía Tây"
   },
   {
     "char": "红",
@@ -6248,11 +6248,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "纟",
+    "pinyin": "hóng",
+    "pinyinNormalized": "hong",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "red"
   },
   {
     "char": "柿",
@@ -6269,11 +6269,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 9,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "木",
+    "pinyin": "shì",
+    "pinyinNormalized": "shi",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "persimmon"
   },
   {
     "char": "习",
@@ -6284,11 +6284,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 3,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "冫",
+    "pinyin": "xí",
+    "pinyinNormalized": "xi",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to study"
   },
   {
     "char": "惯",
@@ -6307,11 +6307,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 11,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "忄",
+    "pinyin": "guàn",
+    "pinyinNormalized": "guan",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "habit"
   },
   {
     "char": "下",
@@ -6322,11 +6322,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 3,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "一",
+    "pinyin": "xià",
+    "pinyinNormalized": "xia",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "below"
   },
   {
     "char": "载",
@@ -6344,11 +6344,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 10,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "戈",
+    "pinyin": "zài",
+    "pinyinNormalized": "zai",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "load"
   },
   {
     "char": "信",
@@ -6365,11 +6365,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 9,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "亻",
+    "pinyin": "xìn",
+    "pinyinNormalized": "xin",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "thư"
   },
   {
     "char": "详",
@@ -6385,11 +6385,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "讠",
+    "pinyin": "xiáng",
+    "pinyinNormalized": "xiang",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "complete"
   },
   {
     "char": "细",
@@ -6405,11 +6405,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "纟",
+    "pinyin": "xì",
+    "pinyinNormalized": "xi",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "fine"
   },
   {
     "char": "消",
@@ -6427,11 +6427,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 10,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "氵",
+    "pinyin": "xiāo",
+    "pinyinNormalized": "xiao",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "news"
   },
   {
     "char": "息",
@@ -6449,11 +6449,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 10,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "心",
+    "pinyin": "xī",
+    "pinyinNormalized": "xi",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to end"
   },
   {
     "char": "小",
@@ -6464,11 +6464,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 3,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "小",
+    "pinyin": "xiǎo",
+    "pinyinNormalized": "xiao",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "nhỏ, bé"
   },
   {
     "char": "效",
@@ -6486,11 +6486,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 10,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "攵",
+    "pinyin": "xiào",
+    "pinyinNormalized": "xiao",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "result"
   },
   {
     "char": "果",
@@ -6506,11 +6506,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "木",
+    "pinyin": "guǒ",
+    "pinyinNormalized": "guo",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "fruit"
   },
   {
     "char": "辛",
@@ -6525,11 +6525,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 7,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "辛",
+    "pinyin": "xīn",
+    "pinyinNormalized": "xin",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "bitter"
   },
   {
     "char": "苦",
@@ -6545,11 +6545,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "艹",
+    "pinyin": "kǔ",
+    "pinyinNormalized": "ku",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "bitter"
   },
   {
     "char": "幸",
@@ -6565,11 +6565,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "干",
+    "pinyin": "xìng",
+    "pinyinNormalized": "xing",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "favor"
   },
   {
     "char": "福",
@@ -6590,11 +6590,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 13,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "礻",
+    "pinyin": "fú",
+    "pinyinNormalized": "fu",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "happiness"
   },
   {
     "char": "修",
@@ -6611,11 +6611,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 9,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "亻",
+    "pinyin": "xiū",
+    "pinyinNormalized": "xiu",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "sửa chữa, tu bổ"
   },
   {
     "char": "许",
@@ -6629,11 +6629,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "讠",
+    "pinyin": "xǔ",
+    "pinyinNormalized": "xu",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to consent"
   },
   {
     "char": "养",
@@ -6650,11 +6650,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 9,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "丷",
+    "pinyin": "yǎng",
+    "pinyinNormalized": "yang",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to raise"
   },
   {
     "char": "页",
@@ -6668,11 +6668,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "页",
+    "pinyin": "yè",
+    "pinyinNormalized": "ye",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "trang, tờ"
   },
   {
     "char": "以",
@@ -6684,11 +6684,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 4,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "人",
+    "pinyin": "yǐ",
+    "pinyinNormalized": "yi",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "according to"
   },
   {
     "char": "后",
@@ -6702,11 +6702,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "口",
+    "pinyin": "hòu",
+    "pinyinNormalized": "hou",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "after"
   },
   {
     "char": "一",
@@ -6715,11 +6715,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 1,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "一",
+    "pinyin": "yī",
+    "pinyinNormalized": "yi",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "một"
   },
   {
     "char": "般",
@@ -6737,11 +6737,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 10,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "舟",
+    "pinyin": "bān",
+    "pinyinNormalized": "ban",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "sort"
   },
   {
     "char": "边",
@@ -6754,11 +6754,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 5,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "辶",
+    "pinyin": "biān",
+    "pinyinNormalized": "bian",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "border"
   },
   {
     "char": "儿",
@@ -6768,11 +6768,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 2,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "儿",
+    "pinyin": "ér",
+    "pinyinNormalized": "er",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "son"
   },
   {
     "char": "意",
@@ -6793,11 +6793,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 13,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "心",
+    "pinyin": "yì",
+    "pinyinNormalized": "yi",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "thought"
   },
   {
     "char": "见",
@@ -6809,11 +6809,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 4,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "见",
+    "pinyin": "jiàn",
+    "pinyinNormalized": "jian",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to see"
   },
   {
     "char": "有",
@@ -6827,11 +6827,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "月",
+    "pinyin": "yǒu",
+    "pinyinNormalized": "you",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "có"
   },
   {
     "char": "言",
@@ -6846,11 +6846,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 7,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "言",
+    "pinyin": "yán",
+    "pinyinNormalized": "yan",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "words"
   },
   {
     "char": "暂",
@@ -6870,11 +6870,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 12,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "日",
+    "pinyin": "zàn",
+    "pinyinNormalized": "zan",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "temporary"
   },
   {
     "char": "增",
@@ -6897,11 +6897,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 15,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "土",
+    "pinyin": "zēng",
+    "pinyinNormalized": "zeng",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to increase"
   },
   {
     "char": "加",
@@ -6914,11 +6914,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 5,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "力",
+    "pinyin": "jiā",
+    "pinyinNormalized": "jia",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to add to"
   },
   {
     "char": "占",
@@ -6931,11 +6931,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 5,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "⺊",
+    "pinyin": "zhàn",
+    "pinyinNormalized": "zhan",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "chiếm, chiếm giữ"
   },
   {
     "char": "片",
@@ -6947,11 +6947,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 4,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "片",
+    "pinyin": "piàn",
+    "pinyinNormalized": "pian",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "slice"
   },
   {
     "char": "机",
@@ -6965,11 +6965,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 6,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "木",
+    "pinyin": "jī",
+    "pinyinNormalized": "ji",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "desk"
   },
   {
     "char": "正",
@@ -6982,11 +6982,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 5,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "止",
+    "pinyin": "zhèng",
+    "pinyinNormalized": "zheng",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "straight"
   },
   {
     "char": "确",
@@ -7006,11 +7006,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 12,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "石",
+    "pinyin": "què",
+    "pinyinNormalized": "que",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "certain"
   },
   {
     "char": "整",
@@ -7034,11 +7034,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 16,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "攵",
+    "pinyin": "zhěng",
+    "pinyinNormalized": "zheng",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "neat"
   },
   {
     "char": "只",
@@ -7051,11 +7051,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 5,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "口",
+    "pinyin": "zhī",
+    "pinyinNormalized": "zhi",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "only"
   },
   {
     "char": "质",
@@ -7071,11 +7071,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "厂",
+    "pinyin": "zhì",
+    "pinyinNormalized": "zhi",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "essence"
   },
   {
     "char": "准",
@@ -7093,11 +7093,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 10,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "冫",
+    "pinyin": "zhǔn",
+    "pinyinNormalized": "zhun",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "standard"
   },
   {
     "char": "备",
@@ -7113,11 +7113,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 8,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "夂",
+    "pinyin": "bèi",
+    "pinyinNormalized": "bei",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to prepare"
   },
   {
     "char": "仔",
@@ -7130,11 +7130,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 5,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "亻",
+    "pinyin": "zǐ",
+    "pinyinNormalized": "zi",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "small thing"
   },
   {
     "char": "总",
@@ -7151,11 +7151,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 9,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "心",
+    "pinyin": "zǒng",
+    "pinyinNormalized": "zong",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "to gather"
   },
   {
     "char": "结",
@@ -7172,11 +7172,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 9,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "纟",
+    "pinyin": "jié",
+    "pinyinNormalized": "jie",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "knot"
   },
   {
     "char": "租",
@@ -7194,11 +7194,11 @@
     ],
     "hskLevel": 3,
     "strokeCount": 10,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "禾",
+    "pinyin": "zū",
+    "pinyinNormalized": "zu",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "thuê"
   },
   {
     "char": "最",
@@ -7218,10 +7218,10 @@
     ],
     "hskLevel": 3,
     "strokeCount": 12,
-    "radical": null,
-    "pinyin": "",
-    "pinyinNormalized": null,
+    "radical": "曰",
+    "pinyin": "zuì",
+    "pinyinNormalized": "zui",
     "definition": null,
-    "definitionVi": null
+    "definitionVi": "nhất"
   }
 ]

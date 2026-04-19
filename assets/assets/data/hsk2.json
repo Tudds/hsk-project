@@ -1,6 +1,6 @@
 [
   {
-    "id": "hsk2_0000",
+    "id": "hsk2_啊",
     "hanzi": "啊",
     "pinyin": "ā",
     "pinyinNormalized": "a",
@@ -14,7 +14,6 @@
         "en": "ah, hey, oh"
       }
     ],
-    "meaning": "interj. à, hả, nha, ơi",
     "exampleSentences": [
       {
         "cn": "啊，原来是你！",
@@ -26,7 +25,7 @@
     "wordType": "interj"
   },
   {
-    "id": "hsk2_0001",
+    "id": "hsk2_阿姨",
     "hanzi": "阿姨",
     "pinyin": "ā yí",
     "pinyinNormalized": "ayi",
@@ -41,7 +40,6 @@
         "en": "aunt"
       }
     ],
-    "meaning": "n. dì, cô, bác gái",
     "exampleSentences": [
       {
         "cn": "阿姨，您好。",
@@ -53,7 +51,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0002",
+    "id": "hsk2_矮",
     "hanzi": "矮",
     "pinyin": "ǎi",
     "pinyinNormalized": "ai",
@@ -67,7 +65,6 @@
         "en": "short (height)"
       }
     ],
-    "meaning": "adj. thấp",
     "exampleSentences": [
       {
         "cn": "他比我矮一点儿。",
@@ -79,7 +76,7 @@
     "wordType": "adj"
   },
   {
-    "id": "hsk2_0003",
+    "id": "hsk2_爱好",
     "hanzi": "爱好",
     "pinyin": "ài hào",
     "pinyinNormalized": "aihao",
@@ -99,7 +96,6 @@
         "en": "to be fond of"
       }
     ],
-    "meaning": "n. sở thích; v. yêu thích",
     "exampleSentences": [
       {
         "cn": "你的爱好是什么？",
@@ -111,7 +107,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0004",
+    "id": "hsk2_安静",
     "hanzi": "安静",
     "pinyin": "ān jìng",
     "pinyinNormalized": "anjing",
@@ -126,7 +122,6 @@
         "en": "quiet, peaceful"
       }
     ],
-    "meaning": "adj. yên tĩnh, yên lặng",
     "exampleSentences": [
       {
         "cn": "图书馆里很安静。",
@@ -138,7 +133,7 @@
     "wordType": "adj"
   },
   {
-    "id": "hsk2_0005",
+    "id": "hsk2_把",
     "hanzi": "把",
     "pinyin": "bǎ",
     "pinyinNormalized": "ba",
@@ -157,7 +152,6 @@
         "en": "measure word"
       }
     ],
-    "meaning": "prep. đem, lấy (dùng trong cấu trúc câu chữ 把); mw. cái, chiếc (lượng từ)",
     "exampleSentences": [
       {
         "cn": "请把门关上。",
@@ -169,7 +163,7 @@
     "wordType": "prep"
   },
   {
-    "id": "hsk2_0006",
+    "id": "hsk2_班",
     "hanzi": "班",
     "pinyin": "bān",
     "pinyinNormalized": "ban",
@@ -183,7 +177,6 @@
         "en": "class, shift"
       }
     ],
-    "meaning": "n. lớp, ca làm việc",
     "exampleSentences": [
       {
         "cn": "我们班有二十个学生。",
@@ -195,7 +188,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0007",
+    "id": "hsk2_搬",
     "hanzi": "搬",
     "pinyin": "bān",
     "pinyinNormalized": "ban",
@@ -209,7 +202,6 @@
         "en": "to move"
       }
     ],
-    "meaning": "v. dời, chuyển (đồ đạc, nhà cửa)",
     "exampleSentences": [
       {
         "cn": "我下个月要搬家。",
@@ -221,7 +213,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0008",
+    "id": "hsk2_半",
     "hanzi": "半",
     "pinyin": "bàn",
     "pinyinNormalized": "ban",
@@ -235,7 +227,6 @@
         "en": "half"
       }
     ],
-    "meaning": "num. nửa, một nửa",
     "exampleSentences": [
       {
         "cn": "现在是三点半。",
@@ -247,7 +238,7 @@
     "wordType": "num"
   },
   {
-    "id": "hsk2_0009",
+    "id": "hsk2_帮助",
     "hanzi": "帮助",
     "pinyin": "bāng zhù",
     "pinyinNormalized": "bangzhu",
@@ -267,7 +258,6 @@
         "en": "help, assistance"
       }
     ],
-    "meaning": "v. giúp đỡ; n. sự giúp đỡ",
     "exampleSentences": [
       {
         "cn": "谢谢你的帮助。",
@@ -279,7 +269,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0010",
+    "id": "hsk2_包",
     "hanzi": "包",
     "pinyin": "bāo",
     "pinyinNormalized": "bao",
@@ -298,7 +288,6 @@
         "en": "to wrap, to bundle"
       }
     ],
-    "meaning": "n. túi, bao, bọc; v. gói, bọc",
     "exampleSentences": [
       {
         "cn": "这个包很贵。",
@@ -310,7 +299,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0011",
+    "id": "hsk2_饱",
     "hanzi": "饱",
     "pinyin": "bǎo",
     "pinyinNormalized": "bao",
@@ -324,7 +313,6 @@
         "en": "full (after eating)"
       }
     ],
-    "meaning": "adj. no, no bụng",
     "exampleSentences": [
       {
         "cn": "我吃饱了。",
@@ -336,7 +324,7 @@
     "wordType": "adj"
   },
   {
-    "id": "hsk2_0012",
+    "id": "hsk2_北方",
     "hanzi": "北方",
     "pinyin": "běi fāng",
     "pinyinNormalized": "beifang",
@@ -351,7 +339,6 @@
         "en": "North, northern part"
       }
     ],
-    "meaning": "n. phương Bắc, miền Bắc",
     "exampleSentences": [
       {
         "cn": "北方的冬天很冷。",
@@ -363,7 +350,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0013",
+    "id": "hsk2_被",
     "hanzi": "被",
     "pinyin": "bèi",
     "pinyinNormalized": "bei",
@@ -377,7 +364,6 @@
         "en": "by (passive marker)"
       }
     ],
-    "meaning": "prep. bị, được (dùng trong câu bị động)",
     "exampleSentences": [
       {
         "cn": "我的钱被偷了。",
@@ -389,7 +375,7 @@
     "wordType": "prep"
   },
   {
-    "id": "hsk2_0014",
+    "id": "hsk2_鼻子",
     "hanzi": "鼻子",
     "pinyin": "bí zi",
     "pinyinNormalized": "bizi",
@@ -404,7 +390,6 @@
         "en": "nose"
       }
     ],
-    "meaning": "n. mũi",
     "exampleSentences": [
       {
         "cn": "他的鼻子很高。",
@@ -416,7 +401,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0015",
+    "id": "hsk2_比",
     "hanzi": "比",
     "pinyin": "bǐ",
     "pinyinNormalized": "bi",
@@ -435,7 +420,6 @@
         "en": "to compare"
       }
     ],
-    "meaning": "prep. so với; v. so sánh",
     "exampleSentences": [
       {
         "cn": "哥哥比我高。",
@@ -447,7 +431,7 @@
     "wordType": "prep"
   },
   {
-    "id": "hsk2_0016",
+    "id": "hsk2_比较",
     "hanzi": "比较",
     "pinyin": "bǐ jiào",
     "pinyinNormalized": "bijiao",
@@ -467,7 +451,6 @@
         "en": "to compare"
       }
     ],
-    "meaning": "adv. khá, tương đối; v. so sánh",
     "exampleSentences": [
       {
         "cn": "今天比较热。",
@@ -479,7 +462,7 @@
     "wordType": "adv"
   },
   {
-    "id": "hsk2_0017",
+    "id": "hsk2_比赛",
     "hanzi": "比赛",
     "pinyin": "bǐ sài",
     "pinyinNormalized": "bisai",
@@ -499,7 +482,6 @@
         "en": "to compete"
       }
     ],
-    "meaning": "n. trận đấu, cuộc thi; v. thi đấu",
     "exampleSentences": [
       {
         "cn": "他们正在参加足球比赛。",
@@ -511,7 +493,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0018",
+    "id": "hsk2_必须",
     "hanzi": "必须",
     "pinyin": "bì xū",
     "pinyinNormalized": "bixu",
@@ -526,7 +508,6 @@
         "en": "must, have to"
       }
     ],
-    "meaning": "aux. phải, nhất thiết phải",
     "exampleSentences": [
       {
         "cn": "你必须按时完成任务。",
@@ -538,7 +519,7 @@
     "wordType": "aux"
   },
   {
-    "id": "hsk2_0019",
+    "id": "hsk2_变化",
     "hanzi": "变化",
     "pinyin": "biàn huà",
     "pinyinNormalized": "bianhua",
@@ -558,7 +539,6 @@
         "en": "to change"
       }
     ],
-    "meaning": "n. sự thay đổi; v. thay đổi",
     "exampleSentences": [
       {
         "cn": "几年不见，他的变化很大。",
@@ -570,7 +550,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0020",
+    "id": "hsk2_别",
     "hanzi": "别",
     "pinyin": "bié",
     "pinyinNormalized": "bie",
@@ -589,7 +569,6 @@
         "en": "other"
       }
     ],
-    "meaning": "adv. đừng; adj. khác",
     "exampleSentences": [
       {
         "cn": "别说话，老师来了。",
@@ -601,7 +580,7 @@
     "wordType": "adv"
   },
   {
-    "id": "hsk2_0021",
+    "id": "hsk2_别人",
     "hanzi": "别人",
     "pinyin": "bié rén",
     "pinyinNormalized": "bieren",
@@ -616,7 +595,6 @@
         "en": "other people"
       }
     ],
-    "meaning": "pron. người khác",
     "exampleSentences": [
       {
         "cn": "不要随便拿别人的东西。",
@@ -628,7 +606,7 @@
     "wordType": "pron"
   },
   {
-    "id": "hsk2_0022",
+    "id": "hsk2_宾馆",
     "hanzi": "宾馆",
     "pinyin": "bīn guǎn",
     "pinyinNormalized": "binguan",
@@ -643,7 +621,6 @@
         "en": "guesthouse, hotel"
       }
     ],
-    "meaning": "n. khách sạn",
     "exampleSentences": [
       {
         "cn": "这家宾馆的环境很好。",
@@ -655,7 +632,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0023",
+    "id": "hsk2_冰箱",
     "hanzi": "冰箱",
     "pinyin": "bīng xiāng",
     "pinyinNormalized": "bingxiang",
@@ -670,7 +647,6 @@
         "en": "refrigerator"
       }
     ],
-    "meaning": "n. tủ lạnh",
     "exampleSentences": [
       {
         "cn": "冰箱里有水果。",
@@ -682,7 +658,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0024",
+    "id": "hsk2_不但",
     "hanzi": "不但",
     "pinyin": "bù dàn",
     "pinyinNormalized": "budan",
@@ -697,7 +673,6 @@
         "en": "not only"
       }
     ],
-    "meaning": "conj. không những",
     "exampleSentences": [
       {
         "cn": "她不但漂亮，而且很聪明。",
@@ -709,7 +684,7 @@
     "wordType": "conj"
   },
   {
-    "id": "hsk2_0025",
+    "id": "hsk2_才",
     "hanzi": "才",
     "pinyin": "cái",
     "pinyinNormalized": "cai",
@@ -723,7 +698,6 @@
         "en": "not until, only then"
       }
     ],
-    "meaning": "adv. mới, vừa mới",
     "exampleSentences": [
       {
         "cn": "他晚上十一点才回家。",
@@ -735,7 +709,7 @@
     "wordType": "adv"
   },
   {
-    "id": "hsk2_0026",
+    "id": "hsk2_参加",
     "hanzi": "参加",
     "pinyin": "cān jiā",
     "pinyinNormalized": "canjia",
@@ -750,7 +724,6 @@
         "en": "to participate, to join"
       }
     ],
-    "meaning": "v. tham gia",
     "exampleSentences": [
       {
         "cn": "我想参加这次活动。",
@@ -762,7 +735,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0027",
+    "id": "hsk2_草",
     "hanzi": "草",
     "pinyin": "cǎo",
     "pinyinNormalized": "cao",
@@ -776,7 +749,6 @@
         "en": "grass"
       }
     ],
-    "meaning": "n. cỏ",
     "exampleSentences": [
       {
         "cn": "小羊在草地上吃草。",
@@ -788,7 +760,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0028",
+    "id": "hsk2_层",
     "hanzi": "层",
     "pinyin": "céng",
     "pinyinNormalized": "ceng",
@@ -802,7 +774,6 @@
         "en": "layer, floor"
       }
     ],
-    "meaning": "mw. tầng, lớp",
     "exampleSentences": [
       {
         "cn": "我住在三层。",
@@ -814,7 +785,7 @@
     "wordType": "mw"
   },
   {
-    "id": "hsk2_0029",
+    "id": "hsk2_差",
     "hanzi": "差",
     "pinyin": "chà",
     "pinyinNormalized": "cha",
@@ -828,7 +799,6 @@
         "en": "poor, bad, lacking"
       }
     ],
-    "meaning": "adj. kém, thiếu, chênh lệch",
     "exampleSentences": [
       {
         "cn": "他的汉语水平很差。",
@@ -840,7 +810,7 @@
     "wordType": "adj"
   },
   {
-    "id": "hsk2_0030",
+    "id": "hsk2_长",
     "hanzi": "长",
     "pinyin": "cháng",
     "pinyinNormalized": "chang",
@@ -854,7 +824,6 @@
         "en": "long"
       }
     ],
-    "meaning": "adj. dài",
     "exampleSentences": [
       {
         "cn": "这条路很长。",
@@ -866,7 +835,7 @@
     "wordType": "adj"
   },
   {
-    "id": "hsk2_0031",
+    "id": "hsk2_唱歌",
     "hanzi": "唱歌",
     "pinyin": "chàng gē",
     "pinyinNormalized": "changge",
@@ -881,7 +850,6 @@
         "en": "to sing"
       }
     ],
-    "meaning": "v. hát",
     "exampleSentences": [
       {
         "cn": "她喜欢唱歌。",
@@ -893,7 +861,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0032",
+    "id": "hsk2_超市",
     "hanzi": "超市",
     "pinyin": "chāo shì",
     "pinyinNormalized": "chaoshi",
@@ -908,7 +876,6 @@
         "en": "supermarket"
       }
     ],
-    "meaning": "n. siêu thị",
     "exampleSentences": [
       {
         "cn": "我去超市买点水果。",
@@ -920,7 +887,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0033",
+    "id": "hsk2_衬衫",
     "hanzi": "衬衫",
     "pinyin": "chèn shān",
     "pinyinNormalized": "chenshan",
@@ -935,7 +902,6 @@
         "en": "shirt"
       }
     ],
-    "meaning": "n. áo sơ mi",
     "exampleSentences": [
       {
         "cn": "这件衬衫很漂亮。",
@@ -947,7 +913,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0034",
+    "id": "hsk2_城市",
     "hanzi": "城市",
     "pinyin": "chéng shì",
     "pinyinNormalized": "chengshi",
@@ -962,7 +928,6 @@
         "en": "city"
       }
     ],
-    "meaning": "n. thành phố",
     "exampleSentences": [
       {
         "cn": "这个城市很大。",
@@ -974,7 +939,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0035",
+    "id": "hsk2_迟到",
     "hanzi": "迟到",
     "pinyin": "chí dào",
     "pinyinNormalized": "chidao",
@@ -989,7 +954,6 @@
         "en": "to arrive late"
       }
     ],
-    "meaning": "v. đến muộn, trễ",
     "exampleSentences": [
       {
         "cn": "对不起，我迟到了。",
@@ -1001,7 +965,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0036",
+    "id": "hsk2_除了",
     "hanzi": "除了",
     "pinyin": "chú le",
     "pinyinNormalized": "chule",
@@ -1016,7 +980,6 @@
         "en": "besides, except"
       }
     ],
-    "meaning": "prep. ngoại trừ, ngoài... ra",
     "exampleSentences": [
       {
         "cn": "除了他，大家都来了。",
@@ -1028,7 +991,7 @@
     "wordType": "prep"
   },
   {
-    "id": "hsk2_0037",
+    "id": "hsk2_穿",
     "hanzi": "穿",
     "pinyin": "chuān",
     "pinyinNormalized": "chuan",
@@ -1042,7 +1005,6 @@
         "en": "to wear"
       }
     ],
-    "meaning": "v. mặc, đi (giày, tất)",
     "exampleSentences": [
       {
         "cn": "他今天穿了一件黑色的衣服。",
@@ -1054,7 +1016,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0038",
+    "id": "hsk2_船",
     "hanzi": "船",
     "pinyin": "chuán",
     "pinyinNormalized": "chuan",
@@ -1068,7 +1030,6 @@
         "en": "boat, ship"
       }
     ],
-    "meaning": "n. thuyền, tàu",
     "exampleSentences": [
       {
         "cn": "我们要坐船过河。",
@@ -1080,7 +1041,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0039",
+    "id": "hsk2_春",
     "hanzi": "春",
     "pinyin": "chūn",
     "pinyinNormalized": "chun",
@@ -1094,7 +1055,6 @@
         "en": "spring"
       }
     ],
-    "meaning": "n. mùa xuân",
     "exampleSentences": [
       {
         "cn": "春天到了，花都开了。",
@@ -1106,7 +1066,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0040",
+    "id": "hsk2_词典",
     "hanzi": "词典",
     "pinyin": "cí diǎn",
     "pinyinNormalized": "cidian",
@@ -1121,7 +1081,6 @@
         "en": "dictionary"
       }
     ],
-    "meaning": "n. từ điển",
     "exampleSentences": [
       {
         "cn": "请查一下词典。",
@@ -1133,7 +1092,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0041",
+    "id": "hsk2_聪明",
     "hanzi": "聪明",
     "pinyin": "cōng míng",
     "pinyinNormalized": "congming",
@@ -1148,7 +1107,6 @@
         "en": "clever, smart"
       }
     ],
-    "meaning": "adj. thông minh",
     "exampleSentences": [
       {
         "cn": "这个孩子很聪明。",
@@ -1160,7 +1118,7 @@
     "wordType": "adj"
   },
   {
-    "id": "hsk2_0042",
+    "id": "hsk2_从",
     "hanzi": "从",
     "pinyin": "cóng",
     "pinyinNormalized": "cong",
@@ -1174,7 +1132,6 @@
         "en": "from"
       }
     ],
-    "meaning": "prep. từ",
     "exampleSentences": [
       {
         "cn": "我从北京来。",
@@ -1186,7 +1143,7 @@
     "wordType": "prep"
   },
   {
-    "id": "hsk2_0043",
+    "id": "hsk2_错",
     "hanzi": "错",
     "pinyin": "cuò",
     "pinyinNormalized": "cuo",
@@ -1200,7 +1157,6 @@
         "en": "wrong"
       }
     ],
-    "meaning": "adj. sai, nhầm",
     "exampleSentences": [
       {
         "cn": "你写错了。",
@@ -1212,7 +1168,7 @@
     "wordType": "adj"
   },
   {
-    "id": "hsk2_0044",
+    "id": "hsk2_打篮球",
     "hanzi": "打篮球",
     "pinyin": "dǎ lán qiú",
     "pinyinNormalized": "dalanqiu",
@@ -1228,7 +1184,6 @@
         "en": "to play basketball"
       }
     ],
-    "meaning": "v. chơi bóng rổ",
     "exampleSentences": [
       {
         "cn": "他每天下午都去打篮球。",
@@ -1240,7 +1195,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0045",
+    "id": "hsk2_打扫",
     "hanzi": "打扫",
     "pinyin": "dǎ sǎo",
     "pinyinNormalized": "dasao",
@@ -1255,7 +1210,6 @@
         "en": "to clean"
       }
     ],
-    "meaning": "v. dọn dẹp, quét dọn",
     "exampleSentences": [
       {
         "cn": "我要打扫房间。",
@@ -1267,7 +1221,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0046",
+    "id": "hsk2_打算",
     "hanzi": "打算",
     "pinyin": "dǎ suàn",
     "pinyinNormalized": "dasuan",
@@ -1287,7 +1241,6 @@
         "en": "plan"
       }
     ],
-    "meaning": "v. dự định; n. dự định, kế hoạch",
     "exampleSentences": [
       {
         "cn": "你周末有什么打算？",
@@ -1299,7 +1252,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0047",
+    "id": "hsk2_带",
     "hanzi": "带",
     "pinyin": "dài",
     "pinyinNormalized": "dai",
@@ -1313,7 +1266,6 @@
         "en": "to bring, to carry"
       }
     ],
-    "meaning": "v. mang, đem, dẫn",
     "exampleSentences": [
       {
         "cn": "别忘了带雨伞。",
@@ -1325,7 +1277,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0048",
+    "id": "hsk2_担心",
     "hanzi": "担心",
     "pinyin": "dān xīn",
     "pinyinNormalized": "danxin",
@@ -1340,7 +1292,6 @@
         "en": "to worry"
       }
     ],
-    "meaning": "v. lo lắng",
     "exampleSentences": [
       {
         "cn": "别担心，一切都会好的。",
@@ -1352,7 +1303,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0049",
+    "id": "hsk2_蛋糕",
     "hanzi": "蛋糕",
     "pinyin": "dàn gāo",
     "pinyinNormalized": "dangao",
@@ -1367,7 +1318,6 @@
         "en": "cake"
       }
     ],
-    "meaning": "n. bánh ngọt, bánh kem",
     "exampleSentences": [
       {
         "cn": "这个蛋糕很好吃。",
@@ -1379,7 +1329,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0050",
+    "id": "hsk2_当然",
     "hanzi": "当然",
     "pinyin": "dāng rán",
     "pinyinNormalized": "dangran",
@@ -1394,7 +1344,6 @@
         "en": "of course"
       }
     ],
-    "meaning": "adv. đương nhiên, tất nhiên",
     "exampleSentences": [
       {
         "cn": "我当然会帮你。",
@@ -1406,7 +1355,7 @@
     "wordType": "adv"
   },
   {
-    "id": "hsk2_0051",
+    "id": "hsk2_地",
     "hanzi": "地",
     "pinyin": "dì",
     "pinyinNormalized": "di",
@@ -1420,7 +1369,6 @@
         "en": "ground, earth"
       }
     ],
-    "meaning": "n. đất, mặt đất",
     "exampleSentences": [
       {
         "cn": "地上有很多书。",
@@ -1432,7 +1380,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0052",
+    "id": "hsk2_地方",
     "hanzi": "地方",
     "pinyin": "dì fāng",
     "pinyinNormalized": "difang",
@@ -1447,7 +1395,6 @@
         "en": "place"
       }
     ],
-    "meaning": "n. nơi, địa phương, chỗ",
     "exampleSentences": [
       {
         "cn": "这个地方很美。",
@@ -1459,7 +1406,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0053",
+    "id": "hsk2_地铁",
     "hanzi": "地铁",
     "pinyin": "dì tiě",
     "pinyinNormalized": "ditie",
@@ -1474,7 +1421,6 @@
         "en": "subway, metro"
       }
     ],
-    "meaning": "n. tàu điện ngầm",
     "exampleSentences": [
       {
         "cn": "我坐地铁去上班。",
@@ -1486,7 +1432,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0054",
+    "id": "hsk2_地图",
     "hanzi": "地图",
     "pinyin": "dì tú",
     "pinyinNormalized": "ditu",
@@ -1501,7 +1447,6 @@
         "en": "map"
       }
     ],
-    "meaning": "n. bản đồ",
     "exampleSentences": [
       {
         "cn": "请给我看地图。",
@@ -1513,7 +1458,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0055",
+    "id": "hsk2_弟弟",
     "hanzi": "弟弟",
     "pinyin": "dì di",
     "pinyinNormalized": "didi",
@@ -1528,7 +1473,6 @@
         "en": "younger brother"
       }
     ],
-    "meaning": "n. em trai",
     "exampleSentences": [
       {
         "cn": "我有一个弟弟。",
@@ -1540,7 +1484,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0056",
+    "id": "hsk2_第一",
     "hanzi": "第一",
     "pinyin": "dì yī",
     "pinyinNormalized": "diyi",
@@ -1555,7 +1499,6 @@
         "en": "first"
       }
     ],
-    "meaning": "num. thứ nhất, đầu tiên",
     "exampleSentences": [
       {
         "cn": "他是第一名。",
@@ -1567,7 +1510,7 @@
     "wordType": "num"
   },
   {
-    "id": "hsk2_0057",
+    "id": "hsk2_电梯",
     "hanzi": "电梯",
     "pinyin": "diàn tī",
     "pinyinNormalized": "dianti",
@@ -1582,7 +1525,6 @@
         "en": "elevator"
       }
     ],
-    "meaning": "n. thang máy",
     "exampleSentences": [
       {
         "cn": "请坐电梯上去。",
@@ -1594,7 +1536,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0058",
+    "id": "hsk2_电子邮件",
     "hanzi": "电子邮件",
     "pinyin": "diàn zǐ yóu jiàn",
     "pinyinNormalized": "dianziyoujian",
@@ -1611,7 +1553,6 @@
         "en": "email"
       }
     ],
-    "meaning": "n. thư điện tử, email",
     "exampleSentences": [
       {
         "cn": "我已经发了电子邮件。",
@@ -1623,7 +1564,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0059",
+    "id": "hsk2_东",
     "hanzi": "东",
     "pinyin": "dōng",
     "pinyinNormalized": "dong",
@@ -1637,7 +1578,6 @@
         "en": "east"
       }
     ],
-    "meaning": "n. hướng đông",
     "exampleSentences": [
       {
         "cn": "太阳从东边升起。",
@@ -1649,7 +1589,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0060",
+    "id": "hsk2_冬",
     "hanzi": "冬",
     "pinyin": "dōng",
     "pinyinNormalized": "dong",
@@ -1663,7 +1603,6 @@
         "en": "winter"
       }
     ],
-    "meaning": "n. mùa đông",
     "exampleSentences": [
       {
         "cn": "冬天很冷。",
@@ -1675,7 +1614,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0061",
+    "id": "hsk2_动物",
     "hanzi": "动物",
     "pinyin": "dòng wù",
     "pinyinNormalized": "dongwu",
@@ -1690,7 +1629,6 @@
         "en": "animal"
       }
     ],
-    "meaning": "n. động vật",
     "exampleSentences": [
       {
         "cn": "我喜欢各种各样的动物。",
@@ -1702,7 +1640,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0062",
+    "id": "hsk2_短",
     "hanzi": "短",
     "pinyin": "duǎn",
     "pinyinNormalized": "duan",
@@ -1716,7 +1654,6 @@
         "en": "short"
       }
     ],
-    "meaning": "adj. ngắn",
     "exampleSentences": [
       {
         "cn": "这条裤子太短了。",
@@ -1728,7 +1665,7 @@
     "wordType": "adj"
   },
   {
-    "id": "hsk2_0063",
+    "id": "hsk2_段",
     "hanzi": "段",
     "pinyin": "duàn",
     "pinyinNormalized": "duan",
@@ -1742,7 +1679,6 @@
         "en": "segment, section"
       }
     ],
-    "meaning": "mw. đoạn, khoảng",
     "exampleSentences": [
       {
         "cn": "这是一段很长的路。",
@@ -1754,7 +1690,7 @@
     "wordType": "mw"
   },
   {
-    "id": "hsk2_0064",
+    "id": "hsk2_锻炼",
     "hanzi": "锻炼",
     "pinyin": "duàn liàn",
     "pinyinNormalized": "duanlian",
@@ -1769,7 +1705,6 @@
         "en": "to exercise"
       }
     ],
-    "meaning": "v. luyện tập, rèn luyện",
     "exampleSentences": [
       {
         "cn": "每天锻炼身体对健康有好处。",
@@ -1781,7 +1716,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0065",
+    "id": "hsk2_对",
     "hanzi": "对",
     "pinyin": "duì",
     "pinyinNormalized": "dui",
@@ -1800,7 +1735,6 @@
         "en": "to, towards"
       }
     ],
-    "meaning": "adj. đúng; prep. đối với",
     "exampleSentences": [
       {
         "cn": "你说得对。",
@@ -1817,7 +1751,7 @@
     "wordType": "adj"
   },
   {
-    "id": "hsk2_0066",
+    "id": "hsk2_饿",
     "hanzi": "饿",
     "pinyin": "è",
     "pinyinNormalized": "e",
@@ -1831,7 +1765,6 @@
         "en": "hungry"
       }
     ],
-    "meaning": "adj. đói",
     "exampleSentences": [
       {
         "cn": "我饿了，想吃饭。",
@@ -1843,7 +1776,7 @@
     "wordType": "adj"
   },
   {
-    "id": "hsk2_0067",
+    "id": "hsk2_耳朵",
     "hanzi": "耳朵",
     "pinyin": "ěr duo",
     "pinyinNormalized": "erduo",
@@ -1858,7 +1791,6 @@
         "en": "ear"
       }
     ],
-    "meaning": "n. tai",
     "exampleSentences": [
       {
         "cn": "他的耳朵很大。",
@@ -1870,7 +1802,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0068",
+    "id": "hsk2_发现",
     "hanzi": "发现",
     "pinyin": "fā xiàn",
     "pinyinNormalized": "faxian",
@@ -1885,7 +1817,6 @@
         "en": "to discover"
       }
     ],
-    "meaning": "v. phát hiện",
     "exampleSentences": [
       {
         "cn": "我发现了一个新问题。",
@@ -1897,7 +1828,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0069",
+    "id": "hsk2_方便",
     "hanzi": "方便",
     "pinyin": "fāng biàn",
     "pinyinNormalized": "fangbian",
@@ -1912,7 +1843,6 @@
         "en": "convenient"
       }
     ],
-    "meaning": "adj. thuận tiện, tiện lợi",
     "exampleSentences": [
       {
         "cn": "坐地铁很方便。",
@@ -1924,7 +1854,7 @@
     "wordType": "adj"
   },
   {
-    "id": "hsk2_0070",
+    "id": "hsk2_放",
     "hanzi": "放",
     "pinyin": "fàng",
     "pinyinNormalized": "fang",
@@ -1938,7 +1868,6 @@
         "en": "to put, to release"
       }
     ],
-    "meaning": "v. đặt, để, thả",
     "exampleSentences": [
       {
         "cn": "请把书放在桌子上。",
@@ -1950,7 +1879,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0071",
+    "id": "hsk2_放心",
     "hanzi": "放心",
     "pinyin": "fàng xīn",
     "pinyinNormalized": "fangxin",
@@ -1965,7 +1894,6 @@
         "en": "to feel relieved"
       }
     ],
-    "meaning": "v. yên tâm",
     "exampleSentences": [
       {
         "cn": "请放心，我会照顾好自己的。",
@@ -1977,7 +1905,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0072",
+    "id": "hsk2_分",
     "hanzi": "分",
     "pinyin": "fēn",
     "pinyinNormalized": "fen",
@@ -1996,7 +1924,6 @@
         "en": "to divide"
       }
     ],
-    "meaning": "n. phút, điểm; v. chia, phân chia",
     "exampleSentences": [
       {
         "cn": "现在是三点十分。",
@@ -2008,7 +1935,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0073",
+    "id": "hsk2_附近",
     "hanzi": "附近",
     "pinyin": "fù jìn",
     "pinyinNormalized": "fujin",
@@ -2023,7 +1950,6 @@
         "en": "nearby, vicinity"
       }
     ],
-    "meaning": "n. gần đây, phụ cận",
     "exampleSentences": [
       {
         "cn": "我家附近有一个公园。",
@@ -2035,7 +1961,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0074",
+    "id": "hsk2_复习",
     "hanzi": "复习",
     "pinyin": "fù xí",
     "pinyinNormalized": "fuxi",
@@ -2050,7 +1976,6 @@
         "en": "to review"
       }
     ],
-    "meaning": "v. ôn tập",
     "exampleSentences": [
       {
         "cn": "考试前要好好复习。",
@@ -2062,7 +1987,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0075",
+    "id": "hsk2_干净",
     "hanzi": "干净",
     "pinyin": "gān jìng",
     "pinyinNormalized": "ganjing",
@@ -2077,7 +2002,6 @@
         "en": "clean"
       }
     ],
-    "meaning": "adj. sạch sẽ",
     "exampleSentences": [
       {
         "cn": "房间打扫得很干净。",
@@ -2089,7 +2013,7 @@
     "wordType": "adj"
   },
   {
-    "id": "hsk2_0076",
+    "id": "hsk2_感谢",
     "hanzi": "感谢",
     "pinyin": "gǎn xiè",
     "pinyinNormalized": "ganxie",
@@ -2104,7 +2028,6 @@
         "en": "to thank"
       }
     ],
-    "meaning": "v. cảm ơn, cảm tạ",
     "exampleSentences": [
       {
         "cn": "非常感谢你的帮助。",
@@ -2116,7 +2039,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0077",
+    "id": "hsk2_刚才",
     "hanzi": "刚才",
     "pinyin": "gāng cái",
     "pinyinNormalized": "gangcai",
@@ -2131,7 +2054,6 @@
         "en": "just now"
       }
     ],
-    "meaning": "n. vừa nãy",
     "exampleSentences": [
       {
         "cn": "刚才谁来了？",
@@ -2143,7 +2065,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0078",
+    "id": "hsk2_更",
     "hanzi": "更",
     "pinyin": "gèng",
     "pinyinNormalized": "geng",
@@ -2157,7 +2079,6 @@
         "en": "more"
       }
     ],
-    "meaning": "adv. hơn, càng",
     "exampleSentences": [
       {
         "cn": "今天比昨天更热。",
@@ -2169,7 +2090,7 @@
     "wordType": "adv"
   },
   {
-    "id": "hsk2_0079",
+    "id": "hsk2_公共汽车",
     "hanzi": "公共汽车",
     "pinyin": "gōng gòng qì chē",
     "pinyinNormalized": "gonggongqiche",
@@ -2186,7 +2107,6 @@
         "en": "bus"
       }
     ],
-    "meaning": "n. xe buýt",
     "exampleSentences": [
       {
         "cn": "我坐公共汽车去学校。",
@@ -2198,7 +2118,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0080",
+    "id": "hsk2_公斤",
     "hanzi": "公斤",
     "pinyin": "gōng jīn",
     "pinyinNormalized": "gongjin",
@@ -2213,7 +2133,6 @@
         "en": "kilogram"
       }
     ],
-    "meaning": "mw. cân, kg",
     "exampleSentences": [
       {
         "cn": "我买了三公斤苹果。",
@@ -2225,7 +2144,7 @@
     "wordType": "mw"
   },
   {
-    "id": "hsk2_0081",
+    "id": "hsk2_公司",
     "hanzi": "公司",
     "pinyin": "gōng sī",
     "pinyinNormalized": "gongsi",
@@ -2240,7 +2159,6 @@
         "en": "company"
       }
     ],
-    "meaning": "n. công ty",
     "exampleSentences": [
       {
         "cn": "他在一家大公司工作。",
@@ -2252,7 +2170,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0082",
+    "id": "hsk2_公园",
     "hanzi": "公园",
     "pinyin": "gōng yuán",
     "pinyinNormalized": "gongyuan",
@@ -2267,7 +2185,6 @@
         "en": "park"
       }
     ],
-    "meaning": "n. công viên",
     "exampleSentences": [
       {
         "cn": "周末我们去公园玩吧。",
@@ -2279,7 +2196,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0083",
+    "id": "hsk2_故事",
     "hanzi": "故事",
     "pinyin": "gù shi",
     "pinyinNormalized": "gushi",
@@ -2294,7 +2211,6 @@
         "en": "story"
       }
     ],
-    "meaning": "n. câu chuyện",
     "exampleSentences": [
       {
         "cn": "奶奶给我讲了一个故事。",
@@ -2306,7 +2222,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0084",
+    "id": "hsk2_刮风",
     "hanzi": "刮风",
     "pinyin": "guā fēng",
     "pinyinNormalized": "guafeng",
@@ -2321,7 +2237,6 @@
         "en": "to be windy"
       }
     ],
-    "meaning": "v. nổi gió, thổi gió",
     "exampleSentences": [
       {
         "cn": "外面正在刮风。",
@@ -2333,7 +2248,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0085",
+    "id": "hsk2_关系",
     "hanzi": "关系",
     "pinyin": "guān xi",
     "pinyinNormalized": "guanxi",
@@ -2348,7 +2263,6 @@
         "en": "relationship, connection"
       }
     ],
-    "meaning": "n. quan hệ",
     "exampleSentences": [
       {
         "cn": "他们两人的关系非常好。",
@@ -2360,7 +2274,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0086",
+    "id": "hsk2_关心",
     "hanzi": "关心",
     "pinyin": "guān xīn",
     "pinyinNormalized": "guanxin",
@@ -2375,7 +2289,6 @@
         "en": "to care for"
       }
     ],
-    "meaning": "v. quan tâm",
     "exampleSentences": [
       {
         "cn": "老师很关心学生。",
@@ -2387,7 +2300,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0087",
+    "id": "hsk2_贵",
     "hanzi": "贵",
     "pinyin": "guì",
     "pinyinNormalized": "gui",
@@ -2401,7 +2314,6 @@
         "en": "expensive, precious"
       }
     ],
-    "meaning": "adj. đắt, quý",
     "exampleSentences": [
       {
         "cn": "这件衣服太贵了。",
@@ -2413,7 +2325,7 @@
     "wordType": "adj"
   },
   {
-    "id": "hsk2_0088",
+    "id": "hsk2_过",
     "hanzi": "过",
     "pinyin": "guò",
     "pinyinNormalized": "guo",
@@ -2427,7 +2339,6 @@
         "en": "to pass, to cross"
       }
     ],
-    "meaning": "v. qua, đi qua",
     "exampleSentences": [
       {
         "cn": "请过马路的时候小心。",
@@ -2439,7 +2350,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0089",
+    "id": "hsk2_过去",
     "hanzi": "过去",
     "pinyin": "guò qù",
     "pinyinNormalized": "guoqu",
@@ -2459,7 +2370,6 @@
         "en": "to go over"
       }
     ],
-    "meaning": "n. quá khứ; v. đi qua",
     "exampleSentences": [
       {
         "cn": "过去的事情就让它过去吧。",
@@ -2471,7 +2381,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0090",
+    "id": "hsk2_还是",
     "hanzi": "还是",
     "pinyin": "hái shì",
     "pinyinNormalized": "haishi",
@@ -2491,7 +2401,6 @@
         "en": "still"
       }
     ],
-    "meaning": "conj. hay là; adv. vẫn, vẫn còn",
     "exampleSentences": [
       {
         "cn": "你是喝茶还是喝咖啡？",
@@ -2508,7 +2417,7 @@
     "wordType": "conj"
   },
   {
-    "id": "hsk2_0091",
+    "id": "hsk2_害怕",
     "hanzi": "害怕",
     "pinyin": "hài pà",
     "pinyinNormalized": "haipa",
@@ -2523,7 +2432,6 @@
         "en": "to be afraid"
       }
     ],
-    "meaning": "v. sợ, sợ hãi",
     "exampleSentences": [
       {
         "cn": "我不害怕考试。",
@@ -2535,7 +2443,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0092",
+    "id": "hsk2_好像",
     "hanzi": "好像",
     "pinyin": "hǎo xiàng",
     "pinyinNormalized": "haoxiang",
@@ -2555,7 +2463,6 @@
         "en": "to look like"
       }
     ],
-    "meaning": "adv. hình như, dường như; v. giống như",
     "exampleSentences": [
       {
         "cn": "他好像不高兴。",
@@ -2567,7 +2474,7 @@
     "wordType": "adv"
   },
   {
-    "id": "hsk2_0093",
+    "id": "hsk2_号码",
     "hanzi": "号码",
     "pinyin": "hào mǎ",
     "pinyinNormalized": "haoma",
@@ -2582,7 +2489,6 @@
         "en": "number"
       }
     ],
-    "meaning": "n. số, số hiệu",
     "exampleSentences": [
       {
         "cn": "你的电话号码是多少？",
@@ -2594,7 +2500,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0094",
+    "id": "hsk2_黑板",
     "hanzi": "黑板",
     "pinyin": "hēi bǎn",
     "pinyinNormalized": "heiban",
@@ -2609,7 +2515,6 @@
         "en": "blackboard"
       }
     ],
-    "meaning": "n. bảng đen",
     "exampleSentences": [
       {
         "cn": "请看黑板。",
@@ -2621,7 +2526,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0095",
+    "id": "hsk2_花",
     "hanzi": "花",
     "pinyin": "huā",
     "pinyinNormalized": "hua",
@@ -2640,7 +2545,6 @@
         "en": "to spend"
       }
     ],
-    "meaning": "n. hoa; v. tiêu, tốn (tiền, thời gian)",
     "exampleSentences": [
       {
         "cn": "教室里有很多花。",
@@ -2657,7 +2561,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0096",
+    "id": "hsk2_画",
     "hanzi": "画",
     "pinyin": "huà",
     "pinyinNormalized": "hua",
@@ -2676,7 +2580,6 @@
         "en": "to draw"
       }
     ],
-    "meaning": "n. bức tranh, họa; v. vẽ",
     "exampleSentences": [
       {
         "cn": "这是一幅画。",
@@ -2693,7 +2596,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0097",
+    "id": "hsk2_坏",
     "hanzi": "坏",
     "pinyin": "huài",
     "pinyinNormalized": "huai",
@@ -2707,7 +2610,6 @@
         "en": "bad, broken"
       }
     ],
-    "meaning": "adj. hỏng, xấu, tồi",
     "exampleSentences": [
       {
         "cn": "这台电脑坏了。",
@@ -2719,7 +2621,7 @@
     "wordType": "adj"
   },
   {
-    "id": "hsk2_0098",
+    "id": "hsk2_环境",
     "hanzi": "环境",
     "pinyin": "huán jìng",
     "pinyinNormalized": "huanjing",
@@ -2734,7 +2636,6 @@
         "en": "environment"
       }
     ],
-    "meaning": "n. môi trường",
     "exampleSentences": [
       {
         "cn": "这里的环境很好。",
@@ -2746,7 +2647,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0099",
+    "id": "hsk2_换",
     "hanzi": "换",
     "pinyin": "huàn",
     "pinyinNormalized": "huan",
@@ -2760,7 +2661,6 @@
         "en": "to change, to exchange"
       }
     ],
-    "meaning": "v. đổi, thay đổi",
     "exampleSentences": [
       {
         "cn": "我想换一件衣服。",
@@ -2772,7 +2672,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0100",
+    "id": "hsk2_回答",
     "hanzi": "回答",
     "pinyin": "huí dá",
     "pinyinNormalized": "huida",
@@ -2792,7 +2692,6 @@
         "en": "answer"
       }
     ],
-    "meaning": "v. trả lời; n. câu trả lời",
     "exampleSentences": [
       {
         "cn": "请回答我的问题。",
@@ -2804,7 +2703,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0101",
+    "id": "hsk2_火车站",
     "hanzi": "火车站",
     "pinyin": "huǒ chē zhàn",
     "pinyinNormalized": "huochezhan",
@@ -2820,7 +2719,6 @@
         "en": "train station"
       }
     ],
-    "meaning": "n. ga tàu hỏa",
     "exampleSentences": [
       {
         "cn": "火车站离这里很远。",
@@ -2832,7 +2730,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0102",
+    "id": "hsk2_机场",
     "hanzi": "机场",
     "pinyin": "jī chǎng",
     "pinyinNormalized": "jichang",
@@ -2847,7 +2745,6 @@
         "en": "airport"
       }
     ],
-    "meaning": "n. sân bay",
     "exampleSentences": [
       {
         "cn": "我明天要去机场。",
@@ -2859,7 +2756,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0103",
+    "id": "hsk2_鸡蛋",
     "hanzi": "鸡蛋",
     "pinyin": "jī dàn",
     "pinyinNormalized": "jidan",
@@ -2874,7 +2771,6 @@
         "en": "egg"
       }
     ],
-    "meaning": "n. trứng gà",
     "exampleSentences": [
       {
         "cn": "我早餐吃鸡蛋。",
@@ -2886,7 +2782,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0104",
+    "id": "hsk2_机会",
     "hanzi": "机会",
     "pinyin": "jī huì",
     "pinyinNormalized": "jihui",
@@ -2901,7 +2797,6 @@
         "en": "opportunity"
       }
     ],
-    "meaning": "n. cơ hội",
     "exampleSentences": [
       {
         "cn": "这是一个好机会。",
@@ -2913,7 +2808,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0105",
+    "id": "hsk2_季节",
     "hanzi": "季节",
     "pinyin": "jì jié",
     "pinyinNormalized": "jijie",
@@ -2928,7 +2823,6 @@
         "en": "season"
       }
     ],
-    "meaning": "n. mùa, thời tiết",
     "exampleSentences": [
       {
         "cn": "你最喜欢哪个季节？",
@@ -2940,7 +2834,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0106",
+    "id": "hsk2_记得",
     "hanzi": "记得",
     "pinyin": "jì de",
     "pinyinNormalized": "jide",
@@ -2955,7 +2849,6 @@
         "en": "to remember"
       }
     ],
-    "meaning": "v. nhớ, ghi nhớ",
     "exampleSentences": [
       {
         "cn": "你还记得我吗？",
@@ -2967,7 +2860,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0107",
+    "id": "hsk2_检查",
     "hanzi": "检查",
     "pinyin": "jiǎn chá",
     "pinyinNormalized": "jiancha",
@@ -2982,7 +2875,6 @@
         "en": "to check, to examine"
       }
     ],
-    "meaning": "v. kiểm tra",
     "exampleSentences": [
       {
         "cn": "医生正在检查他的身体。",
@@ -2994,7 +2886,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0108",
+    "id": "hsk2_简单",
     "hanzi": "简单",
     "pinyin": "jiǎn dān",
     "pinyinNormalized": "jiandan",
@@ -3009,7 +2901,6 @@
         "en": "simple"
       }
     ],
-    "meaning": "adj. đơn giản",
     "exampleSentences": [
       {
         "cn": "这个问题很简单。",
@@ -3021,7 +2912,7 @@
     "wordType": "adj"
   },
   {
-    "id": "hsk2_0109",
+    "id": "hsk2_见面",
     "hanzi": "见面",
     "pinyin": "jiàn miàn",
     "pinyinNormalized": "jianmian",
@@ -3036,7 +2927,6 @@
         "en": "to meet"
       }
     ],
-    "meaning": "v. gặp mặt",
     "exampleSentences": [
       {
         "cn": "我们明天见面吧。",
@@ -3048,7 +2938,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0110",
+    "id": "hsk2_健康",
     "hanzi": "健康",
     "pinyin": "jiàn kāng",
     "pinyinNormalized": "jiankang",
@@ -3068,7 +2958,6 @@
         "en": "health"
       }
     ],
-    "meaning": "adj. khỏe mạnh; n. sức khỏe",
     "exampleSentences": [
       {
         "cn": "祝你身体健康。",
@@ -3080,7 +2969,7 @@
     "wordType": "adj"
   },
   {
-    "id": "hsk2_0111",
+    "id": "hsk2_讲",
     "hanzi": "讲",
     "pinyin": "jiǎng",
     "pinyinNormalized": "jiang",
@@ -3094,7 +2983,6 @@
         "en": "to speak, to tell, to explain"
       }
     ],
-    "meaning": "v. nói, kể, giảng",
     "exampleSentences": [
       {
         "cn": "老师在讲课。",
@@ -3106,7 +2994,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0112",
+    "id": "hsk2_教",
     "hanzi": "教",
     "pinyin": "jiāo",
     "pinyinNormalized": "jiao",
@@ -3120,7 +3008,6 @@
         "en": "to teach"
       }
     ],
-    "meaning": "v. dạy, dạy học",
     "exampleSentences": [
       {
         "cn": "她教我汉语。",
@@ -3132,7 +3019,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0113",
+    "id": "hsk2_脚",
     "hanzi": "脚",
     "pinyin": "jiǎo",
     "pinyinNormalized": "jiao",
@@ -3146,7 +3033,6 @@
         "en": "foot"
       }
     ],
-    "meaning": "n. bàn chân",
     "exampleSentences": [
       {
         "cn": "我的脚疼。",
@@ -3158,7 +3044,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0114",
+    "id": "hsk2_接",
     "hanzi": "接",
     "pinyin": "jiē",
     "pinyinNormalized": "jie",
@@ -3172,7 +3058,6 @@
         "en": "to pick up, to receive"
       }
     ],
-    "meaning": "v. đón, nhận, tiếp nhận",
     "exampleSentences": [
       {
         "cn": "我去机场接你。",
@@ -3184,7 +3069,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0115",
+    "id": "hsk2_结婚",
     "hanzi": "结婚",
     "pinyin": "jié hūn",
     "pinyinNormalized": "jiehun",
@@ -3199,7 +3084,6 @@
         "en": "to get married"
       }
     ],
-    "meaning": "v. kết hôn",
     "exampleSentences": [
       {
         "cn": "他们下个月结婚。",
@@ -3211,7 +3095,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0116",
+    "id": "hsk2_结束",
     "hanzi": "结束",
     "pinyin": "jié shù",
     "pinyinNormalized": "jieshu",
@@ -3226,7 +3110,6 @@
         "en": "to end, to finish"
       }
     ],
-    "meaning": "v. kết thúc",
     "exampleSentences": [
       {
         "cn": "会议结束了。",
@@ -3238,7 +3121,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0117",
+    "id": "hsk2_姐姐",
     "hanzi": "姐姐",
     "pinyin": "jiě jie",
     "pinyinNormalized": "jiejie",
@@ -3253,7 +3136,6 @@
         "en": "elder sister"
       }
     ],
-    "meaning": "n. chị gái",
     "exampleSentences": [
       {
         "cn": "我有一个姐姐。",
@@ -3265,7 +3147,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0118",
+    "id": "hsk2_介绍",
     "hanzi": "介绍",
     "pinyin": "jiè shào",
     "pinyinNormalized": "jieshao",
@@ -3285,7 +3167,6 @@
         "en": "introduction"
       }
     ],
-    "meaning": "v. giới thiệu; n. sự giới thiệu",
     "exampleSentences": [
       {
         "cn": "请介绍一下你自己。",
@@ -3297,7 +3178,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0119",
+    "id": "hsk2_借",
     "hanzi": "借",
     "pinyin": "jiè",
     "pinyinNormalized": "jie",
@@ -3311,7 +3192,6 @@
         "en": "to borrow, to lend"
       }
     ],
-    "meaning": "v. mượn, cho mượn",
     "exampleSentences": [
       {
         "cn": "我可以借你的书吗？",
@@ -3323,7 +3203,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0120",
+    "id": "hsk2_进",
     "hanzi": "进",
     "pinyin": "jìn",
     "pinyinNormalized": "jin",
@@ -3337,7 +3217,6 @@
         "en": "to enter"
       }
     ],
-    "meaning": "v. vào, tiến vào",
     "exampleSentences": [
       {
         "cn": "请进，请坐。",
@@ -3349,7 +3228,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0121",
+    "id": "hsk2_近",
     "hanzi": "近",
     "pinyin": "jìn",
     "pinyinNormalized": "jin",
@@ -3363,7 +3242,6 @@
         "en": "near"
       }
     ],
-    "meaning": "adj. gần",
     "exampleSentences": [
       {
         "cn": "我家离学校很近。",
@@ -3375,7 +3253,7 @@
     "wordType": "adj"
   },
   {
-    "id": "hsk2_0122",
+    "id": "hsk2_经常",
     "hanzi": "经常",
     "pinyin": "jīng cháng",
     "pinyinNormalized": "jingchang",
@@ -3390,7 +3268,6 @@
         "en": "often"
       }
     ],
-    "meaning": "adv. thường xuyên",
     "exampleSentences": [
       {
         "cn": "他经常去图书馆看书。",
@@ -3402,7 +3279,7 @@
     "wordType": "adv"
   },
   {
-    "id": "hsk2_0123",
+    "id": "hsk2_久",
     "hanzi": "久",
     "pinyin": "jiǔ",
     "pinyinNormalized": "jiu",
@@ -3416,7 +3293,6 @@
         "en": "long (time)"
       }
     ],
-    "meaning": "adj. lâu, lâu dài",
     "exampleSentences": [
       {
         "cn": "你等了多久？",
@@ -3428,7 +3304,7 @@
     "wordType": "adj"
   },
   {
-    "id": "hsk2_0124",
+    "id": "hsk2_旧",
     "hanzi": "旧",
     "pinyin": "jiù",
     "pinyinNormalized": "jiu",
@@ -3442,7 +3318,6 @@
         "en": "old (not new)"
       }
     ],
-    "meaning": "adj. cũ",
     "exampleSentences": [
       {
         "cn": "这件衣服太旧了。",
@@ -3454,7 +3329,7 @@
     "wordType": "adj"
   },
   {
-    "id": "hsk2_0125",
+    "id": "hsk2_就",
     "hanzi": "就",
     "pinyin": "jiù",
     "pinyinNormalized": "jiu",
@@ -3468,7 +3343,6 @@
         "en": "just, then, right away"
       }
     ],
-    "meaning": "adv. ngay, liền, chính là",
     "exampleSentences": [
       {
         "cn": "我这就去。",
@@ -3480,7 +3354,7 @@
     "wordType": "adv"
   },
   {
-    "id": "hsk2_0126",
+    "id": "hsk2_觉得",
     "hanzi": "觉得",
     "pinyin": "jué de",
     "pinyinNormalized": "juede",
@@ -3495,7 +3369,6 @@
         "en": "to feel, to think"
       }
     ],
-    "meaning": "v. cảm thấy, thấy rằng",
     "exampleSentences": [
       {
         "cn": "我觉得汉语很有意思。",
@@ -3507,7 +3380,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0127",
+    "id": "hsk2_咖啡",
     "hanzi": "咖啡",
     "pinyin": "kā fēi",
     "pinyinNormalized": "kafei",
@@ -3522,7 +3395,6 @@
         "en": "coffee"
       }
     ],
-    "meaning": "n. cà phê",
     "exampleSentences": [
       {
         "cn": "我想喝一杯咖啡。",
@@ -3534,7 +3406,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0128",
+    "id": "hsk2_开始",
     "hanzi": "开始",
     "pinyin": "kāi shǐ",
     "pinyinNormalized": "kaishi",
@@ -3554,7 +3426,6 @@
         "en": "beginning"
       }
     ],
-    "meaning": "v. bắt đầu; n. sự bắt đầu",
     "exampleSentences": [
       {
         "cn": "会议什么时候开始？",
@@ -3566,7 +3437,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0129",
+    "id": "hsk2_考试",
     "hanzi": "考试",
     "pinyin": "kǎo shì",
     "pinyinNormalized": "kaoshi",
@@ -3586,7 +3457,6 @@
         "en": "exam"
       }
     ],
-    "meaning": "v. thi, kiểm tra; n. kỳ thi",
     "exampleSentences": [
       {
         "cn": "明天的考试很难。",
@@ -3598,7 +3468,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0130",
+    "id": "hsk2_渴",
     "hanzi": "渴",
     "pinyin": "kě",
     "pinyinNormalized": "ke",
@@ -3612,7 +3482,6 @@
         "en": "thirsty"
       }
     ],
-    "meaning": "adj. khát",
     "exampleSentences": [
       {
         "cn": "我渴了，想喝水。",
@@ -3624,7 +3493,7 @@
     "wordType": "adj"
   },
   {
-    "id": "hsk2_0131",
+    "id": "hsk2_可能",
     "hanzi": "可能",
     "pinyin": "kě néng",
     "pinyinNormalized": "keneng",
@@ -3644,7 +3513,6 @@
         "en": "possibility"
       }
     ],
-    "meaning": "adv. có thể, có lẽ; n. khả năng",
     "exampleSentences": [
       {
         "cn": "明天可能会下雨。",
@@ -3656,7 +3524,7 @@
     "wordType": "adv"
   },
   {
-    "id": "hsk2_0132",
+    "id": "hsk2_可以",
     "hanzi": "可以",
     "pinyin": "kě yǐ",
     "pinyinNormalized": "keyi",
@@ -3671,7 +3539,6 @@
         "en": "can, may"
       }
     ],
-    "meaning": "aux. có thể (cho phép)",
     "exampleSentences": [
       {
         "cn": "你可以坐在这里。",
@@ -3683,7 +3550,7 @@
     "wordType": "aux"
   },
   {
-    "id": "hsk2_0133",
+    "id": "hsk2_课",
     "hanzi": "课",
     "pinyin": "kè",
     "pinyinNormalized": "ke",
@@ -3697,7 +3564,6 @@
         "en": "class, lesson"
       }
     ],
-    "meaning": "n. bài học, tiết học",
     "exampleSentences": [
       {
         "cn": "我们现在上课。",
@@ -3709,7 +3575,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0134",
+    "id": "hsk2_空调",
     "hanzi": "空调",
     "pinyin": "kōng tiáo",
     "pinyinNormalized": "kongtiao",
@@ -3724,7 +3590,6 @@
         "en": "air conditioner"
       }
     ],
-    "meaning": "n. máy điều hòa",
     "exampleSentences": [
       {
         "cn": "天气太热了，请开空调。",
@@ -3736,7 +3601,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0135",
+    "id": "hsk2_口",
     "hanzi": "口",
     "pinyin": "kǒu",
     "pinyinNormalized": "kou",
@@ -3755,7 +3620,6 @@
         "en": "mouth"
       }
     ],
-    "meaning": "mw. lượng từ (chỉ nhân khẩu); n. miệng",
     "exampleSentences": [
       {
         "cn": "我家有五口人。",
@@ -3767,7 +3631,7 @@
     "wordType": "mw"
   },
   {
-    "id": "hsk2_0136",
+    "id": "hsk2_哭",
     "hanzi": "哭",
     "pinyin": "kū",
     "pinyinNormalized": "ku",
@@ -3781,7 +3645,6 @@
         "en": "to cry"
       }
     ],
-    "meaning": "v. khóc",
     "exampleSentences": [
       {
         "cn": "那个孩子在哭。",
@@ -3793,7 +3656,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0137",
+    "id": "hsk2_裤子",
     "hanzi": "裤子",
     "pinyin": "kù zi",
     "pinyinNormalized": "kuzi",
@@ -3808,7 +3671,6 @@
         "en": "pants"
       }
     ],
-    "meaning": "n. cái quần",
     "exampleSentences": [
       {
         "cn": "这条裤子很漂亮。",
@@ -3820,7 +3682,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0138",
+    "id": "hsk2_筷子",
     "hanzi": "筷子",
     "pinyin": "kuài zi",
     "pinyinNormalized": "kuaizi",
@@ -3835,7 +3697,6 @@
         "en": "chopsticks"
       }
     ],
-    "meaning": "n. đôi đũa",
     "exampleSentences": [
       {
         "cn": "请给我一副筷子。",
@@ -3847,7 +3708,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0139",
+    "id": "hsk2_蓝",
     "hanzi": "蓝",
     "pinyin": "lán",
     "pinyinNormalized": "lan",
@@ -3861,7 +3722,6 @@
         "en": "blue"
       }
     ],
-    "meaning": "adj. xanh lam, xanh dương",
     "exampleSentences": [
       {
         "cn": "天空是蓝色的。",
@@ -3873,7 +3733,7 @@
     "wordType": "adj"
   },
   {
-    "id": "hsk2_0140",
+    "id": "hsk2_老",
     "hanzi": "老",
     "pinyin": "lǎo",
     "pinyinNormalized": "lao",
@@ -3887,7 +3747,6 @@
         "en": "old"
       }
     ],
-    "meaning": "adj. già, cũ, lâu năm",
     "exampleSentences": [
       {
         "cn": "他是一位老教师。",
@@ -3899,7 +3758,7 @@
     "wordType": "adj"
   },
   {
-    "id": "hsk2_0141",
+    "id": "hsk2_离",
     "hanzi": "离",
     "pinyin": "lí",
     "pinyinNormalized": "li",
@@ -3913,7 +3772,6 @@
         "en": "away from"
       }
     ],
-    "meaning": "prep. cách, cách xa",
     "exampleSentences": [
       {
         "cn": "超市离我家很远。",
@@ -3925,7 +3783,7 @@
     "wordType": "prep"
   },
   {
-    "id": "hsk2_0142",
+    "id": "hsk2_礼物",
     "hanzi": "礼物",
     "pinyin": "lǐ wù",
     "pinyinNormalized": "liwu",
@@ -3940,7 +3798,6 @@
         "en": "gift"
       }
     ],
-    "meaning": "n. món quà",
     "exampleSentences": [
       {
         "cn": "这是送给你的礼物。",
@@ -3952,7 +3809,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0143",
+    "id": "hsk2_历史",
     "hanzi": "历史",
     "pinyin": "lì shǐ",
     "pinyinNormalized": "lishi",
@@ -3967,7 +3824,6 @@
         "en": "history"
       }
     ],
-    "meaning": "n. lịch sử",
     "exampleSentences": [
       {
         "cn": "我对历史很感兴趣。",
@@ -3979,7 +3835,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0144",
+    "id": "hsk2_脸",
     "hanzi": "脸",
     "pinyin": "liǎn",
     "pinyinNormalized": "lian",
@@ -3993,7 +3849,6 @@
         "en": "face"
       }
     ],
-    "meaning": "n. khuôn mặt",
     "exampleSentences": [
       {
         "cn": "她的脸很红。",
@@ -4005,7 +3860,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0145",
+    "id": "hsk2_练习",
     "hanzi": "练习",
     "pinyin": "liàn xí",
     "pinyinNormalized": "lianxi",
@@ -4025,7 +3880,6 @@
         "en": "exercise"
       }
     ],
-    "meaning": "v. luyện tập; n. bài tập",
     "exampleSentences": [
       {
         "cn": "我每天都练习写汉字。",
@@ -4037,7 +3891,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0146",
+    "id": "hsk2_两",
     "hanzi": "两",
     "pinyin": "liǎng",
     "pinyinNormalized": "liang",
@@ -4051,7 +3905,6 @@
         "en": "two"
       }
     ],
-    "meaning": "num. hai",
     "exampleSentences": [
       {
         "cn": "我有两个弟弟。",
@@ -4063,7 +3916,7 @@
     "wordType": "num"
   },
   {
-    "id": "hsk2_0147",
+    "id": "hsk2_零",
     "hanzi": "零",
     "pinyin": "líng",
     "pinyinNormalized": "ling",
@@ -4077,7 +3930,6 @@
         "en": "zero"
       }
     ],
-    "meaning": "num. số không",
     "exampleSentences": [
       {
         "cn": "现在是十点零五分。",
@@ -4089,7 +3941,7 @@
     "wordType": "num"
   },
   {
-    "id": "hsk2_0148",
+    "id": "hsk2_留学",
     "hanzi": "留学",
     "pinyin": "liú xué",
     "pinyinNormalized": "liuxue",
@@ -4104,7 +3956,6 @@
         "en": "to study abroad"
       }
     ],
-    "meaning": "v. du học",
     "exampleSentences": [
       {
         "cn": "他打算去中国留学。",
@@ -4116,7 +3967,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0149",
+    "id": "hsk2_楼",
     "hanzi": "楼",
     "pinyin": "lóu",
     "pinyinNormalized": "lou",
@@ -4130,7 +3981,6 @@
         "en": "building, floor"
       }
     ],
-    "meaning": "n. tòa nhà, tầng",
     "exampleSentences": [
       {
         "cn": "我住在三楼。",
@@ -4142,7 +3992,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0150",
+    "id": "hsk2_路",
     "hanzi": "路",
     "pinyin": "lù",
     "pinyinNormalized": "lu",
@@ -4156,7 +4006,6 @@
         "en": "road, path"
       }
     ],
-    "meaning": "n. đường, lộ",
     "exampleSentences": [
       {
         "cn": "这条路很长。",
@@ -4168,7 +4017,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0151",
+    "id": "hsk2_旅游",
     "hanzi": "旅游",
     "pinyin": "lǚ yóu",
     "pinyinNormalized": "lvyou",
@@ -4188,7 +4037,6 @@
         "en": "tourism"
       }
     ],
-    "meaning": "v. du lịch; n. việc du lịch",
     "exampleSentences": [
       {
         "cn": "我们明年去中国旅游。",
@@ -4200,7 +4048,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0152",
+    "id": "hsk2_绿",
     "hanzi": "绿",
     "pinyin": "lǜ",
     "pinyinNormalized": "lv",
@@ -4214,7 +4062,6 @@
         "en": "green"
       }
     ],
-    "meaning": "adj. xanh lá cây",
     "exampleSentences": [
       {
         "cn": "草是绿色的。",
@@ -4226,7 +4073,7 @@
     "wordType": "adj"
   },
   {
-    "id": "hsk2_0153",
+    "id": "hsk2_马",
     "hanzi": "马",
     "pinyin": "mǎ",
     "pinyinNormalized": "ma",
@@ -4240,7 +4087,6 @@
         "en": "horse"
       }
     ],
-    "meaning": "n. con ngựa",
     "exampleSentences": [
       {
         "cn": "那匹马跑得很快。",
@@ -4252,7 +4098,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0154",
+    "id": "hsk2_马上",
     "hanzi": "马上",
     "pinyin": "mǎ shàng",
     "pinyinNormalized": "mashang",
@@ -4267,7 +4113,6 @@
         "en": "immediately"
       }
     ],
-    "meaning": "adv. ngay lập tức",
     "exampleSentences": [
       {
         "cn": "我马上就到。",
@@ -4279,7 +4124,7 @@
     "wordType": "adv"
   },
   {
-    "id": "hsk2_0155",
+    "id": "hsk2_满意",
     "hanzi": "满意",
     "pinyin": "mǎn yì",
     "pinyinNormalized": "manyi",
@@ -4294,7 +4139,6 @@
         "en": "satisfied"
       }
     ],
-    "meaning": "adj. hài lòng",
     "exampleSentences": [
       {
         "cn": "经理对我的表现很满意。",
@@ -4306,7 +4150,7 @@
     "wordType": "adj"
   },
   {
-    "id": "hsk2_0156",
+    "id": "hsk2_帽子",
     "hanzi": "帽子",
     "pinyin": "mào zi",
     "pinyinNormalized": "maozi",
@@ -4321,7 +4165,6 @@
         "en": "hat, cap"
       }
     ],
-    "meaning": "n. mũ, nón",
     "exampleSentences": [
       {
         "cn": "这顶帽子很漂亮。",
@@ -4333,7 +4176,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0157",
+    "id": "hsk2_每",
     "hanzi": "每",
     "pinyin": "měi",
     "pinyinNormalized": "mei",
@@ -4347,7 +4190,6 @@
         "en": "every"
       }
     ],
-    "meaning": "pron. mỗi",
     "exampleSentences": [
       {
         "cn": "我每天都喝咖啡。",
@@ -4359,7 +4201,7 @@
     "wordType": "pron"
   },
   {
-    "id": "hsk2_0158",
+    "id": "hsk2_妹妹",
     "hanzi": "妹妹",
     "pinyin": "mèi mei",
     "pinyinNormalized": "meimei",
@@ -4374,7 +4216,6 @@
         "en": "younger sister"
       }
     ],
-    "meaning": "n. em gái",
     "exampleSentences": [
       {
         "cn": "我妹妹在读小学。",
@@ -4386,7 +4227,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0159",
+    "id": "hsk2_门",
     "hanzi": "门",
     "pinyin": "mén",
     "pinyinNormalized": "men",
@@ -4400,7 +4241,6 @@
         "en": "door"
       }
     ],
-    "meaning": "n. cửa",
     "exampleSentences": [
       {
         "cn": "请关上门。",
@@ -4412,7 +4252,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0160",
+    "id": "hsk2_面包",
     "hanzi": "面包",
     "pinyin": "miàn bāo",
     "pinyinNormalized": "mianbao",
@@ -4427,7 +4267,6 @@
         "en": "bread"
       }
     ],
-    "meaning": "n. bánh mì",
     "exampleSentences": [
       {
         "cn": "早餐我吃面包。",
@@ -4439,7 +4278,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0161",
+    "id": "hsk2_面条",
     "hanzi": "面条",
     "pinyin": "miàn tiáo",
     "pinyinNormalized": "miantiao",
@@ -4454,7 +4293,6 @@
         "en": "noodles"
       }
     ],
-    "meaning": "n. mì, mì sợi",
     "exampleSentences": [
       {
         "cn": "这家店的面条很好吃。",
@@ -4466,7 +4304,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0162",
+    "id": "hsk2_明白",
     "hanzi": "明白",
     "pinyin": "míng bai",
     "pinyinNormalized": "mingbai",
@@ -4486,7 +4324,6 @@
         "en": "clear"
       }
     ],
-    "meaning": "v. hiểu, rõ; adj. rõ ràng",
     "exampleSentences": [
       {
         "cn": "你明白我的意思吗？",
@@ -4498,7 +4335,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0163",
+    "id": "hsk2_拿",
     "hanzi": "拿",
     "pinyin": "ná",
     "pinyinNormalized": "na",
@@ -4512,7 +4349,6 @@
         "en": "to take, to hold"
       }
     ],
-    "meaning": "v. cầm, lấy",
     "exampleSentences": [
       {
         "cn": "请帮我拿一下包。",
@@ -4524,7 +4360,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0164",
+    "id": "hsk2_奶奶",
     "hanzi": "奶奶",
     "pinyin": "nǎi nai",
     "pinyinNormalized": "nainai",
@@ -4539,7 +4375,6 @@
         "en": "paternal grandmother"
       }
     ],
-    "meaning": "n. bà nội",
     "exampleSentences": [
       {
         "cn": "奶奶在公园散步。",
@@ -4551,7 +4386,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0165",
+    "id": "hsk2_南",
     "hanzi": "南",
     "pinyin": "nán",
     "pinyinNormalized": "nan",
@@ -4565,7 +4400,6 @@
         "en": "south"
       }
     ],
-    "meaning": "n. phía nam",
     "exampleSentences": [
       {
         "cn": "我的家在南方。",
@@ -4577,7 +4411,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0166",
+    "id": "hsk2_难",
     "hanzi": "难",
     "pinyin": "nán",
     "pinyinNormalized": "nan",
@@ -4591,7 +4425,6 @@
         "en": "difficult"
       }
     ],
-    "meaning": "adj. khó",
     "exampleSentences": [
       {
         "cn": "这个问题很难回答。",
@@ -4603,7 +4436,7 @@
     "wordType": "adj"
   },
   {
-    "id": "hsk2_0167",
+    "id": "hsk2_难过",
     "hanzi": "难过",
     "pinyin": "nán guò",
     "pinyinNormalized": "nanguo",
@@ -4618,7 +4451,6 @@
         "en": "sad, feeling bad"
       }
     ],
-    "meaning": "adj. buồn, khó chịu",
     "exampleSentences": [
       {
         "cn": "听了这个消息，他很难过。",
@@ -4630,7 +4462,7 @@
     "wordType": "adj"
   },
   {
-    "id": "hsk2_0168",
+    "id": "hsk2_年级",
     "hanzi": "年级",
     "pinyin": "nián jí",
     "pinyinNormalized": "nianji",
@@ -4645,7 +4477,6 @@
         "en": "grade, year in school"
       }
     ],
-    "meaning": "n. lớp, năm học",
     "exampleSentences": [
       {
         "cn": "他在小学三年级。",
@@ -4657,7 +4488,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0169",
+    "id": "hsk2_年轻",
     "hanzi": "年轻",
     "pinyin": "nián qīng",
     "pinyinNormalized": "nianqing",
@@ -4672,7 +4503,6 @@
         "en": "young"
       }
     ],
-    "meaning": "adj. trẻ, trẻ trung",
     "exampleSentences": [
       {
         "cn": "她看起来很年轻。",
@@ -4684,7 +4514,7 @@
     "wordType": "adj"
   },
   {
-    "id": "hsk2_0170",
+    "id": "hsk2_努力",
     "hanzi": "努力",
     "pinyin": "nǔ lì",
     "pinyinNormalized": "nuli",
@@ -4704,7 +4534,6 @@
         "en": "hardworking"
       }
     ],
-    "meaning": "v. nỗ lực, cố gắng; adj. chăm chỉ, nỗ lực",
     "exampleSentences": [
       {
         "cn": "只要努力，就能成功。",
@@ -4716,7 +4545,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0171",
+    "id": "hsk2_爬山",
     "hanzi": "爬山",
     "pinyin": "pá shān",
     "pinyinNormalized": "pashan",
@@ -4731,7 +4560,6 @@
         "en": "to climb a mountain"
       }
     ],
-    "meaning": "v. leo núi",
     "exampleSentences": [
       {
         "cn": "周末我们去爬山吧。",
@@ -4743,7 +4571,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0172",
+    "id": "hsk2_盘子",
     "hanzi": "盘子",
     "pinyin": "pán zi",
     "pinyinNormalized": "panzi",
@@ -4758,7 +4586,6 @@
         "en": "plate, dish"
       }
     ],
-    "meaning": "n. cái đĩa",
     "exampleSentences": [
       {
         "cn": "桌子上有一个干净的盘子。",
@@ -4770,7 +4597,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0173",
+    "id": "hsk2_旁边",
     "hanzi": "旁边",
     "pinyin": "páng biān",
     "pinyinNormalized": "pangbian",
@@ -4785,7 +4612,6 @@
         "en": "beside, side"
       }
     ],
-    "meaning": "n. bên cạnh",
     "exampleSentences": [
       {
         "cn": "书店就在学校旁边。",
@@ -4797,7 +4623,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0174",
+    "id": "hsk2_跑步",
     "hanzi": "跑步",
     "pinyin": "pǎo bù",
     "pinyinNormalized": "paobu",
@@ -4812,7 +4638,6 @@
         "en": "to jog, to run"
       }
     ],
-    "meaning": "v. chạy bộ",
     "exampleSentences": [
       {
         "cn": "他每天早上都去跑步。",
@@ -4824,7 +4649,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0175",
+    "id": "hsk2_皮鞋",
     "hanzi": "皮鞋",
     "pinyin": "pí xié",
     "pinyinNormalized": "pixie",
@@ -4839,7 +4664,6 @@
         "en": "leather shoes"
       }
     ],
-    "meaning": "n. giày da",
     "exampleSentences": [
       {
         "cn": "他穿了一双黑色的皮鞋。",
@@ -4851,7 +4675,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0176",
+    "id": "hsk2_啤酒",
     "hanzi": "啤酒",
     "pinyin": "pí jiǔ",
     "pinyinNormalized": "pijiu",
@@ -4866,7 +4690,6 @@
         "en": "beer"
       }
     ],
-    "meaning": "n. bia",
     "exampleSentences": [
       {
         "cn": "我想喝一杯冰啤酒。",
@@ -4878,7 +4701,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0177",
+    "id": "hsk2_便宜",
     "hanzi": "便宜",
     "pinyin": "pián yi",
     "pinyinNormalized": "pianyi",
@@ -4893,7 +4716,6 @@
         "en": "cheap"
       }
     ],
-    "meaning": "adj. rẻ",
     "exampleSentences": [
       {
         "cn": "这些水果很便宜。",
@@ -4905,7 +4727,7 @@
     "wordType": "adj"
   },
   {
-    "id": "hsk2_0178",
+    "id": "hsk2_票",
     "hanzi": "票",
     "pinyin": "piào",
     "pinyinNormalized": "piao",
@@ -4919,7 +4741,6 @@
         "en": "ticket"
       }
     ],
-    "meaning": "n. vé",
     "exampleSentences": [
       {
         "cn": "我已经买好火车票了。",
@@ -4931,7 +4752,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0179",
+    "id": "hsk2_妻子",
     "hanzi": "妻子",
     "pinyin": "qī zi",
     "pinyinNormalized": "qizi",
@@ -4946,7 +4767,6 @@
         "en": "wife"
       }
     ],
-    "meaning": "n. vợ",
     "exampleSentences": [
       {
         "cn": "他的妻子是一名医生。",
@@ -4958,7 +4778,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0180",
+    "id": "hsk2_起床",
     "hanzi": "起床",
     "pinyin": "qǐ chuáng",
     "pinyinNormalized": "qichuang",
@@ -4973,7 +4793,6 @@
         "en": "to get up from bed"
       }
     ],
-    "meaning": "v. thức dậy",
     "exampleSentences": [
       {
         "cn": "我每天六点起床。",
@@ -4985,7 +4804,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0181",
+    "id": "hsk2_起来",
     "hanzi": "起来",
     "pinyin": "qǐ lái",
     "pinyinNormalized": "qilai",
@@ -5000,7 +4819,6 @@
         "en": "to rise, to stand up"
       }
     ],
-    "meaning": "v. đứng dậy, lên",
     "exampleSentences": [
       {
         "cn": "请大家站起来。",
@@ -5012,7 +4830,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0182",
+    "id": "hsk2_铅笔",
     "hanzi": "铅笔",
     "pinyin": "qiān bǐ",
     "pinyinNormalized": "qianbi",
@@ -5027,7 +4845,6 @@
         "en": "pencil"
       }
     ],
-    "meaning": "n. bút chì",
     "exampleSentences": [
       {
         "cn": "我用铅笔写字。",
@@ -5039,7 +4856,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0183",
+    "id": "hsk2_清楚",
     "hanzi": "清楚",
     "pinyin": "qīng chǔ",
     "pinyinNormalized": "qingchu",
@@ -5054,7 +4871,6 @@
         "en": "clear"
       }
     ],
-    "meaning": "adj. rõ ràng",
     "exampleSentences": [
       {
         "cn": "你说得不清楚。",
@@ -5066,7 +4882,7 @@
     "wordType": "adj"
   },
   {
-    "id": "hsk2_0184",
+    "id": "hsk2_秋",
     "hanzi": "秋",
     "pinyin": "qiū",
     "pinyinNormalized": "qiu",
@@ -5080,7 +4896,6 @@
         "en": "autumn"
       }
     ],
-    "meaning": "n. mùa thu",
     "exampleSentences": [
       {
         "cn": "秋天到了。",
@@ -5092,7 +4907,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0185",
+    "id": "hsk2_裙子",
     "hanzi": "裙子",
     "pinyin": "qún zi",
     "pinyinNormalized": "qunzi",
@@ -5107,7 +4922,6 @@
         "en": "skirt"
       }
     ],
-    "meaning": "n. váy, chân váy",
     "exampleSentences": [
       {
         "cn": "这条裙子很漂亮。",
@@ -5119,7 +4933,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0186",
+    "id": "hsk2_然后",
     "hanzi": "然后",
     "pinyin": "rán hòu",
     "pinyinNormalized": "ranhou",
@@ -5134,7 +4948,6 @@
         "en": "afterwards, then"
       }
     ],
-    "meaning": "conj. sau đó",
     "exampleSentences": [
       {
         "cn": "我先吃饭，然后去学习。",
@@ -5146,7 +4959,7 @@
     "wordType": "conj"
   },
   {
-    "id": "hsk2_0187",
+    "id": "hsk2_让",
     "hanzi": "让",
     "pinyin": "ràng",
     "pinyinNormalized": "rang",
@@ -5160,7 +4973,6 @@
         "en": "to let, to allow, to make"
       }
     ],
-    "meaning": "v. cho phép, bảo, nhường",
     "exampleSentences": [
       {
         "cn": "妈妈不让我出去玩。",
@@ -5172,7 +4984,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0188",
+    "id": "hsk2_日记",
     "hanzi": "日记",
     "pinyin": "rì jì",
     "pinyinNormalized": "riji",
@@ -5187,7 +4999,6 @@
         "en": "diary"
       }
     ],
-    "meaning": "n. nhật ký",
     "exampleSentences": [
       {
         "cn": "我喜欢写日记。",
@@ -5199,7 +5010,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0189",
+    "id": "hsk2_容易",
     "hanzi": "容易",
     "pinyin": "róng yì",
     "pinyinNormalized": "rongyi",
@@ -5214,7 +5025,6 @@
         "en": "easy"
       }
     ],
-    "meaning": "adj. dễ dàng",
     "exampleSentences": [
       {
         "cn": "这个问题很容易回答。",
@@ -5226,7 +5036,7 @@
     "wordType": "adj"
   },
   {
-    "id": "hsk2_0190",
+    "id": "hsk2_如果",
     "hanzi": "如果",
     "pinyin": "rú guǒ",
     "pinyinNormalized": "ruguo",
@@ -5241,7 +5051,6 @@
         "en": "if"
       }
     ],
-    "meaning": "conj. nếu, nếu như",
     "exampleSentences": [
       {
         "cn": "如果你有时间，请给我打电话。",
@@ -5253,7 +5062,7 @@
     "wordType": "conj"
   },
   {
-    "id": "hsk2_0191",
+    "id": "hsk2_上班",
     "hanzi": "上班",
     "pinyin": "shàng bān",
     "pinyinNormalized": "shangban",
@@ -5268,7 +5077,6 @@
         "en": "to go to work"
       }
     ],
-    "meaning": "v. đi làm",
     "exampleSentences": [
       {
         "cn": "他每天八点上班。",
@@ -5280,7 +5088,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0192",
+    "id": "hsk2_生病",
     "hanzi": "生病",
     "pinyin": "shēng bìng",
     "pinyinNormalized": "shengbing",
@@ -5295,7 +5103,6 @@
         "en": "to fall ill"
       }
     ],
-    "meaning": "v. bị ốm, bị bệnh",
     "exampleSentences": [
       {
         "cn": "他生病了，不能去学校。",
@@ -5307,7 +5114,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0193",
+    "id": "hsk2_生气",
     "hanzi": "生气",
     "pinyin": "shēng qì",
     "pinyinNormalized": "shengqi",
@@ -5327,7 +5134,6 @@
         "en": "angry"
       }
     ],
-    "meaning": "v. tức giận; adj. giận dữ",
     "exampleSentences": [
       {
         "cn": "别生气了，我错了。",
@@ -5339,7 +5145,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0194",
+    "id": "hsk2_声音",
     "hanzi": "声音",
     "pinyin": "shēng yīn",
     "pinyinNormalized": "shengyin",
@@ -5354,7 +5160,6 @@
         "en": "sound, voice"
       }
     ],
-    "meaning": "n. âm thanh, tiếng",
     "exampleSentences": [
       {
         "cn": "他的声音很好听。",
@@ -5366,7 +5171,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0195",
+    "id": "hsk2_时间",
     "hanzi": "时间",
     "pinyin": "shí jiān",
     "pinyinNormalized": "shijian",
@@ -5381,7 +5186,6 @@
         "en": "time"
       }
     ],
-    "meaning": "n. thời gian",
     "exampleSentences": [
       {
         "cn": "我没有时间了。",
@@ -5393,7 +5197,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0196",
+    "id": "hsk2_事情",
     "hanzi": "事情",
     "pinyin": "shì qíng",
     "pinyinNormalized": "shiqing",
@@ -5408,7 +5212,6 @@
         "en": "matter, thing, affair"
       }
     ],
-    "meaning": "n. sự việc, chuyện",
     "exampleSentences": [
       {
         "cn": "今天有很多事情要做。",
@@ -5420,7 +5223,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0197",
+    "id": "hsk2_手表",
     "hanzi": "手表",
     "pinyin": "shǒu biǎo",
     "pinyinNormalized": "shoubiao",
@@ -5435,7 +5238,6 @@
         "en": "wristwatch"
       }
     ],
-    "meaning": "n. đồng hồ đeo tay",
     "exampleSentences": [
       {
         "cn": "这块手表是我的。",
@@ -5447,7 +5249,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0198",
+    "id": "hsk2_手机",
     "hanzi": "手机",
     "pinyin": "shǒu jī",
     "pinyinNormalized": "shouji",
@@ -5462,7 +5264,6 @@
         "en": "mobile phone"
       }
     ],
-    "meaning": "n. điện thoại di động",
     "exampleSentences": [
       {
         "cn": "我的手机坏了。",
@@ -5474,7 +5275,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0199",
+    "id": "hsk2_瘦",
     "hanzi": "瘦",
     "pinyin": "shòu",
     "pinyinNormalized": "shou",
@@ -5488,7 +5289,6 @@
         "en": "thin, skinny"
       }
     ],
-    "meaning": "adj. gầy, mảnh khảnh",
     "exampleSentences": [
       {
         "cn": "他最近瘦了很多。",
@@ -5500,7 +5300,7 @@
     "wordType": "adj"
   },
   {
-    "id": "hsk2_0200",
+    "id": "hsk2_叔叔",
     "hanzi": "叔叔",
     "pinyin": "shū shu",
     "pinyinNormalized": "shushu",
@@ -5515,7 +5315,6 @@
         "en": "uncle"
       }
     ],
-    "meaning": "n. chú",
     "exampleSentences": [
       {
         "cn": "叔叔，您好！",
@@ -5527,7 +5326,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0201",
+    "id": "hsk2_树",
     "hanzi": "树",
     "pinyin": "shù",
     "pinyinNormalized": "shu",
@@ -5541,7 +5340,6 @@
         "en": "tree"
       }
     ],
-    "meaning": "n. cây",
     "exampleSentences": [
       {
         "cn": "树下有一只小猫。",
@@ -5553,7 +5351,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0202",
+    "id": "hsk2_双",
     "hanzi": "双",
     "pinyin": "shuāng",
     "pinyinNormalized": "shuang",
@@ -5567,7 +5365,6 @@
         "en": "pair"
       }
     ],
-    "meaning": "mw. đôi, cặp",
     "exampleSentences": [
       {
         "cn": "我买了一双新鞋。",
@@ -5579,7 +5376,7 @@
     "wordType": "mw"
   },
   {
-    "id": "hsk2_0203",
+    "id": "hsk2_司机",
     "hanzi": "司机",
     "pinyin": "sī jī",
     "pinyinNormalized": "siji",
@@ -5594,7 +5391,6 @@
         "en": "driver"
       }
     ],
-    "meaning": "n. tài xế",
     "exampleSentences": [
       {
         "cn": "司机师傅，请停在这里。",
@@ -5606,7 +5402,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0204",
+    "id": "hsk2_送",
     "hanzi": "送",
     "pinyin": "sòng",
     "pinyinNormalized": "song",
@@ -5620,7 +5416,6 @@
         "en": "to give as a gift, to deliver, to see someone off"
       }
     ],
-    "meaning": "v. tặng, đưa, tiễn",
     "exampleSentences": [
       {
         "cn": "我送你回家。",
@@ -5632,7 +5427,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0205",
+    "id": "hsk2_虽然",
     "hanzi": "虽然",
     "pinyin": "suī rán",
     "pinyinNormalized": "suiran",
@@ -5647,7 +5442,6 @@
         "en": "although, even though"
       }
     ],
-    "meaning": "conj. mặc dù, tuy rằng",
     "exampleSentences": [
       {
         "cn": "虽然天气很冷，但他还是出门了。",
@@ -5659,7 +5453,7 @@
     "wordType": "conj"
   },
   {
-    "id": "hsk2_0206",
+    "id": "hsk2_所以",
     "hanzi": "所以",
     "pinyin": "suǒ yǐ",
     "pinyinNormalized": "suoyi",
@@ -5674,7 +5468,6 @@
         "en": "so, therefore"
       }
     ],
-    "meaning": "conj. cho nên, vì vậy",
     "exampleSentences": [
       {
         "cn": "因为下雨，所以我不去公园。",
@@ -5686,7 +5479,7 @@
     "wordType": "conj"
   },
   {
-    "id": "hsk2_0207",
+    "id": "hsk2_它",
     "hanzi": "它",
     "pinyin": "tā",
     "pinyinNormalized": "ta",
@@ -5700,7 +5493,6 @@
         "en": "it"
       }
     ],
-    "meaning": "pron. nó (chỉ đồ vật, con vật)",
     "exampleSentences": [
       {
         "cn": "它是一只可爱的小狗。",
@@ -5712,7 +5504,7 @@
     "wordType": "pron"
   },
   {
-    "id": "hsk2_0208",
+    "id": "hsk2_特别",
     "hanzi": "特别",
     "pinyin": "tè bié",
     "pinyinNormalized": "tebie",
@@ -5732,7 +5524,6 @@
         "en": "especially, particularly"
       }
     ],
-    "meaning": "adj. đặc biệt; adv. đặc biệt, rất",
     "exampleSentences": [
       {
         "cn": "这个礼物很特别。",
@@ -5749,7 +5540,7 @@
     "wordType": "adj"
   },
   {
-    "id": "hsk2_0209",
+    "id": "hsk2_疼",
     "hanzi": "疼",
     "pinyin": "téng",
     "pinyinNormalized": "teng",
@@ -5763,7 +5554,6 @@
         "en": "painful, ache"
       }
     ],
-    "meaning": "adj. đau",
     "exampleSentences": [
       {
         "cn": "我的头很疼。",
@@ -5775,7 +5565,7 @@
     "wordType": "adj"
   },
   {
-    "id": "hsk2_0210",
+    "id": "hsk2_题",
     "hanzi": "题",
     "pinyin": "tí",
     "pinyinNormalized": "ti",
@@ -5794,7 +5584,6 @@
         "en": "to raise, to propose"
       }
     ],
-    "meaning": "n. đề bài, câu hỏi; v. đưa ra, đặt ra (vấn đề)",
     "exampleSentences": [
       {
         "cn": "这道题很难。",
@@ -5806,7 +5595,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0211",
+    "id": "hsk2_甜",
     "hanzi": "甜",
     "pinyin": "tián",
     "pinyinNormalized": "tian",
@@ -5820,7 +5609,6 @@
         "en": "sweet"
       }
     ],
-    "meaning": "adj. ngọt",
     "exampleSentences": [
       {
         "cn": "这个西瓜很甜。",
@@ -5832,7 +5620,7 @@
     "wordType": "adj"
   },
   {
-    "id": "hsk2_0212",
+    "id": "hsk2_条",
     "hanzi": "条",
     "pinyin": "tiáo",
     "pinyinNormalized": "tiao",
@@ -5846,7 +5634,6 @@
         "en": "measure word for long/thin things"
       }
     ],
-    "meaning": "mw. con, chiếc, cái (lượng từ cho vật dài)",
     "exampleSentences": [
       {
         "cn": "那条鱼很大。",
@@ -5858,7 +5645,7 @@
     "wordType": "mw"
   },
   {
-    "id": "hsk2_0213",
+    "id": "hsk2_跳舞",
     "hanzi": "跳舞",
     "pinyin": "tiào wǔ",
     "pinyinNormalized": "tiaowu",
@@ -5873,7 +5660,6 @@
         "en": "to dance"
       }
     ],
-    "meaning": "v. nhảy múa, khiêu vũ",
     "exampleSentences": [
       {
         "cn": "她很喜欢跳舞。",
@@ -5885,7 +5671,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0214",
+    "id": "hsk2_停",
     "hanzi": "停",
     "pinyin": "tíng",
     "pinyinNormalized": "ting",
@@ -5899,7 +5685,6 @@
         "en": "to stop"
       }
     ],
-    "meaning": "v. dừng, ngừng",
     "exampleSentences": [
       {
         "cn": "车停在门口。",
@@ -5911,7 +5696,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0215",
+    "id": "hsk2_图书馆",
     "hanzi": "图书馆",
     "pinyin": "tú shū guǎn",
     "pinyinNormalized": "tushuguan",
@@ -5927,7 +5712,6 @@
         "en": "library"
       }
     ],
-    "meaning": "n. thư viện",
     "exampleSentences": [
       {
         "cn": "我在图书馆看书。",
@@ -5939,7 +5723,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0216",
+    "id": "hsk2_腿",
     "hanzi": "腿",
     "pinyin": "tuǐ",
     "pinyinNormalized": "tui",
@@ -5953,7 +5737,6 @@
         "en": "leg"
       }
     ],
-    "meaning": "n. cái chân",
     "exampleSentences": [
       {
         "cn": "他的腿受伤了。",
@@ -5965,7 +5748,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0217",
+    "id": "hsk2_外",
     "hanzi": "外",
     "pinyin": "wài",
     "pinyinNormalized": "wai",
@@ -5979,7 +5762,6 @@
         "en": "outside, foreign"
       }
     ],
-    "meaning": "n. bên ngoài, ngoại",
     "exampleSentences": [
       {
         "cn": "外面正在下雨。",
@@ -5991,7 +5773,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0218",
+    "id": "hsk2_完",
     "hanzi": "完",
     "pinyin": "wán",
     "pinyinNormalized": "wan",
@@ -6005,7 +5787,6 @@
         "en": "to finish, to complete"
       }
     ],
-    "meaning": "v. xong, kết thúc",
     "exampleSentences": [
       {
         "cn": "我做完作业了。",
@@ -6017,7 +5798,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0219",
+    "id": "hsk2_玩",
     "hanzi": "玩",
     "pinyin": "wán",
     "pinyinNormalized": "wan",
@@ -6031,7 +5812,6 @@
         "en": "to play, to have fun"
       }
     ],
-    "meaning": "v. chơi, giải trí",
     "exampleSentences": [
       {
         "cn": "孩子们在外面玩。",
@@ -6043,7 +5823,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0220",
+    "id": "hsk2_晚上",
     "hanzi": "晚上",
     "pinyin": "wǎn shàng",
     "pinyinNormalized": "wanshang",
@@ -6058,7 +5838,6 @@
         "en": "evening, night"
       }
     ],
-    "meaning": "n. buổi tối",
     "exampleSentences": [
       {
         "cn": "晚上我想睡觉。",
@@ -6070,7 +5849,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0221",
+    "id": "hsk2_往",
     "hanzi": "往",
     "pinyin": "wǎng",
     "pinyinNormalized": "wang",
@@ -6084,7 +5863,6 @@
         "en": "towards"
       }
     ],
-    "meaning": "prep. hướng về, về phía",
     "exampleSentences": [
       {
         "cn": "往前走。",
@@ -6096,7 +5874,7 @@
     "wordType": "prep"
   },
   {
-    "id": "hsk2_0222",
+    "id": "hsk2_忘记",
     "hanzi": "忘记",
     "pinyin": "wàng jì",
     "pinyinNormalized": "wangji",
@@ -6111,7 +5889,6 @@
         "en": "to forget"
       }
     ],
-    "meaning": "v. quên",
     "exampleSentences": [
       {
         "cn": "别忘记带伞。",
@@ -6123,7 +5900,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0223",
+    "id": "hsk2_为了",
     "hanzi": "为了",
     "pinyin": "wèi le",
     "pinyinNormalized": "weile",
@@ -6138,7 +5915,6 @@
         "en": "for, in order to"
       }
     ],
-    "meaning": "prep. để, vì",
     "exampleSentences": [
       {
         "cn": "为了学好汉语，他每天都练习。",
@@ -6150,7 +5926,7 @@
     "wordType": "prep"
   },
   {
-    "id": "hsk2_0224",
+    "id": "hsk2_为什么",
     "hanzi": "为什么",
     "pinyin": "wèi shén me",
     "pinyinNormalized": "weishenme",
@@ -6166,7 +5942,6 @@
         "en": "why"
       }
     ],
-    "meaning": "pron. tại sao",
     "exampleSentences": [
       {
         "cn": "你为什么没来？",
@@ -6178,7 +5953,7 @@
     "wordType": "pron"
   },
   {
-    "id": "hsk2_0225",
+    "id": "hsk2_问题",
     "hanzi": "问题",
     "pinyin": "wèn tí",
     "pinyinNormalized": "wenti",
@@ -6193,7 +5968,6 @@
         "en": "problem, question"
       }
     ],
-    "meaning": "n. vấn đề, câu hỏi",
     "exampleSentences": [
       {
         "cn": "这个问题很难回答。",
@@ -6205,7 +5979,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0226",
+    "id": "hsk2_西",
     "hanzi": "西",
     "pinyin": "xī",
     "pinyinNormalized": "xi",
@@ -6219,7 +5993,6 @@
         "en": "west"
       }
     ],
-    "meaning": "n. phía Tây",
     "exampleSentences": [
       {
         "cn": "太阳从西边升起。",
@@ -6231,7 +6004,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0227",
+    "id": "hsk2_希望",
     "hanzi": "希望",
     "pinyin": "xī wàng",
     "pinyinNormalized": "xiwang",
@@ -6251,7 +6024,6 @@
         "en": "hope"
       }
     ],
-    "meaning": "v. hy vọng; n. hi vọng",
     "exampleSentences": [
       {
         "cn": "我希望明天天气好。",
@@ -6263,7 +6035,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0228",
+    "id": "hsk2_洗",
     "hanzi": "洗",
     "pinyin": "xǐ",
     "pinyinNormalized": "xi",
@@ -6277,7 +6049,6 @@
         "en": "to wash"
       }
     ],
-    "meaning": "v. rửa, giặt",
     "exampleSentences": [
       {
         "cn": "请洗手。",
@@ -6289,7 +6060,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0229",
+    "id": "hsk2_洗手间",
     "hanzi": "洗手间",
     "pinyin": "xǐ shǒu jiān",
     "pinyinNormalized": "xishoujian",
@@ -6305,7 +6076,6 @@
         "en": "restroom, toilet"
       }
     ],
-    "meaning": "n. nhà vệ sinh, phòng vệ sinh",
     "exampleSentences": [
       {
         "cn": "洗手间在哪儿？",
@@ -6317,7 +6087,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0230",
+    "id": "hsk2_洗澡",
     "hanzi": "洗澡",
     "pinyin": "xǐ zǎo",
     "pinyinNormalized": "xizao",
@@ -6332,7 +6102,6 @@
         "en": "to take a bath/shower"
       }
     ],
-    "meaning": "v. tắm",
     "exampleSentences": [
       {
         "cn": "他正在洗澡。",
@@ -6344,7 +6113,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0231",
+    "id": "hsk2_夏",
     "hanzi": "夏",
     "pinyin": "xià",
     "pinyinNormalized": "xia",
@@ -6358,7 +6127,6 @@
         "en": "summer"
       }
     ],
-    "meaning": "n. mùa hè",
     "exampleSentences": [
       {
         "cn": "夏天很热。",
@@ -6370,7 +6138,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0232",
+    "id": "hsk2_先",
     "hanzi": "先",
     "pinyin": "xiān",
     "pinyinNormalized": "xian",
@@ -6384,7 +6152,6 @@
         "en": "first"
       }
     ],
-    "meaning": "adv. trước",
     "exampleSentences": [
       {
         "cn": "请你先吃。",
@@ -6396,7 +6163,7 @@
     "wordType": "adv"
   },
   {
-    "id": "hsk2_0233",
+    "id": "hsk2_向",
     "hanzi": "向",
     "pinyin": "xiàng",
     "pinyinNormalized": "xiang",
@@ -6410,7 +6177,6 @@
         "en": "towards, to"
       }
     ],
-    "meaning": "prep. về phía, hướng về",
     "exampleSentences": [
       {
         "cn": "向左转。",
@@ -6422,7 +6188,7 @@
     "wordType": "prep"
   },
   {
-    "id": "hsk2_0234",
+    "id": "hsk2_像",
     "hanzi": "像",
     "pinyin": "xiàng",
     "pinyinNormalized": "xiang",
@@ -6436,7 +6202,6 @@
         "en": "to look like, to resemble"
       }
     ],
-    "meaning": "v. giống",
     "exampleSentences": [
       {
         "cn": "他长得很像他爸爸。",
@@ -6448,7 +6213,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0235",
+    "id": "hsk2_小时",
     "hanzi": "小时",
     "pinyin": "xiǎo shí",
     "pinyinNormalized": "xiaoshi",
@@ -6463,7 +6228,6 @@
         "en": "hour"
       }
     ],
-    "meaning": "n. tiếng đồng hồ, giờ đồng hồ",
     "exampleSentences": [
       {
         "cn": "我学习了两个小时。",
@@ -6475,7 +6239,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0236",
+    "id": "hsk2_笑",
     "hanzi": "笑",
     "pinyin": "xiào",
     "pinyinNormalized": "xiao",
@@ -6489,7 +6253,6 @@
         "en": "to laugh, to smile"
       }
     ],
-    "meaning": "v. cười",
     "exampleSentences": [
       {
         "cn": "她笑得很开心。",
@@ -6501,7 +6264,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0237",
+    "id": "hsk2_新",
     "hanzi": "新",
     "pinyin": "xīn",
     "pinyinNormalized": "xin",
@@ -6515,7 +6278,6 @@
         "en": "new"
       }
     ],
-    "meaning": "adj. mới",
     "exampleSentences": [
       {
         "cn": "这是我的新手机。",
@@ -6527,7 +6289,7 @@
     "wordType": "adj"
   },
   {
-    "id": "hsk2_0238",
+    "id": "hsk2_新闻",
     "hanzi": "新闻",
     "pinyin": "xīn wén",
     "pinyinNormalized": "xinwen",
@@ -6542,7 +6304,6 @@
         "en": "news"
       }
     ],
-    "meaning": "n. tin tức",
     "exampleSentences": [
       {
         "cn": "我看新闻。",
@@ -6554,7 +6315,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0239",
+    "id": "hsk2_新鲜",
     "hanzi": "新鲜",
     "pinyin": "xīn xiān",
     "pinyinNormalized": "xinxian",
@@ -6569,7 +6330,6 @@
         "en": "fresh"
       }
     ],
-    "meaning": "adj. tươi, mới mẻ",
     "exampleSentences": [
       {
         "cn": "这些水果很新鲜。",
@@ -6581,7 +6341,7 @@
     "wordType": "adj"
   },
   {
-    "id": "hsk2_0240",
+    "id": "hsk2_信",
     "hanzi": "信",
     "pinyin": "xìn",
     "pinyinNormalized": "xin",
@@ -6600,7 +6360,6 @@
         "en": "to believe"
       }
     ],
-    "meaning": "n. thư; v. tin tưởng",
     "exampleSentences": [
       {
         "cn": "我给你写了一封信。",
@@ -6617,7 +6376,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0241",
+    "id": "hsk2_兴趣",
     "hanzi": "兴趣",
     "pinyin": "xìng qù",
     "pinyinNormalized": "xingqu",
@@ -6632,7 +6391,6 @@
         "en": "interest"
       }
     ],
-    "meaning": "n. hứng thú, sở thích",
     "exampleSentences": [
       {
         "cn": "我对音乐很感兴趣。",
@@ -6644,7 +6402,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0242",
+    "id": "hsk2_行李箱",
     "hanzi": "行李箱",
     "pinyin": "xíng li xiāng",
     "pinyinNormalized": "xinglixiang",
@@ -6660,7 +6418,6 @@
         "en": "suitcase"
       }
     ],
-    "meaning": "n. vali",
     "exampleSentences": [
       {
         "cn": "我的行李箱在车上。",
@@ -6672,7 +6429,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0243",
+    "id": "hsk2_熊猫",
     "hanzi": "熊猫",
     "pinyin": "xióng māo",
     "pinyinNormalized": "xiongmao",
@@ -6687,7 +6444,6 @@
         "en": "panda"
       }
     ],
-    "meaning": "n. gấu trúc",
     "exampleSentences": [
       {
         "cn": "熊猫很可爱。",
@@ -6699,7 +6455,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0244",
+    "id": "hsk2_需要",
     "hanzi": "需要",
     "pinyin": "xū yào",
     "pinyinNormalized": "xuyao",
@@ -6719,7 +6475,6 @@
         "en": "need"
       }
     ],
-    "meaning": "v. cần, cần thiết; n. nhu cầu",
     "exampleSentences": [
       {
         "cn": "我需要你的帮助。",
@@ -6731,7 +6486,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0245",
+    "id": "hsk2_选择",
     "hanzi": "选择",
     "pinyin": "xuǎn zé",
     "pinyinNormalized": "xuanze",
@@ -6751,7 +6506,6 @@
         "en": "choice"
       }
     ],
-    "meaning": "v. lựa chọn; n. sự lựa chọn",
     "exampleSentences": [
       {
         "cn": "你可以选择这件衣服。",
@@ -6763,7 +6517,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0246",
+    "id": "hsk2_颜色",
     "hanzi": "颜色",
     "pinyin": "yán sè",
     "pinyinNormalized": "yanse",
@@ -6778,7 +6532,6 @@
         "en": "color"
       }
     ],
-    "meaning": "n. màu sắc",
     "exampleSentences": [
       {
         "cn": "你喜欢什么颜色？",
@@ -6790,7 +6543,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0247",
+    "id": "hsk2_眼睛",
     "hanzi": "眼睛",
     "pinyin": "yǎn jing",
     "pinyinNormalized": "yanjing",
@@ -6805,7 +6558,6 @@
         "en": "eye"
       }
     ],
-    "meaning": "n. đôi mắt",
     "exampleSentences": [
       {
         "cn": "她的眼睛很大。",
@@ -6817,7 +6569,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0248",
+    "id": "hsk2_要求",
     "hanzi": "要求",
     "pinyin": "yāo qiú",
     "pinyinNormalized": "yaoqiu",
@@ -6837,7 +6589,6 @@
         "en": "requirement"
       }
     ],
-    "meaning": "v. yêu cầu; n. yêu cầu",
     "exampleSentences": [
       {
         "cn": "老师的要求很高。",
@@ -6849,7 +6600,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0249",
+    "id": "hsk2_爷爷",
     "hanzi": "爷爷",
     "pinyin": "yé ye",
     "pinyinNormalized": "yeye",
@@ -6864,7 +6615,6 @@
         "en": "paternal grandfather"
       }
     ],
-    "meaning": "n. ông nội",
     "exampleSentences": [
       {
         "cn": "爷爷在公园散步。",
@@ -6876,7 +6626,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0250",
+    "id": "hsk2_一定",
     "hanzi": "一定",
     "pinyin": "yī dìng",
     "pinyinNormalized": "yiding",
@@ -6896,7 +6646,6 @@
         "en": "certain"
       }
     ],
-    "meaning": "adv. nhất định; adj. chắc chắn, cố định",
     "exampleSentences": [
       {
         "cn": "我一定会成功的。",
@@ -6908,7 +6657,7 @@
     "wordType": "adv"
   },
   {
-    "id": "hsk2_0251",
+    "id": "hsk2_一共",
     "hanzi": "一共",
     "pinyin": "yī gòng",
     "pinyinNormalized": "yigong",
@@ -6923,7 +6672,6 @@
         "en": "altogether"
       }
     ],
-    "meaning": "adv. tổng cộng",
     "exampleSentences": [
       {
         "cn": "一共多少钱？",
@@ -6935,7 +6683,7 @@
     "wordType": "adv"
   },
   {
-    "id": "hsk2_0252",
+    "id": "hsk2_一起",
     "hanzi": "一起",
     "pinyin": "yī qǐ",
     "pinyinNormalized": "yiqi",
@@ -6950,7 +6698,6 @@
         "en": "together"
       }
     ],
-    "meaning": "adv. cùng nhau",
     "exampleSentences": [
       {
         "cn": "我们一起吃饭吧。",
@@ -6962,7 +6709,7 @@
     "wordType": "adv"
   },
   {
-    "id": "hsk2_0253",
+    "id": "hsk2_一样",
     "hanzi": "一样",
     "pinyin": "yī yàng",
     "pinyinNormalized": "yiyang",
@@ -6977,7 +6724,6 @@
         "en": "the same"
       }
     ],
-    "meaning": "adj. giống nhau",
     "exampleSentences": [
       {
         "cn": "我的想法和你一样。",
@@ -6989,7 +6735,7 @@
     "wordType": "adj"
   },
   {
-    "id": "hsk2_0254",
+    "id": "hsk2_已经",
     "hanzi": "已经",
     "pinyin": "yǐ jīng",
     "pinyinNormalized": "yijing",
@@ -7004,7 +6750,6 @@
         "en": "already"
       }
     ],
-    "meaning": "adv. đã",
     "exampleSentences": [
       {
         "cn": "我已经吃过了。",
@@ -7016,7 +6761,7 @@
     "wordType": "adv"
   },
   {
-    "id": "hsk2_0255",
+    "id": "hsk2_以为",
     "hanzi": "以为",
     "pinyin": "yǐ wéi",
     "pinyinNormalized": "yiwei",
@@ -7031,7 +6776,6 @@
         "en": "to think (wrongly)"
       }
     ],
-    "meaning": "v. tưởng rằng, cứ ngỡ là",
     "exampleSentences": [
       {
         "cn": "我以为他是老师。",
@@ -7043,7 +6787,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0256",
+    "id": "hsk2_意思",
     "hanzi": "意思",
     "pinyin": "yì si",
     "pinyinNormalized": "yisi",
@@ -7063,7 +6807,6 @@
         "en": "interesting/fun"
       }
     ],
-    "meaning": "n. ý nghĩa; n. thú vị",
     "exampleSentences": [
       {
         "cn": "这个词是什么意思？",
@@ -7080,7 +6823,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0257",
+    "id": "hsk2_因为",
     "hanzi": "因为",
     "pinyin": "yīn wèi",
     "pinyinNormalized": "yinwei",
@@ -7095,7 +6838,6 @@
         "en": "because"
       }
     ],
-    "meaning": "conj. bởi vì",
     "exampleSentences": [
       {
         "cn": "因为下雨，所以我不去了。",
@@ -7107,7 +6849,7 @@
     "wordType": "conj"
   },
   {
-    "id": "hsk2_0258",
+    "id": "hsk2_音乐",
     "hanzi": "音乐",
     "pinyin": "yīn yuè",
     "pinyinNormalized": "yinyue",
@@ -7122,7 +6864,6 @@
         "en": "music"
       }
     ],
-    "meaning": "n. âm nhạc",
     "exampleSentences": [
       {
         "cn": "我喜欢听音乐。",
@@ -7134,7 +6875,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0259",
+    "id": "hsk2_银行",
     "hanzi": "银行",
     "pinyin": "yín háng",
     "pinyinNormalized": "yinhang",
@@ -7149,7 +6890,6 @@
         "en": "bank"
       }
     ],
-    "meaning": "n. ngân hàng",
     "exampleSentences": [
       {
         "cn": "我去银行取钱。",
@@ -7161,7 +6901,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0260",
+    "id": "hsk2_应该",
     "hanzi": "应该",
     "pinyin": "yīng gāi",
     "pinyinNormalized": "yinggai",
@@ -7176,7 +6916,6 @@
         "en": "should"
       }
     ],
-    "meaning": "aux. nên",
     "exampleSentences": [
       {
         "cn": "你应该早点睡觉。",
@@ -7188,7 +6927,7 @@
     "wordType": "aux"
   },
   {
-    "id": "hsk2_0261",
+    "id": "hsk2_影响",
     "hanzi": "影响",
     "pinyin": "yǐng xiǎng",
     "pinyinNormalized": "yingxiang",
@@ -7208,7 +6947,6 @@
         "en": "influence"
       }
     ],
-    "meaning": "v. ảnh hưởng; n. sự ảnh hưởng",
     "exampleSentences": [
       {
         "cn": "不要影响别人学习。",
@@ -7220,7 +6958,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0262",
+    "id": "hsk2_用",
     "hanzi": "用",
     "pinyin": "yòng",
     "pinyinNormalized": "yong",
@@ -7234,7 +6972,6 @@
         "en": "to use"
       }
     ],
-    "meaning": "v. dùng, sử dụng",
     "exampleSentences": [
       {
         "cn": "我用电脑工作。",
@@ -7246,7 +6983,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0263",
+    "id": "hsk2_游泳",
     "hanzi": "游泳",
     "pinyin": "yóu yǒng",
     "pinyinNormalized": "youyong",
@@ -7261,7 +6998,6 @@
         "en": "to swim"
       }
     ],
-    "meaning": "v. bơi lội",
     "exampleSentences": [
       {
         "cn": "我每天去游泳。",
@@ -7273,7 +7009,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0264",
+    "id": "hsk2_有名",
     "hanzi": "有名",
     "pinyin": "yǒu míng",
     "pinyinNormalized": "youming",
@@ -7288,7 +7024,6 @@
         "en": "famous"
       }
     ],
-    "meaning": "adj. nổi tiếng",
     "exampleSentences": [
       {
         "cn": "他是一个很有名的人。",
@@ -7300,7 +7035,7 @@
     "wordType": "adj"
   },
   {
-    "id": "hsk2_0265",
+    "id": "hsk2_右边",
     "hanzi": "右边",
     "pinyin": "yòu biān",
     "pinyinNormalized": "youbian",
@@ -7315,7 +7050,6 @@
         "en": "right side"
       }
     ],
-    "meaning": "n. bên phải",
     "exampleSentences": [
       {
         "cn": "书店在银行右边。",
@@ -7327,7 +7061,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0266",
+    "id": "hsk2_鱼",
     "hanzi": "鱼",
     "pinyin": "yú",
     "pinyinNormalized": "yu",
@@ -7341,7 +7075,6 @@
         "en": "fish"
       }
     ],
-    "meaning": "n. cá",
     "exampleSentences": [
       {
         "cn": "我喜欢吃鱼。",
@@ -7353,7 +7086,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0267",
+    "id": "hsk2_元",
     "hanzi": "元",
     "pinyin": "yuán",
     "pinyinNormalized": "yuan",
@@ -7367,7 +7100,6 @@
         "en": "yuan"
       }
     ],
-    "meaning": "n. đồng (đơn vị tiền tệ)",
     "exampleSentences": [
       {
         "cn": "这件衣服五十元。",
@@ -7379,7 +7111,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0268",
+    "id": "hsk2_原来",
     "hanzi": "原来",
     "pinyin": "yuán lái",
     "pinyinNormalized": "yuanlai",
@@ -7399,7 +7131,6 @@
         "en": "original"
       }
     ],
-    "meaning": "adv. hóa ra, vốn dĩ; adj. ban đầu, nguyên bản",
     "exampleSentences": [
       {
         "cn": "原来是你啊！",
@@ -7411,7 +7142,7 @@
     "wordType": "adv"
   },
   {
-    "id": "hsk2_0269",
+    "id": "hsk2_愿意",
     "hanzi": "愿意",
     "pinyin": "yuàn yì",
     "pinyinNormalized": "yuanyi",
@@ -7426,7 +7157,6 @@
         "en": "to be willing"
       }
     ],
-    "meaning": "v. bằng lòng, tình nguyện",
     "exampleSentences": [
       {
         "cn": "你愿意嫁给我吗？",
@@ -7438,7 +7168,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0270",
+    "id": "hsk2_运动",
     "hanzi": "运动",
     "pinyin": "yùn dòng",
     "pinyinNormalized": "yundong",
@@ -7458,7 +7188,6 @@
         "en": "sports, movement"
       }
     ],
-    "meaning": "v. vận động, tập thể dục; n. thể thao, phong trào",
     "exampleSentences": [
       {
         "cn": "他每天都做运动。",
@@ -7475,7 +7204,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0271",
+    "id": "hsk2_站",
     "hanzi": "站",
     "pinyin": "zhàn",
     "pinyinNormalized": "zhan",
@@ -7494,7 +7223,6 @@
         "en": "station, stop"
       }
     ],
-    "meaning": "v. đứng; n. trạm, điểm dừng",
     "exampleSentences": [
       {
         "cn": "请站在那里。",
@@ -7511,7 +7239,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0272",
+    "id": "hsk2_张",
     "hanzi": "张",
     "pinyin": "zhāng",
     "pinyinNormalized": "zhang",
@@ -7530,7 +7258,6 @@
         "en": "to stretch, to spread"
       }
     ],
-    "meaning": "mw. tờ, tấm, chiếc (lượng từ cho vật phẳng); v. giăng, trải, mở ra",
     "exampleSentences": [
       {
         "cn": "桌子上有一张纸。",
@@ -7542,7 +7269,7 @@
     "wordType": "mw"
   },
   {
-    "id": "hsk2_0273",
+    "id": "hsk2_长城",
     "hanzi": "长城",
     "pinyin": "cháng chéng",
     "pinyinNormalized": "changcheng",
@@ -7557,7 +7284,6 @@
         "en": "the Great Wall"
       }
     ],
-    "meaning": "n. Vạn Lý Trường Thành",
     "exampleSentences": [
       {
         "cn": "长城非常壮观。",
@@ -7569,7 +7295,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0274",
+    "id": "hsk2_找",
     "hanzi": "找",
     "pinyin": "zhǎo",
     "pinyinNormalized": "zhao",
@@ -7583,7 +7309,6 @@
         "en": "to look for, to seek"
       }
     ],
-    "meaning": "v. tìm, tìm kiếm",
     "exampleSentences": [
       {
         "cn": "你在找什么？",
@@ -7595,7 +7320,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0275",
+    "id": "hsk2_着",
     "hanzi": "着",
     "pinyin": "zhe",
     "pinyinNormalized": "zhe",
@@ -7609,7 +7334,6 @@
         "en": "particle indicating continuous state"
       }
     ],
-    "meaning": "aux. (trợ từ biểu thị trạng thái đang tiếp diễn)",
     "exampleSentences": [
       {
         "cn": "门开着。",
@@ -7621,7 +7345,7 @@
     "wordType": "aux"
   },
   {
-    "id": "hsk2_0276",
+    "id": "hsk2_真",
     "hanzi": "真",
     "pinyin": "zhēn",
     "pinyinNormalized": "zhen",
@@ -7640,7 +7364,6 @@
         "en": "true, real"
       }
     ],
-    "meaning": "adv. thật, thật là; adj. thật, chân thực",
     "exampleSentences": [
       {
         "cn": "今天真热啊！",
@@ -7652,7 +7375,7 @@
     "wordType": "adv"
   },
   {
-    "id": "hsk2_0277",
+    "id": "hsk2_正在",
     "hanzi": "正在",
     "pinyin": "zhèng zài",
     "pinyinNormalized": "zhengzai",
@@ -7667,7 +7390,6 @@
         "en": "in the process of, currently"
       }
     ],
-    "meaning": "adv. đang",
     "exampleSentences": [
       {
         "cn": "我正在吃饭。",
@@ -7679,7 +7401,7 @@
     "wordType": "adv"
   },
   {
-    "id": "hsk2_0278",
+    "id": "hsk2_知道",
     "hanzi": "知道",
     "pinyin": "zhī dào",
     "pinyinNormalized": "zhidao",
@@ -7694,7 +7416,6 @@
         "en": "to know"
       }
     ],
-    "meaning": "v. biết",
     "exampleSentences": [
       {
         "cn": "我不知道这件事。",
@@ -7706,7 +7427,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0279",
+    "id": "hsk2_中间",
     "hanzi": "中间",
     "pinyin": "zhōng jiān",
     "pinyinNormalized": "zhongjian",
@@ -7721,7 +7442,6 @@
         "en": "middle, center, between"
       }
     ],
-    "meaning": "n. ở giữa, trung tâm",
     "exampleSentences": [
       {
         "cn": "他在两个学生中间。",
@@ -7733,7 +7453,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0280",
+    "id": "hsk2_中文",
     "hanzi": "中文",
     "pinyin": "zhōng wén",
     "pinyinNormalized": "zhongwen",
@@ -7748,7 +7468,6 @@
         "en": "Chinese language"
       }
     ],
-    "meaning": "n. tiếng Trung, văn học Trung Quốc",
     "exampleSentences": [
       {
         "cn": "我会说中文。",
@@ -7760,7 +7479,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0281",
+    "id": "hsk2_重要",
     "hanzi": "重要",
     "pinyin": "zhòng yào",
     "pinyinNormalized": "zhongyao",
@@ -7775,7 +7494,6 @@
         "en": "important"
       }
     ],
-    "meaning": "adj. quan trọng",
     "exampleSentences": [
       {
         "cn": "这是一个重要的会议。",
@@ -7787,7 +7505,7 @@
     "wordType": "adj"
   },
   {
-    "id": "hsk2_0282",
+    "id": "hsk2_周末",
     "hanzi": "周末",
     "pinyin": "zhōu mò",
     "pinyinNormalized": "zhoumo",
@@ -7802,7 +7520,6 @@
         "en": "weekend"
       }
     ],
-    "meaning": "n. cuối tuần",
     "exampleSentences": [
       {
         "cn": "你周末要做什么？",
@@ -7814,7 +7531,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0283",
+    "id": "hsk2_注意",
     "hanzi": "注意",
     "pinyin": "zhù yì",
     "pinyinNormalized": "zhuyi",
@@ -7829,7 +7546,6 @@
         "en": "to pay attention to, to notice"
       }
     ],
-    "meaning": "v. chú ý",
     "exampleSentences": [
       {
         "cn": "请注意安全。",
@@ -7841,7 +7557,7 @@
     "wordType": "v"
   },
   {
-    "id": "hsk2_0284",
+    "id": "hsk2_自己",
     "hanzi": "自己",
     "pinyin": "zì jǐ",
     "pinyinNormalized": "ziji",
@@ -7856,7 +7572,6 @@
         "en": "oneself"
       }
     ],
-    "meaning": "pron. tự mình, bản thân",
     "exampleSentences": [
       {
         "cn": "我要靠自己努力。",
@@ -7868,7 +7583,7 @@
     "wordType": "pron"
   },
   {
-    "id": "hsk2_0285",
+    "id": "hsk2_总是",
     "hanzi": "总是",
     "pinyin": "zǒng shì",
     "pinyinNormalized": "zongshi",
@@ -7883,7 +7598,6 @@
         "en": "always"
       }
     ],
-    "meaning": "adv. luôn luôn",
     "exampleSentences": [
       {
         "cn": "他总是迟到。",
@@ -7895,7 +7609,7 @@
     "wordType": "adv"
   },
   {
-    "id": "hsk2_0286",
+    "id": "hsk2_嘴",
     "hanzi": "嘴",
     "pinyin": "zuǐ",
     "pinyinNormalized": "zui",
@@ -7909,7 +7623,6 @@
         "en": "mouth"
       }
     ],
-    "meaning": "n. miệng",
     "exampleSentences": [
       {
         "cn": "他的嘴很大。",
@@ -7921,7 +7634,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0287",
+    "id": "hsk2_最",
     "hanzi": "最",
     "pinyin": "zuì",
     "pinyinNormalized": "zui",
@@ -7935,7 +7648,6 @@
         "en": "most, -est"
       }
     ],
-    "meaning": "adv. nhất",
     "exampleSentences": [
       {
         "cn": "我最喜欢喝茶。",
@@ -7947,7 +7659,7 @@
     "wordType": "adv"
   },
   {
-    "id": "hsk2_0288",
+    "id": "hsk2_最后",
     "hanzi": "最后",
     "pinyin": "zuì hòu",
     "pinyinNormalized": "zuihou",
@@ -7967,7 +7679,6 @@
         "en": "the end, last time"
       }
     ],
-    "meaning": "adj. cuối cùng; n. cuối cùng, kết thúc",
     "exampleSentences": [
       {
         "cn": "这是最后一次机会。",
@@ -7979,7 +7690,7 @@
     "wordType": "adj"
   },
   {
-    "id": "hsk2_0289",
+    "id": "hsk2_最近",
     "hanzi": "最近",
     "pinyin": "zuì jìn",
     "pinyinNormalized": "zuijin",
@@ -7999,7 +7710,6 @@
         "en": "recently"
       }
     ],
-    "meaning": "n. dạo này, gần đây; adv. gần đây",
     "exampleSentences": [
       {
         "cn": "你最近怎么样？",
@@ -8011,7 +7721,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0290",
+    "id": "hsk2_左边",
     "hanzi": "左边",
     "pinyin": "zuǒ biān",
     "pinyinNormalized": "zuobian",
@@ -8026,7 +7736,6 @@
         "en": "left side"
       }
     ],
-    "meaning": "n. bên trái",
     "exampleSentences": [
       {
         "cn": "书店在学校左边。",
@@ -8038,7 +7747,7 @@
     "wordType": "n"
   },
   {
-    "id": "hsk2_0291",
+    "id": "hsk2_作业",
     "hanzi": "作业",
     "pinyin": "zuò yè",
     "pinyinNormalized": "zuoye",
@@ -8053,7 +7762,6 @@
         "en": "homework, assignment"
       }
     ],
-    "meaning": "n. bài tập, bài tập về nhà",
     "exampleSentences": [
       {
         "cn": "我还没做完作业。",
