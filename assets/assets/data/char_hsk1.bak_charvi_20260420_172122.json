@@ -195,7 +195,7 @@
     "pinyin": "qì",
     "pinyinNormalized": "qi",
     "definition": null,
-    "definitionVi": "khí, không khí"
+    "definitionVi": "khí không khí"
   },
   {
     "char": "菜",
@@ -218,7 +218,7 @@
     "pinyin": "cài",
     "pinyinNormalized": "cai",
     "definition": null,
-    "definitionVi": "món ăn, rau"
+    "definitionVi": "món ăn rau"
   },
   {
     "char": "茶",
@@ -239,7 +239,7 @@
     "pinyin": "chá",
     "pinyinNormalized": "cha",
     "definition": null,
-    "definitionVi": "trà, chè"
+    "definitionVi": "trà chè"
   },
   {
     "char": "吃",
@@ -274,7 +274,7 @@
     "pinyin": "chū",
     "pinyinNormalized": "chu",
     "definition": null,
-    "definitionVi": "ra, đi ra"
+    "definitionVi": "ra đi ra"
   },
   {
     "char": "租",
@@ -381,7 +381,7 @@
     "pinyin": "dà",
     "pinyinNormalized": "da",
     "definition": null,
-    "definitionVi": "lớn, to"
+    "definitionVi": "lớn to"
   },
   {
     "char": "的",
@@ -422,7 +422,7 @@
     "pinyin": "diǎn",
     "pinyinNormalized": "dian",
     "definition": null,
-    "definitionVi": "giờ, điểm"
+    "definitionVi": "giờ điểm"
   },
   {
     "char": "脑",
@@ -464,7 +464,7 @@
     "pinyin": "shì",
     "pinyinNormalized": "shi",
     "definition": null,
-    "definitionVi": "nhìn, xem"
+    "definitionVi": "nhìn xem"
   },
   {
     "char": "影",
@@ -491,7 +491,7 @@
     "pinyin": "yǐng",
     "pinyinNormalized": "ying",
     "definition": null,
-    "definitionVi": "bóng, hình"
+    "definitionVi": "bóng hình"
   },
   {
     "char": "东",
@@ -690,7 +690,7 @@
     "pinyin": "fàn",
     "pinyinNormalized": "fan",
     "definition": null,
-    "definitionVi": "bữa ăn, cơm"
+    "definitionVi": "bữa ăn cơm"
   },
   {
     "char": "店",
@@ -759,7 +759,7 @@
     "pinyin": "fēn",
     "pinyinNormalized": "fen",
     "definition": null,
-    "definitionVi": "phút, điểm"
+    "definitionVi": "phút điểm"
   },
   {
     "char": "钟",
@@ -835,7 +835,7 @@
     "pinyin": "gè",
     "pinyinNormalized": "ge",
     "definition": null,
-    "definitionVi": "cái, con, chiếc"
+    "definitionVi": "cái con chiếc"
   },
   {
     "char": "工",

@@ -981,7 +981,7 @@
     "pinyin": "chà",
     "pinyinNormalized": "cha",
     "definition": null,
-    "definitionVi": "kém, thiếu"
+    "definitionVi": "kém, thiếu, chênh lệch"
   },
   {
     "char": "多",
@@ -3543,7 +3543,7 @@
     "pinyin": "hū",
     "pinyinNormalized": "hu",
     "definition": null,
-    "definitionVi": "trợ từ nghi vấn"
+    "definitionVi": "Trợ từ nghi vấn"
   },
   {
     "char": "计",
@@ -4351,7 +4351,7 @@
     "pinyin": "tǒng",
     "pinyinNormalized": "tong",
     "definition": null,
-    "definitionVi": "Cái xô, thùng"
+    "definitionVi": "cái xô, thùng"
   },
   {
     "char": "及",
@@ -5768,7 +5768,7 @@
     "pinyin": "zhe",
     "pinyinNormalized": "zhe",
     "definition": null,
-    "definitionVi": "trợ từ tiếp diễn"
+    "definitionVi": "(trợ từ biểu thị trạng thái đang tiếp diễn)"
   },
   {
     "char": "态",
@@ -5788,7 +5788,7 @@
     "pinyin": "tài",
     "pinyinNormalized": "tai",
     "definition": null,
-    "definitionVi": "trạng thái"
+    "definitionVi": "manner"
   },
   {
     "char": "度",
@@ -5809,7 +5809,7 @@
     "pinyin": "dù",
     "pinyinNormalized": "du",
     "definition": null,
-    "definitionVi": "độ"
+    "definitionVi": "degree"
   },
   {
     "char": "讨",
@@ -5826,7 +5826,7 @@
     "pinyin": "tǎo",
     "pinyinNormalized": "tao",
     "definition": null,
-    "definitionVi": "mặc cả"
+    "definitionVi": "to haggle"
   },
   {
     "char": "论",
@@ -5844,7 +5844,7 @@
     "pinyin": "lùn",
     "pinyinNormalized": "lun",
     "definition": null,
-    "definitionVi": "bàn luận"
+    "definitionVi": "debate"
   },
   {
     "char": "厌",
@@ -5862,7 +5862,7 @@
     "pinyin": "yàn",
     "pinyinNormalized": "yan",
     "definition": null,
-    "definitionVi": "ghét"
+    "definitionVi": "to dislike"
   },
   {
     "char": "提",
@@ -5886,7 +5886,7 @@
     "pinyin": "tí",
     "pinyinNormalized": "ti",
     "definition": null,
-    "definitionVi": "cầm"
+    "definitionVi": "to hold in the hand"
   },
   {
     "char": "供",
@@ -5906,7 +5906,7 @@
     "pinyin": "gōng",
     "pinyinNormalized": "gong",
     "definition": null,
-    "definitionVi": "cung cấp"
+    "definitionVi": "to supply"
   },
   {
     "char": "前",
@@ -5927,7 +5927,7 @@
     "pinyin": "qián",
     "pinyinNormalized": "qian",
     "definition": null,
-    "definitionVi": "trước"
+    "definitionVi": "in front"
   },
   {
     "char": "问",
@@ -5945,7 +5945,7 @@
     "pinyin": "wèn",
     "pinyinNormalized": "wen",
     "definition": null,
-    "definitionVi": "hỏi"
+    "definitionVi": "to ask about"
   },
   {
     "char": "体",
@@ -5964,7 +5964,7 @@
     "pinyin": "tǐ",
     "pinyinNormalized": "ti",
     "definition": null,
-    "definitionVi": "cơ thể"
+    "definitionVi": "body"
   },
   {
     "char": "育",
@@ -5984,7 +5984,7 @@
     "pinyin": "yù",
     "pinyinNormalized": "yu",
     "definition": null,
-    "definitionVi": "nuôi dưỡng"
+    "definitionVi": "to produce"
   },
   {
     "char": "知",
@@ -6004,7 +6004,7 @@
     "pinyin": "zhī",
     "pinyinNormalized": "zhi",
     "definition": null,
-    "definitionVi": "biết"
+    "definitionVi": "to know"
   },
   {
     "char": "头",
@@ -6021,7 +6021,7 @@
     "pinyin": "tóu",
     "pinyinNormalized": "tou",
     "definition": null,
-    "definitionVi": "đầu"
+    "definitionVi": "head"
   },
   {
     "char": "突",
@@ -6042,7 +6042,7 @@
     "pinyin": "tū",
     "pinyinNormalized": "tu",
     "definition": null,
-    "definitionVi": "đột ngột"
+    "definitionVi": "sudden"
   },
   {
     "char": "站",
@@ -6079,7 +6079,7 @@
     "pinyin": "wèi",
     "pinyinNormalized": "wei",
     "definition": null,
-    "definitionVi": "bảo vệ"
+    "definitionVi": "to guard"
   },
   {
     "char": "间",
@@ -6098,7 +6098,7 @@
     "pinyin": "jiān",
     "pinyinNormalized": "jian",
     "definition": null,
-    "definitionVi": "giữa"
+    "definitionVi": "between"
   },
   {
     "char": "温",

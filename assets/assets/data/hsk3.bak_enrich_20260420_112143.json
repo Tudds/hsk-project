@@ -6330,11 +6330,7 @@
       }
     ],
     "level": 3,
-    "wordType": "v",
-    "tags": [
-      "cảm xúc",
-      "giao tiếp"
-    ]
+    "wordType": "v"
   },
   {
     "id": "hsk3_同时",
@@ -6365,11 +6361,7 @@
       }
     ],
     "level": 3,
-    "wordType": "conj",
-    "tags": [
-      "thời gian",
-      "hành động"
-    ]
+    "wordType": "conj"
   },
   {
     "id": "hsk3_头发",
@@ -6395,10 +6387,7 @@
       }
     ],
     "level": 3,
-    "wordType": "n",
-    "tags": [
-      "sức khỏe"
-    ]
+    "wordType": "n"
   },
   {
     "id": "hsk3_突然",
@@ -6429,11 +6418,7 @@
       }
     ],
     "level": 3,
-    "wordType": "adj",
-    "tags": [
-      "thời gian",
-      "cảm xúc"
-    ]
+    "wordType": "adj"
   },
   {
     "id": "hsk3_网站",
@@ -6459,11 +6444,7 @@
       }
     ],
     "level": 3,
-    "wordType": "n",
-    "tags": [
-      "công nghệ",
-      "giao tiếp"
-    ]
+    "wordType": "n"
   },
   {
     "id": "hsk3_卫生间",
@@ -6490,10 +6471,7 @@
       }
     ],
     "level": 3,
-    "wordType": "n",
-    "tags": [
-      "địa điểm"
-    ]
+    "wordType": "n"
   },
   {
     "id": "hsk3_温度",
@@ -6519,11 +6497,7 @@
       }
     ],
     "level": 3,
-    "wordType": "n",
-    "tags": [
-      "thời tiết",
-      "sức khỏe"
-    ]
+    "wordType": "n"
   },
   {
     "id": "hsk3_文化",
@@ -6549,11 +6523,7 @@
       }
     ],
     "level": 3,
-    "wordType": "n",
-    "tags": [
-      "văn hóa",
-      "giáo dục"
-    ]
+    "wordType": "n"
   },
   {
     "id": "hsk3_文章",
@@ -6579,11 +6549,7 @@
       }
     ],
     "level": 3,
-    "wordType": "n",
-    "tags": [
-      "giáo dục",
-      "giao tiếp"
-    ]
+    "wordType": "n"
   },
   {
     "id": "hsk3_污染",
@@ -6614,11 +6580,7 @@
       }
     ],
     "level": 3,
-    "wordType": "v",
-    "tags": [
-      "thiên nhiên",
-      "sức khỏe"
-    ]
+    "wordType": "v"
   },
   {
     "id": "hsk3_无聊",
@@ -6644,11 +6606,7 @@
       }
     ],
     "level": 3,
-    "wordType": "adj",
-    "tags": [
-      "cảm xúc",
-      "sở thích"
-    ]
+    "wordType": "adj"
   },
   {
     "id": "hsk3_无论",
@@ -6674,11 +6632,7 @@
       }
     ],
     "level": 3,
-    "wordType": "conj",
-    "tags": [
-      "giao tiếp",
-      "hành động"
-    ]
+    "wordType": "conj"
   },
   {
     "id": "hsk3_西红柿",
@@ -6705,11 +6659,7 @@
       }
     ],
     "level": 3,
-    "wordType": "n",
-    "tags": [
-      "ẩm thực",
-      "thiên nhiên"
-    ]
+    "wordType": "n"
   },
   {
     "id": "hsk3_习惯",
@@ -6740,11 +6690,7 @@
       }
     ],
     "level": 3,
-    "wordType": "v",
-    "tags": [
-      "tính cách",
-      "hành động"
-    ]
+    "wordType": "v"
   },
   {
     "id": "hsk3_下载",
@@ -6770,11 +6716,7 @@
       }
     ],
     "level": 3,
-    "wordType": "v",
-    "tags": [
-      "công nghệ",
-      "hành động"
-    ]
+    "wordType": "v"
   },
   {
     "id": "hsk3_现代",
@@ -6805,11 +6747,7 @@
       }
     ],
     "level": 3,
-    "wordType": "n",
-    "tags": [
-      "thời gian",
-      "văn hóa"
-    ]
+    "wordType": "n"
   },
   {
     "id": "hsk3_相同",
@@ -6835,11 +6773,7 @@
       }
     ],
     "level": 3,
-    "wordType": "adj",
-    "tags": [
-      "hành động",
-      "giao tiếp"
-    ]
+    "wordType": "adj"
   },
   {
     "id": "hsk3_相信",
@@ -6865,11 +6799,7 @@
       }
     ],
     "level": 3,
-    "wordType": "v",
-    "tags": [
-      "cảm xúc",
-      "giao tiếp"
-    ]
+    "wordType": "v"
   },
   {
     "id": "hsk3_详细",
@@ -6895,11 +6825,7 @@
       }
     ],
     "level": 3,
-    "wordType": "adj",
-    "tags": [
-      "giao tiếp",
-      "công việc"
-    ]
+    "wordType": "adj"
   },
   {
     "id": "hsk3_消息",
@@ -6925,11 +6851,7 @@
       }
     ],
     "level": 3,
-    "wordType": "n",
-    "tags": [
-      "giao tiếp",
-      "công nghệ"
-    ]
+    "wordType": "n"
   },
   {
     "id": "hsk3_小吃",
@@ -6955,11 +6877,7 @@
       }
     ],
     "level": 3,
-    "wordType": "n",
-    "tags": [
-      "ẩm thực",
-      "du lịch"
-    ]
+    "wordType": "n"
   },
   {
     "id": "hsk3_效果",
@@ -6985,11 +6903,7 @@
       }
     ],
     "level": 3,
-    "wordType": "n",
-    "tags": [
-      "công việc",
-      "học tập"
-    ]
+    "wordType": "n"
   },
   {
     "id": "hsk3_心情",
@@ -7015,11 +6929,7 @@
       }
     ],
     "level": 3,
-    "wordType": "n",
-    "tags": [
-      "cảm xúc",
-      "sức khỏe"
-    ]
+    "wordType": "n"
   },
   {
     "id": "hsk3_辛苦",
@@ -7050,11 +6960,7 @@
       }
     ],
     "level": 3,
-    "wordType": "adj",
-    "tags": [
-      "công việc",
-      "cảm xúc"
-    ]
+    "wordType": "adj"
   },
   {
     "id": "hsk3_行为",

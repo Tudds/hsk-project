@@ -69,9 +69,6 @@
     "relatedGrammar": [
       "g_de_attr",
       "g_bi"
-    ],
-    "sentenceRefs": [
-      "conv_school_01#L1"
     ]
   },
   {
@@ -380,9 +377,6 @@
       "g_mei_le",
       "g_guo",
       "g_zai_V"
-    ],
-    "sentenceRefs": [
-      "conv_complaint_01#L2"
     ]
   },
   {
@@ -599,8 +593,7 @@
     "relatedGrammar": [
       "g_cai",
       "g_ruguo"
-    ],
-    "sentenceRefs": []
+    ]
   },
   {
     "id": "g_cai",
@@ -752,9 +745,6 @@
     "relatedGrammar": [
       "g_ruguo",
       "g_chu_le"
-    ],
-    "sentenceRefs": [
-      "conv_workplace_01#L1"
     ]
   },
   {
@@ -836,8 +826,7 @@
       "g_yinwei_suoyi",
       "g_jiu",
       "g_cai"
-    ],
-    "sentenceRefs": []
+    ]
   },
   {
     "id": "g_huozhe",
@@ -1385,8 +1374,7 @@
     ],
     "relatedGrammar": [
       "g_huozhe"
-    ],
-    "sentenceRefs": []
+    ]
   },
   {
     "id": "g_zhi",
@@ -1774,8 +1762,7 @@
       "g_wh_question",
       "g_shenme",
       "g_shi_de"
-    ],
-    "sentenceRefs": []
+    ]
   },
   {
     "id": "g_zěnmeyàng",
@@ -1847,8 +1834,7 @@
       "g_zenme",
       "g_wh_question",
       "g_ne"
-    ],
-    "sentenceRefs": []
+    ]
   },
   {
     "id": "g_youdianr",
@@ -1928,8 +1914,7 @@
       "g_yidianr",
       "g_tai_le",
       "g_bi"
-    ],
-    "sentenceRefs": []
+    ]
   },
   {
     "id": "g_yixia",
@@ -2001,8 +1986,7 @@
       "g_yidianr",
       "g_zhe",
       "g_le1"
-    ],
-    "sentenceRefs": []
+    ]
   },
   {
     "id": "g_ránhòu",
@@ -2076,9 +2060,6 @@
       "g_xian_ránhòu",
       "g_jiu",
       "g_le1"
-    ],
-    "sentenceRefs": [
-      "conv_daily_01#L2"
     ]
   },
   {
@@ -2149,8 +2130,7 @@
       "g_ránhòu",
       "g_cai",
       "g_jiu"
-    ],
-    "sentenceRefs": []
+    ]
   },
   {
     "id": "g_zai_repeat",
@@ -2222,8 +2202,7 @@
       "g_yixia",
       "g_guo",
       "g_le1"
-    ],
-    "sentenceRefs": []
+    ]
   },
   {
     "id": "g_hai_yao",
@@ -2303,8 +2282,7 @@
       "g_zai_V",
       "g_zhe",
       "g_zai_repeat"
-    ],
-    "sentenceRefs": []
+    ]
   },
   {
     "id": "g_le_duration",
@@ -2388,9 +2366,6 @@
       "g_le1",
       "g_le2",
       "g_yijing_le"
-    ],
-    "sentenceRefs": [
-      "conv_school_01#L1"
     ]
   }
 ]
