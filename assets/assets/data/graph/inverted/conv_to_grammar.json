@@ -1,0 +1,158 @@
+{
+  "conv_greeting_01": [
+    "g_shi",
+    "g_wh_question"
+  ],
+  "conv_greeting_02": [
+    "g_ma",
+    "g_numbers",
+    "g_shi"
+  ],
+  "conv_greeting_03": [
+    "g_shi",
+    "g_you",
+    "g_zai"
+  ],
+  "conv_shopping_01": [
+    "g_ma",
+    "g_tai_le",
+    "g_yidianr"
+  ],
+  "conv_shopping_02": [
+    "g_de_attr",
+    "g_ma",
+    "g_you"
+  ],
+  "conv_restaurant_01": [
+    "g_he_conjunction",
+    "g_numbers",
+    "g_yao"
+  ],
+  "conv_restaurant_02": [
+    "g_de_attr",
+    "g_neg_bu",
+    "g_youdianr"
+  ],
+  "conv_transport_01": [
+    "g_jiu",
+    "g_neg_bu",
+    "g_zenme"
+  ],
+  "conv_transport_02": [
+    "g_de_attr",
+    "g_haishi",
+    "g_yao"
+  ],
+  "conv_daily_01": [
+    "g_numbers",
+    "g_ránhòu",
+    "g_time_word"
+  ],
+  "conv_daily_02": [
+    "g_hui_future",
+    "g_say_transfer",
+    "g_zěnmeyàng"
+  ],
+  "conv_school_01": [
+    "g_de_comp",
+    "g_jiu",
+    "g_le_duration"
+  ],
+  "conv_school_02": [
+    "g_le2",
+    "g_shi",
+    "g_zenme"
+  ],
+  "conv_travel_01": [
+    "g_le1",
+    "g_numbers",
+    "g_zai"
+  ],
+  "conv_travel_02": [
+    "g_bie_negation",
+    "g_de_comp",
+    "g_tai_le"
+  ],
+  "conv_phone_01": [
+    "g_yixia",
+    "g_zai",
+    "g_zai_repeat"
+  ],
+  "conv_workplace_01": [
+    "g_de_attr",
+    "g_le_duration",
+    "g_yinwei_suoyi"
+  ],
+  "conv_workplace_02": [
+    "g_de_attr",
+    "g_xian_ránhòu",
+    "g_yixia"
+  ],
+  "conv_daily_03": [
+    "g_le2",
+    "g_youdianr",
+    "g_zenme"
+  ],
+  "conv_greeting_04": [
+    "g_bie_negation",
+    "g_hai_yao",
+    "g_le2"
+  ],
+  "conv_shopping_03": [
+    "g_hai_yao",
+    "g_numbers",
+    "g_zai"
+  ],
+  "conv_workplace_04": [
+    "g4_biran",
+    "g4_fen",
+    "g4_guanyu",
+    "g_ruguo"
+  ],
+  "conv_health_01": [
+    "g4_keneng",
+    "g4_ruguo_maning",
+    "g4_yi_lai",
+    "g_yinggai"
+  ],
+  "conv_education_01": [
+    "g4_duiyu",
+    "g4_guanyu",
+    "g4_wulun",
+    "g_haishi"
+  ],
+  "conv_travel_03": [
+    "g4_fen",
+    "g_haishi",
+    "g_numbers",
+    "g_ruguo"
+  ],
+  "conv_social_hsk4_01": [
+    "g4_duiyu",
+    "g4_yiran",
+    "g4_youqi",
+    "g4_zhaoji",
+    "g_zhiyao_jiu"
+  ],
+  "conv_complaint_01": [
+    "g4_biran",
+    "g4_nandao",
+    "g_bei",
+    "g_yijing_le"
+  ],
+  "conv_environment_01": [
+    "g4_duiyu",
+    "g4_lai_shuo",
+    "g4_shenzhi",
+    "g4_suowei",
+    "g4_wulun",
+    "g_zhiyao_jiu"
+  ],
+  "conv_negotiation_01": [
+    "g4_biran",
+    "g4_jiyu",
+    "g4_zhi_yu",
+    "g_numbers",
+    "g_ruguo"
+  ]
+}
