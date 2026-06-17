@@ -18,7 +18,7 @@
 # Cho phép SharedArrayBuffer (Cần cho CanvasKit/Wasm mượt hơn)
 /*
   Cross-Origin-Opener-Policy: same-origin
-  Cross-Origin-Embedder-Policy: require-corp
+  Cross-Origin-Embedder-Policy: credentialless
   X-Content-Type-Options: nosniff
   X-Frame-Options: SAMEORIGIN
 
